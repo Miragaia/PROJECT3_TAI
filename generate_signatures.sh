@@ -2,10 +2,12 @@
 
 mkdir -p database
 
-for wavfile in wav_sounds/*.wav; do
+directory="test_files"
+
+for wavfile in "$directory"/*.wav; do
     filename=$(basename "$wavfile" .wav)
     echo "Processing $filename.wav ..."
-    python3 get_max_freqs.py "$wavfile" "database/$filename.freqs"
+    python3 get_max_freqs.py "$wavfile" "queries/$filename.freqs"
 done
 
 echo "All files processed."
