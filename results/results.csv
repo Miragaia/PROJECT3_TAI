@@ -1,49 +1,49 @@
 music query,noise type,noise intensity,result,NCD
-query-travis_brown_intensity_0.15.freqs,brown,unknown,Travis Scott - NO BYSTANDERS (Audio).freqs,0.971829
-query-travis_pink_intensity_0.05.freqs,pink,unknown,Travis Scott - NO BYSTANDERS (Audio).freqs,0.971829
-query-imagineDragons_white_intensity_0.15.freqs,white,unknown,Imagine Dragons - Bones (Official Music Video).freqs,0.983309
-query-avicii_white_intensity_0.2.freqs,white,unknown,Avicii - Wake Me Up (Official Video).freqs,0.992732
-query-travis_brown_intensity_0.1.freqs,brown,unknown,Travis Scott - NO BYSTANDERS (Audio).freqs,0.971829
-query-coldplay_white_intensity_0.15.freqs,white,unknown,Coldplay - Viva La Vida (Official Video).freqs,0.982726
-query-imagineDragons_white_intensity_0.05.freqs,white,unknown,Imagine Dragons - Bones (Official Music Video).freqs,0.983197
-query-avicii_pink_intensity_0.2.freqs,pink,unknown,Avicii - Wake Me Up (Official Video).freqs,0.992732
-query-avicii_white_intensity_0.05.freqs,white,unknown,Avicii - Wake Me Up (Official Video).freqs,0.992732
-query-avicii_white_intensity_0.1.freqs,white,unknown,Avicii - Wake Me Up (Official Video).freqs,0.992732
-query-coldplay_brown_intensity_0.05.freqs,brown,unknown,Coldplay - Viva La Vida (Official Video).freqs,0.982726
-query-avicii_brown_intensity_0.2.freqs,brown,unknown,Avicii - Wake Me Up (Official Video).freqs,0.992732
-query-imagineDragons_pink_intensity_0.2.freqs,pink,unknown,Imagine Dragons - Bones (Official Music Video).freqs,0.983197
-query-imagineDragons_brown_intensity_0.2.freqs,brown,unknown,Imagine Dragons - Bones (Official Music Video).freqs,0.983197
-query-travis_brown_intensity_0.05.freqs,brown,unknown,Travis Scott - NO BYSTANDERS (Audio).freqs,0.971727
-query-imagineDragons_pink_intensity_0.05.freqs,pink,unknown,Imagine Dragons - Bones (Official Music Video).freqs,0.983197
-query-imagineDragons_white_intensity_0.1.freqs,white,unknown,Imagine Dragons - Bones (Official Music Video).freqs,0.983197
-query-coldplay_white_intensity_0.05.freqs,white,unknown,Coldplay - Viva La Vida (Official Video).freqs,0.982726
-query-imagineDragons_pink_intensity_0.15.freqs,pink,unknown,Imagine Dragons - Bones (Official Music Video).freqs,0.983309
-query-avicii_pink_intensity_0.15.freqs,pink,unknown,Avicii - Wake Me Up (Official Video).freqs,0.992732
-query-travis_pink_intensity_0.15.freqs,pink,unknown,Travis Scott - NO BYSTANDERS (Audio).freqs,0.971829
-query-imagineDragons_pink_intensity_0.1.freqs,pink,unknown,Imagine Dragons - Bones (Official Music Video).freqs,0.983197
-query-imagineDragons_brown_intensity_0.05.freqs,brown,unknown,Imagine Dragons - Bones (Official Music Video).freqs,0.983309
-query-travis_white_intensity_0.05.freqs,white,unknown,Travis Scott - NO BYSTANDERS (Audio).freqs,0.971829
-query-coldplay_pink_intensity_0.05.freqs,pink,unknown,Coldplay - Viva La Vida (Official Video).freqs,0.982726
-query-imagineDragons_brown_intensity_0.15.freqs,brown,unknown,Imagine Dragons - Bones (Official Music Video).freqs,0.983309
-query-imagineDragons_white_intensity_0.2.freqs,white,unknown,Imagine Dragons - Bones (Official Music Video).freqs,0.983197
-query-avicii_white_intensity_0.15.freqs,white,unknown,Avicii - Wake Me Up (Official Video).freqs,0.992732
-query-coldplay_pink_intensity_0.1.freqs,pink,unknown,Coldplay - Viva La Vida (Official Video).freqs,0.982726
-query-avicii_brown_intensity_0.05.freqs,brown,unknown,Avicii - Wake Me Up (Official Video).freqs,0.992732
-query-coldplay_pink_intensity_0.15.freqs,pink,unknown,Coldplay - Viva La Vida (Official Video).freqs,0.982726
-query-travis_pink_intensity_0.2.freqs,pink,unknown,Travis Scott - NO BYSTANDERS (Audio).freqs,0.971727
-query-travis_white_intensity_0.2.freqs,white,unknown,Travis Scott - NO BYSTANDERS (Audio).freqs,0.971829
-query-coldplay_brown_intensity_0.15.freqs,brown,unknown,Coldplay - Viva La Vida (Official Video).freqs,0.982726
-query-avicii_pink_intensity_0.05.freqs,pink,unknown,Avicii - Wake Me Up (Official Video).freqs,0.992732
-query-travis_brown_intensity_0.2.freqs,brown,unknown,Travis Scott - NO BYSTANDERS (Audio).freqs,0.971829
-query-coldplay_brown_intensity_0.1.freqs,brown,unknown,Coldplay - Viva La Vida (Official Video).freqs,0.982726
-query-imagineDragons_brown_intensity_0.1.freqs,brown,unknown,Imagine Dragons - Bones (Official Music Video).freqs,0.983309
-query-avicii_brown_intensity_0.1.freqs,brown,unknown,Avicii - Wake Me Up (Official Video).freqs,0.992732
-query-travis_pink_intensity_0.1.freqs,pink,unknown,Travis Scott - NO BYSTANDERS (Audio).freqs,0.971829
-query-coldplay_brown_intensity_0.2.freqs,brown,unknown,Coldplay - Viva La Vida (Official Video).freqs,0.982726
-query-avicii_brown_intensity_0.15.freqs,brown,unknown,Avicii - Wake Me Up (Official Video).freqs,0.992732
-query-coldplay_pink_intensity_0.2.freqs,pink,unknown,Coldplay - Viva La Vida (Official Video).freqs,0.982726
-query-travis_white_intensity_0.1.freqs,white,unknown,Travis Scott - NO BYSTANDERS (Audio).freqs,0.971727
-query-coldplay_white_intensity_0.1.freqs,white,unknown,Coldplay - Viva La Vida (Official Video).freqs,0.982726
-query-coldplay_white_intensity_0.2.freqs,white,unknown,Coldplay - Viva La Vida (Official Video).freqs,0.982726
-query-avicii_pink_intensity_0.1.freqs,pink,unknown,Avicii - Wake Me Up (Official Video).freqs,0.992732
-query-travis_white_intensity_0.15.freqs,white,unknown,Travis Scott - NO BYSTANDERS (Audio).freqs,0.971829
+query-travis_brown_intensity_0.15.freqs,brown,0.15.freqs,Travis Scott - NO BYSTANDERS (Audio).freqs,0.96578
+query-travis_pink_intensity_0.05.freqs,pink,0.05.freqs,Travis Scott - NO BYSTANDERS (Audio).freqs,0.96578
+query-imagineDragons_white_intensity_0.15.freqs,white,0.15.freqs,Imagine Dragons - Bones (Official Music Video).freqs,0.970847
+query-avicii_white_intensity_0.2.freqs,white,0.2.freqs,Avicii - Wake Me Up (Official Video).freqs,0.982127
+query-travis_brown_intensity_0.1.freqs,brown,0.1.freqs,Travis Scott - NO BYSTANDERS (Audio).freqs,0.96578
+query-coldplay_white_intensity_0.15.freqs,white,0.15.freqs,Coldplay - Viva La Vida (Official Video).freqs,0.973401
+query-imagineDragons_white_intensity_0.05.freqs,white,0.05.freqs,Imagine Dragons - Bones (Official Music Video).freqs,0.971374
+query-avicii_pink_intensity_0.2.freqs,pink,0.2.freqs,Avicii - Wake Me Up (Official Video).freqs,0.98222
+query-avicii_white_intensity_0.05.freqs,white,0.05.freqs,Avicii - Wake Me Up (Official Video).freqs,0.982127
+query-avicii_white_intensity_0.1.freqs,white,0.1.freqs,Avicii - Wake Me Up (Official Video).freqs,0.982127
+query-coldplay_brown_intensity_0.05.freqs,brown,0.05.freqs,Coldplay - Viva La Vida (Official Video).freqs,0.973401
+query-avicii_brown_intensity_0.2.freqs,brown,0.2.freqs,Avicii - Wake Me Up (Official Video).freqs,0.982127
+query-imagineDragons_pink_intensity_0.2.freqs,pink,0.2.freqs,Imagine Dragons - Bones (Official Music Video).freqs,0.971374
+query-imagineDragons_brown_intensity_0.2.freqs,brown,0.2.freqs,Imagine Dragons - Bones (Official Music Video).freqs,0.971374
+query-travis_brown_intensity_0.05.freqs,brown,0.05.freqs,Travis Scott - NO BYSTANDERS (Audio).freqs,0.965732
+query-imagineDragons_pink_intensity_0.05.freqs,pink,0.05.freqs,Imagine Dragons - Bones (Official Music Video).freqs,0.971374
+query-imagineDragons_white_intensity_0.1.freqs,white,0.1.freqs,Imagine Dragons - Bones (Official Music Video).freqs,0.971374
+query-coldplay_white_intensity_0.05.freqs,white,0.05.freqs,Coldplay - Viva La Vida (Official Video).freqs,0.973401
+query-imagineDragons_pink_intensity_0.15.freqs,pink,0.15.freqs,Imagine Dragons - Bones (Official Music Video).freqs,0.970847
+query-avicii_pink_intensity_0.15.freqs,pink,0.15.freqs,Avicii - Wake Me Up (Official Video).freqs,0.982127
+query-travis_pink_intensity_0.15.freqs,pink,0.15.freqs,Travis Scott - NO BYSTANDERS (Audio).freqs,0.96578
+query-imagineDragons_pink_intensity_0.1.freqs,pink,0.1.freqs,Imagine Dragons - Bones (Official Music Video).freqs,0.971374
+query-imagineDragons_brown_intensity_0.05.freqs,brown,0.05.freqs,Imagine Dragons - Bones (Official Music Video).freqs,0.970847
+query-travis_white_intensity_0.05.freqs,white,0.05.freqs,Travis Scott - NO BYSTANDERS (Audio).freqs,0.96578
+query-coldplay_pink_intensity_0.05.freqs,pink,0.05.freqs,Coldplay - Viva La Vida (Official Video).freqs,0.973401
+query-imagineDragons_brown_intensity_0.15.freqs,brown,0.15.freqs,Imagine Dragons - Bones (Official Music Video).freqs,0.970847
+query-imagineDragons_white_intensity_0.2.freqs,white,0.2.freqs,Imagine Dragons - Bones (Official Music Video).freqs,0.971374
+query-avicii_white_intensity_0.15.freqs,white,0.15.freqs,Avicii - Wake Me Up (Official Video).freqs,0.982127
+query-coldplay_pink_intensity_0.1.freqs,pink,0.1.freqs,Coldplay - Viva La Vida (Official Video).freqs,0.973401
+query-avicii_brown_intensity_0.05.freqs,brown,0.05.freqs,Avicii - Wake Me Up (Official Video).freqs,0.982127
+query-coldplay_pink_intensity_0.15.freqs,pink,0.15.freqs,Coldplay - Viva La Vida (Official Video).freqs,0.973401
+query-travis_pink_intensity_0.2.freqs,pink,0.2.freqs,Travis Scott - NO BYSTANDERS (Audio).freqs,0.965732
+query-travis_white_intensity_0.2.freqs,white,0.2.freqs,Travis Scott - NO BYSTANDERS (Audio).freqs,0.96578
+query-coldplay_brown_intensity_0.15.freqs,brown,0.15.freqs,Coldplay - Viva La Vida (Official Video).freqs,0.973401
+query-avicii_pink_intensity_0.05.freqs,pink,0.05.freqs,Avicii - Wake Me Up (Official Video).freqs,0.982127
+query-travis_brown_intensity_0.2.freqs,brown,0.2.freqs,Travis Scott - NO BYSTANDERS (Audio).freqs,0.96578
+query-coldplay_brown_intensity_0.1.freqs,brown,0.1.freqs,Coldplay - Viva La Vida (Official Video).freqs,0.973401
+query-imagineDragons_brown_intensity_0.1.freqs,brown,0.1.freqs,Imagine Dragons - Bones (Official Music Video).freqs,0.970847
+query-avicii_brown_intensity_0.1.freqs,brown,0.1.freqs,Avicii - Wake Me Up (Official Video).freqs,0.982127
+query-travis_pink_intensity_0.1.freqs,pink,0.1.freqs,Travis Scott - NO BYSTANDERS (Audio).freqs,0.96578
+query-coldplay_brown_intensity_0.2.freqs,brown,0.2.freqs,Coldplay - Viva La Vida (Official Video).freqs,0.973401
+query-avicii_brown_intensity_0.15.freqs,brown,0.15.freqs,Avicii - Wake Me Up (Official Video).freqs,0.982127
+query-coldplay_pink_intensity_0.2.freqs,pink,0.2.freqs,Coldplay - Viva La Vida (Official Video).freqs,0.973401
+query-travis_white_intensity_0.1.freqs,white,0.1.freqs,Travis Scott - NO BYSTANDERS (Audio).freqs,0.965732
+query-coldplay_white_intensity_0.1.freqs,white,0.1.freqs,Coldplay - Viva La Vida (Official Video).freqs,0.973401
+query-coldplay_white_intensity_0.2.freqs,white,0.2.freqs,Coldplay - Viva La Vida (Official Video).freqs,0.973401
+query-avicii_pink_intensity_0.1.freqs,pink,0.1.freqs,Avicii - Wake Me Up (Official Video).freqs,0.982127
+query-travis_white_intensity_0.15.freqs,white,0.15.freqs,Travis Scott - NO BYSTANDERS (Audio).freqs,0.96578
