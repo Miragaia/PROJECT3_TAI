@@ -45,6 +45,6 @@ def process_directory(input_dir, output_dir, intensities=[0.05, 0.1, 0.15, 0.2],
                     print(f"Saved {out_path}")
 
 if __name__ == "__main__":
-    input_folder = "wav_queries"     # Modify if needed
-    output_folder = "test_files"     # Output folder
+    input_folder = "../wav_queries"     # Modify if needed
+    output_folder = "../test_files"     # Output folder
     process_directory(input_folder, output_folder)
