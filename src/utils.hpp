@@ -8,7 +8,10 @@
 enum class Compressor {
     ZLIB,
     BZIP2,
-    ZSTD
+    ZSTD,
+    LZMA,
+    LZO,
+    SNAPPY
 };
 
 int compress_size(const std::vector<uint8_t>& data, Compressor compressor);

@@ -2,6 +2,9 @@
 #include <zlib.h>
 #include <bzlib.h>
 #include <zstd.h>
+#include <lzma.h>
+#include <lzo/lzo1x.h>
+#include <snappy.h>
 #include <vector>
 #include <cstring>
 #include <stdexcept>
@@ -14,7 +17,7 @@ int compress_zlib(const std::vector<uint8_t>& data) {
 }
 
 int compress_bzip2(const std::vector<uint8_t>& data) {
-    unsigned int compressedSize = data.size() * 1.01 + 600; // Approximate upper bound
+    unsigned int compressedSize = data.size() * 1.01 + 600;
     std::vector<char> compressed(compressedSize);
     int ret = BZ2_bzBuffToBuffCompress(compressed.data(), &compressedSize,
                                       reinterpret_cast<char*>(const_cast<uint8_t*>(data.data())),
@@ -31,6 +34,42 @@ int compress_zstd(const std::vector<uint8_t>& data) {
     return ret;
 }
 
+int compress_lzma(const std::vector<uint8_t>& data) {
+    size_t out_pos = 0;
+    size_t out_size = data.size() * 2;
+    std::vector<uint8_t> compressed(out_size);
+    lzma_ret ret = lzma_easy_buffer_encode(6, LZMA_CHECK_CRC64, NULL,
+                                           data.data(), data.size(),
+                                           compressed.data(), &out_pos, out_size);
+    if (ret != LZMA_OK) throw std::runtime_error("LZMA compression failed");
+    return out_pos;
+}
+
+int compress_lzo(const std::vector<uint8_t>& data) {
+    static bool lzo_initialized = false;
+    if (!lzo_initialized) {
+        if (lzo_init() != LZO_E_OK) throw std::runtime_error("LZO initialization failed");
+        lzo_initialized = true;
+    }
+    std::vector<uint8_t> compressed(data.size() + data.size() / 16 + 64 + 3);
+    std::vector<uint8_t> wrkmem(LZO1X_1_MEM_COMPRESS);
+    lzo_uint out_len;
+    int r = lzo1x_1_compress(data.data(), data.size(), compressed.data(), &out_len, wrkmem.data());
+    if (r != LZO_E_OK) throw std::runtime_error("LZO compression failed");
+    return out_len;
+}
+
+int compress_snappy(const std::vector<uint8_t>& data) {
+    size_t max_len = snappy::MaxCompressedLength(data.size());
+    std::string output;
+    output.resize(max_len);
+    size_t out_len;
+    snappy::RawCompress(reinterpret_cast<const char*>(data.data()), data.size(), &output[0], &out_len);
+    if (out_len == 0) throw std::runtime_error("Snappy compression failed");
+    return static_cast<int>(out_len);
+}
+
+
 int compress_size(const std::vector<uint8_t>& data, Compressor compressor) {
     switch (compressor) {
         case Compressor::ZLIB:
@@ -39,6 +78,12 @@ int compress_size(const std::vector<uint8_t>& data, Compressor compressor) {
             return compress_bzip2(data);
         case Compressor::ZSTD:
             return compress_zstd(data);
+        case Compressor::LZMA:
+            return compress_lzma(data);
+        case Compressor::LZO:
+            return compress_lzo(data);
+        case Compressor::SNAPPY:
+            return compress_snappy(data);
         default:
             throw std::invalid_argument("Unknown compressor type");
     }
@@ -54,6 +99,8 @@ Compressor compressor_from_string(const std::string& name) {
     if (name == "zlib") return Compressor::ZLIB;
     if (name == "bzip2") return Compressor::BZIP2;
     if (name == "zstd") return Compressor::ZSTD;
+    if (name == "lzma") return Compressor::LZMA;
+    if (name == "lzo") return Compressor::LZO;
+    if (name == "snappy") return Compressor::SNAPPY;
     throw std::invalid_argument("Unknown compressor name: " + name);
 }
-

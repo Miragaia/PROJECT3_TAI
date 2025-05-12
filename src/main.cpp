@@ -26,6 +26,9 @@ int main(int argc, char* argv[]) {
         } else if (strcmp(argv[i], "--query") == 0 && i + 1 < argc) {
             single_query_file = argv[i + 1];
             ++i;
+        } else if (strcmp(argv[i], "--output") == 0 && i + 1 < argc) {
+            output_csv = argv[i + 1];
+            ++i;
         }
     }
 
@@ -58,7 +61,7 @@ int main(int argc, char* argv[]) {
     } else {
         // Batch mode with CSV output
         std::ofstream csv(output_csv);
-        csv << "music query,noise type,noise intensity,result,NCD\n";
+        csv << "music query,noise type,noise intensity,result,NCD,expected\n";
 
         for (const auto& qentry : fs::directory_iterator(query_dir)) {
             if (qentry.path().extension() == ".freqs") {
@@ -90,8 +93,14 @@ int main(int argc, char* argv[]) {
                     intensity = base_name.substr(p2 + 11);
                 }
 
+                std::string expected_base = qname.substr(0, qname.find('_'));
+                std::string actual_base = best_match.substr(0, best_match.find('.'));
+                std::transform(expected_base.begin(), expected_base.end(), expected_base.begin(), ::tolower);
+                std::transform(actual_base.begin(), actual_base.end(), actual_base.begin(), ::tolower);
+                bool is_expected = actual_base.find(expected_base) != std::string::npos;
+
                 csv << qname << "," << noise_type << "," << intensity << ","
-                    << best_match << "," << best_ncd << "\n";
+                    << best_match << "," << best_ncd << "," << (is_expected ? "true" : "false") << "\n";
             }
         }
     }
