@@ -2,3 +2,5 @@ numpy
 scipy
 soundfile
 pydub
+pandas
+matplotlib

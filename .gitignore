@@ -2,3 +2,7 @@
 \wav_queries
 \test_files
 .vscode
+match
+\myenv
+\test_files
+\queries

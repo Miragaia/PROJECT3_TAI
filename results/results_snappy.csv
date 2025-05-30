@@ -1,49 +1,1321 @@
 music query,noise type,noise intensity,result,NCD,expected
-query-travis_brown_intensity_0.15.freqs,brown,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.968001,false
-query-travis_pink_intensity_0.05.freqs,pink,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.968001,false
-query-imagineDragons_white_intensity_0.15.freqs,white,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98906,false
-query-avicii_white_intensity_0.2.freqs,white,0.2,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
-query-travis_brown_intensity_0.1.freqs,brown,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.968001,false
-query-coldplay_white_intensity_0.15.freqs,white,0.15,Coldplay - Viva La Vida (Official Video).freqs,0.975846,false
-query-imagineDragons_white_intensity_0.05.freqs,white,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98906,false
-query-avicii_pink_intensity_0.2.freqs,pink,0.2,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
-query-avicii_white_intensity_0.05.freqs,white,0.05,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
-query-avicii_white_intensity_0.1.freqs,white,0.1,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
-query-coldplay_brown_intensity_0.05.freqs,brown,0.05,Coldplay - Viva La Vida (Official Video).freqs,0.975846,false
-query-avicii_brown_intensity_0.2.freqs,brown,0.2,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
-query-imagineDragons_pink_intensity_0.2.freqs,pink,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98906,false
-query-imagineDragons_brown_intensity_0.2.freqs,brown,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98906,false
-query-travis_brown_intensity_0.05.freqs,brown,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.967894,false
-query-imagineDragons_pink_intensity_0.05.freqs,pink,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98906,false
-query-imagineDragons_white_intensity_0.1.freqs,white,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98906,false
-query-coldplay_white_intensity_0.05.freqs,white,0.05,Coldplay - Viva La Vida (Official Video).freqs,0.975846,false
-query-imagineDragons_pink_intensity_0.15.freqs,pink,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98906,false
-query-avicii_pink_intensity_0.15.freqs,pink,0.15,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
-query-travis_pink_intensity_0.15.freqs,pink,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.968001,false
-query-imagineDragons_pink_intensity_0.1.freqs,pink,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98906,false
-query-imagineDragons_brown_intensity_0.05.freqs,brown,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98906,false
-query-travis_white_intensity_0.05.freqs,white,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.968001,false
-query-coldplay_pink_intensity_0.05.freqs,pink,0.05,Coldplay - Viva La Vida (Official Video).freqs,0.975846,false
-query-imagineDragons_brown_intensity_0.15.freqs,brown,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98906,false
-query-imagineDragons_white_intensity_0.2.freqs,white,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98906,false
-query-avicii_white_intensity_0.15.freqs,white,0.15,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
-query-coldplay_pink_intensity_0.1.freqs,pink,0.1,Coldplay - Viva La Vida (Official Video).freqs,0.975846,false
-query-avicii_brown_intensity_0.05.freqs,brown,0.05,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
-query-coldplay_pink_intensity_0.15.freqs,pink,0.15,Coldplay - Viva La Vida (Official Video).freqs,0.975846,false
-query-travis_pink_intensity_0.2.freqs,pink,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.967894,false
-query-travis_white_intensity_0.2.freqs,white,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.968001,false
-query-coldplay_brown_intensity_0.15.freqs,brown,0.15,Coldplay - Viva La Vida (Official Video).freqs,0.975846,false
-query-avicii_pink_intensity_0.05.freqs,pink,0.05,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
-query-travis_brown_intensity_0.2.freqs,brown,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.968001,false
-query-coldplay_brown_intensity_0.1.freqs,brown,0.1,Coldplay - Viva La Vida (Official Video).freqs,0.975846,false
-query-imagineDragons_brown_intensity_0.1.freqs,brown,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98906,false
-query-avicii_brown_intensity_0.1.freqs,brown,0.1,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
-query-travis_pink_intensity_0.1.freqs,pink,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.968001,false
-query-coldplay_brown_intensity_0.2.freqs,brown,0.2,Coldplay - Viva La Vida (Official Video).freqs,0.975846,false
-query-avicii_brown_intensity_0.15.freqs,brown,0.15,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
-query-coldplay_pink_intensity_0.2.freqs,pink,0.2,Coldplay - Viva La Vida (Official Video).freqs,0.975846,false
-query-travis_white_intensity_0.1.freqs,white,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.967894,false
-query-coldplay_white_intensity_0.1.freqs,white,0.1,Coldplay - Viva La Vida (Official Video).freqs,0.975846,false
-query-coldplay_white_intensity_0.2.freqs,white,0.2,Coldplay - Viva La Vida (Official Video).freqs,0.975846,false
-query-avicii_pink_intensity_0.1.freqs,pink,0.1,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
-query-travis_white_intensity_0.15.freqs,white,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.968001,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.15.freqs,segment5_brown,0.15,4th Dimension.freqs,0.881217,false
+Post Malone - White Iverson_segment5_white_intensity_0.5.freqs,segment5_white,0.5,4th Dimension.freqs,0.934969,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_intensity_0.25.freqs,segment2_brown,0.25,4th Dimension.freqs,0.843024,false
+Post Malone - White Iverson_segment7_pink_intensity_0.5.freqs,segment7_pink,0.5,New_Slaves.freqs,0.993862,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.5.freqs,segment1_white,0.5,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_intensity_0.35.freqs,segment9_white,0.35,4th Dimension.freqs,0.86778,false
+Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.35.freqs,segment10_pink,0.35,4th Dimension.freqs,0.975433,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.1.freqs,segment7_brown,0.1,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Post Malone - White Iverson_segment4_pink_intensity_0.25.freqs,segment4_pink,0.25,4th Dimension.freqs,0.913203,false
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.15.freqs,segment1_brown,0.15,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Travis Scott - NO BYSTANDERS (Audio)_pink_intensity_0.35.freqs,pink,0.35,4th Dimension.freqs,0.849004,false
+Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.2.freqs,segment10_white,0.2,4th Dimension.freqs,0.975433,false
+Travis Scott - NO BYSTANDERS (Audio)_pink_intensity_0.1.freqs,pink,0.1,4th Dimension.freqs,0.849004,false
+Avicii - Wake Me Up (Official Video)_segment8_white_intensity_0.4.freqs,segment8_white,0.4,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.4.freqs,segment4_white,0.4,4th Dimension.freqs,0.847301,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.5.freqs,segment2_brown,0.5,4th Dimension.freqs,0.854872,false
+Post Malone - White Iverson_segment2_pink_intensity_0.05.freqs,segment2_pink,0.05,Post Malone - White Iverson.freqs,0.988107,true
+Travis Scott - NO BYSTANDERS (Audio)_brown_intensity_0.05.freqs,brown,0.05,4th Dimension.freqs,0.849004,false
+Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.2.freqs,segment6_pink,0.2,4th Dimension.freqs,0.880385,false
+Post Malone - White Iverson_segment3_brown_intensity_0.5.freqs,segment3_brown,0.5,4th Dimension.freqs,0.858998,false
+Post Malone - White Iverson_segment9_pink_intensity_0.1.freqs,segment9_pink,0.1,Post Malone - White Iverson.freqs,0.997174,true
+Post Malone - White Iverson_segment9_white_intensity_0.35.freqs,segment9_white,0.35,Post Malone - White Iverson.freqs,0.997174,true
+Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.5.freqs,segment9_white,0.5,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.4.freqs,segment5_brown,0.4,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.5.freqs,segment1_white,0.5,Coldplay - Viva La Vida (Official Video).freqs,0.944853,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.1.freqs,segment5_white,0.1,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Post Malone - White Iverson_segment10_brown_intensity_0.05.freqs,segment10_brown,0.05,4th Dimension.freqs,0.89492,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.4.freqs,segment2_white,0.4,4th Dimension.freqs,0.854872,false
+Imagine Dragons - Bones (Official Music Video)_pink_intensity_0.35.freqs,pink,0.35,4th Dimension.freqs,0.888334,false
+Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.15.freqs,segment1_pink,0.15,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.2.freqs,segment7_white,0.2,4th Dimension.freqs,0.91343,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.1.freqs,segment4_pink,0.1,4th Dimension.freqs,0.847301,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.45.freqs,segment4_white,0.45,4th Dimension.freqs,0.847301,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.5.freqs,segment7_pink,0.5,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment7_brown_intensity_0.45.freqs,segment7_brown,0.45,New_Slaves.freqs,0.993862,false
+Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.45.freqs,segment10_white,0.45,4th Dimension.freqs,0.975433,false
+Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.15.freqs,segment5_pink,0.15,4th Dimension.freqs,0.881217,false
+Post Malone - White Iverson_segment1_white_intensity_0.3.freqs,segment1_white,0.3,Post Malone - White Iverson.freqs,0.981146,true
+Coldplay - Viva La Vida (Official Video)_pink_intensity_0.05.freqs,pink,0.05,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.3.freqs,segment2_pink,0.3,4th Dimension.freqs,0.854872,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.15.freqs,segment9_pink,0.15,4th Dimension.freqs,0.867401,false
+Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.2.freqs,segment4_white,0.2,4th Dimension.freqs,0.936634,false
+Avicii - Wake Me Up (Official Video)_white_intensity_0.3.freqs,white,0.3,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.35.freqs,segment1_pink,0.35,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Post Malone - White Iverson_segment6_white_intensity_0.45.freqs,segment6_white,0.45,4th Dimension.freqs,0.885457,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_pink_intensity_0.1.freqs,segment5_pink,0.1,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Post Malone - White Iverson_segment6_white_intensity_0.05.freqs,segment6_white,0.05,4th Dimension.freqs,0.885457,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_intensity_0.25.freqs,segment8_white,0.25,4th Dimension.freqs,0.963964,false
+Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.05.freqs,segment5_pink,0.05,4th Dimension.freqs,0.881217,false
+Avicii - Wake Me Up (Official Video)_brown_intensity_0.3.freqs,brown,0.3,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.3.freqs,segment7_pink,0.3,4th Dimension.freqs,0.91343,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.3.freqs,segment1_brown,0.3,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.05.freqs,segment5_brown,0.05,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Post Malone - White Iverson_segment10_pink_intensity_0.4.freqs,segment10_pink,0.4,New_Slaves.freqs,0.993442,false
+Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.4.freqs,segment7_white,0.4,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.25.freqs,segment6_pink,0.25,4th Dimension.freqs,0.880385,false
+Post Malone - White Iverson_segment1_brown_intensity_0.3.freqs,segment1_brown,0.3,4th Dimension.freqs,0.933795,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.2.freqs,segment3_pink,0.2,4th Dimension.freqs,0.873609,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.5.freqs,segment9_brown,0.5,4th Dimension.freqs,0.867401,false
+Post Malone - White Iverson_segment6_white_intensity_0.25.freqs,segment6_white,0.25,4th Dimension.freqs,0.885457,false
+Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.5.freqs,segment8_pink,0.5,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Post Malone - White Iverson_segment6_brown_intensity_0.4.freqs,segment6_brown,0.4,4th Dimension.freqs,0.885457,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.35.freqs,segment4_brown,0.35,4th Dimension.freqs,0.936634,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.5.freqs,segment3_brown,0.5,4th Dimension.freqs,0.873609,false
+Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.35.freqs,segment9_pink,0.35,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.35.freqs,segment3_brown,0.35,4th Dimension.freqs,0.850632,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.15.freqs,segment9_white,0.15,4th Dimension.freqs,0.867401,false
+Post Malone - White Iverson_segment7_pink_intensity_0.2.freqs,segment7_pink,0.2,New_Slaves.freqs,0.993862,false
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.35.freqs,segment2_pink,0.35,Avicii - Wake Me Up (Official Video).freqs,0.995619,true
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.5.freqs,segment8_brown,0.5,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.45.freqs,segment7_brown,0.45,4th Dimension.freqs,0.91343,false
+Post Malone - White Iverson_segment8_white_intensity_0.05.freqs,segment8_white,0.05,4th Dimension.freqs,0.863161,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.4.freqs,segment5_pink,0.4,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.1.freqs,segment9_pink,0.1,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Travis Scott - NO BYSTANDERS (Audio)_segment8_white_intensity_0.15.freqs,segment8_white,0.15,4th Dimension.freqs,0.869824,false
+Avicii - Wake Me Up (Official Video)_segment5_white_intensity_0.25.freqs,segment5_white,0.25,4th Dimension.freqs,0.881217,false
+Post Malone - White Iverson_segment4_white_intensity_0.05.freqs,segment4_white,0.05,4th Dimension.freqs,0.913203,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.2.freqs,segment4_white,0.2,4th Dimension.freqs,0.923007,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.25.freqs,segment10_brown,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.45.freqs,segment8_brown,0.45,4th Dimension.freqs,0.869824,false
+Post Malone - White Iverson_segment6_white_intensity_0.3.freqs,segment6_white,0.3,4th Dimension.freqs,0.885457,false
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.25.freqs,segment1_brown,0.25,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.35.freqs,segment9_white,0.35,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.5.freqs,segment7_white,0.5,4th Dimension.freqs,0.91343,false
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.4.freqs,segment2_pink,0.4,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.4.freqs,segment2_pink,0.4,4th Dimension.freqs,0.843024,false
+Post Malone - White Iverson_segment1_white_intensity_0.05.freqs,segment1_white,0.05,4th Dimension.freqs,0.933757,false
+Post Malone - White Iverson_segment3_pink_intensity_0.25.freqs,segment3_pink,0.25,4th Dimension.freqs,0.858998,false
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.45.freqs,segment2_pink,0.45,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.45.freqs,segment6_pink,0.45,4th Dimension.freqs,0.880385,false
+Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.1.freqs,segment1_pink,0.1,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.25.freqs,segment6_white,0.25,4th Dimension.freqs,0.852373,false
+Post Malone - White Iverson_segment3_pink_intensity_0.5.freqs,segment3_pink,0.5,4th Dimension.freqs,0.858998,false
+Post Malone - White Iverson_segment8_pink_intensity_0.05.freqs,segment8_pink,0.05,4th Dimension.freqs,0.863161,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.25.freqs,segment2_pink,0.25,4th Dimension.freqs,0.854872,false
+Post Malone - White Iverson_segment10_brown_intensity_0.45.freqs,segment10_brown,0.45,4th Dimension.freqs,0.894958,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.45.freqs,segment6_pink,0.45,4th Dimension.freqs,0.868802,false
+Post Malone - White Iverson_segment5_brown_intensity_0.1.freqs,segment5_brown,0.1,4th Dimension.freqs,0.934969,false
+Imagine Dragons - Bones (Official Music Video)_brown_intensity_0.3.freqs,brown,0.3,4th Dimension.freqs,0.888334,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.05.freqs,segment6_pink,0.05,4th Dimension.freqs,0.868802,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.3.freqs,segment10_pink,0.3,4th Dimension.freqs,0.923991,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.15.freqs,segment5_brown,0.15,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.05.freqs,segment10_white,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.5.freqs,segment6_pink,0.5,4th Dimension.freqs,0.852373,false
+Post Malone - White Iverson_segment3_white_intensity_0.4.freqs,segment3_white,0.4,4th Dimension.freqs,0.858998,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.4.freqs,segment7_white,0.4,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_intensity_0.15.freqs,segment2_brown,0.15,4th Dimension.freqs,0.843024,false
+Post Malone - White Iverson_segment6_white_intensity_0.15.freqs,segment6_white,0.15,4th Dimension.freqs,0.885457,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.3.freqs,segment6_white,0.3,4th Dimension.freqs,0.852373,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.15.freqs,segment6_brown,0.15,4th Dimension.freqs,0.868802,false
+Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.2.freqs,segment3_pink,0.2,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Post Malone - White Iverson_segment8_pink_intensity_0.15.freqs,segment8_pink,0.15,4th Dimension.freqs,0.863161,false
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.35.freqs,segment3_brown,0.35,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Post Malone - White Iverson_segment7_pink_intensity_0.35.freqs,segment7_pink,0.35,New_Slaves.freqs,0.993862,false
+Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.35.freqs,segment2_white,0.35,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.05.freqs,segment2_white,0.05,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.35.freqs,segment6_white,0.35,4th Dimension.freqs,0.852373,false
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.05.freqs,segment9_brown,0.05,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.3.freqs,segment5_pink,0.3,4th Dimension.freqs,0.881217,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.35.freqs,segment3_white,0.35,4th Dimension.freqs,0.850632,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.3.freqs,segment8_brown,0.3,4th Dimension.freqs,0.869824,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.3.freqs,segment6_pink,0.3,4th Dimension.freqs,0.868802,false
+Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.3.freqs,segment7_white,0.3,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Avicii - Wake Me Up (Official Video)_segment6_white_intensity_0.4.freqs,segment6_white,0.4,4th Dimension.freqs,0.880385,false
+Post Malone - White Iverson_segment4_pink_intensity_0.3.freqs,segment4_pink,0.3,4th Dimension.freqs,0.913203,false
+Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.05.freqs,segment7_pink,0.05,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Post Malone - White Iverson_segment1_pink_intensity_0.25.freqs,segment1_pink,0.25,4th Dimension.freqs,0.933644,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.3.freqs,segment1_brown,0.3,4th Dimension.freqs,0.89598,false
+Post Malone - White Iverson_segment1_pink_intensity_0.5.freqs,segment1_pink,0.5,4th Dimension.freqs,0.933795,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.25.freqs,segment4_pink,0.25,4th Dimension.freqs,0.847301,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.35.freqs,segment4_pink,0.35,4th Dimension.freqs,0.847301,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.35.freqs,segment7_brown,0.35,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.35.freqs,segment6_brown,0.35,4th Dimension.freqs,0.852373,false
+Imagine Dragons - Bones (Official Music Video)_pink_intensity_0.05.freqs,pink,0.05,4th Dimension.freqs,0.888334,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_white_intensity_0.15.freqs,segment1_white,0.15,4th Dimension.freqs,0.89598,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.45.freqs,segment5_brown,0.45,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.45.freqs,segment3_brown,0.45,4th Dimension.freqs,0.850632,false
+Post Malone - White Iverson_segment8_white_intensity_0.45.freqs,segment8_white,0.45,4th Dimension.freqs,0.863161,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.2.freqs,segment10_white,0.2,4th Dimension.freqs,0.923916,false
+Coldplay - Viva La Vida (Official Video)_pink_intensity_0.3.freqs,pink,0.3,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.25.freqs,segment3_white,0.25,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.15.freqs,segment4_pink,0.15,4th Dimension.freqs,0.936634,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.45.freqs,segment5_white,0.45,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.05.freqs,segment7_brown,0.05,4th Dimension.freqs,0.851503,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.35.freqs,segment7_brown,0.35,4th Dimension.freqs,0.91343,false
+Post Malone - White Iverson_segment7_white_intensity_0.5.freqs,segment7_white,0.5,New_Slaves.freqs,0.993862,false
+Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.3.freqs,segment1_pink,0.3,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Travis Scott - NO BYSTANDERS (Audio)_brown_intensity_0.45.freqs,brown,0.45,4th Dimension.freqs,0.849004,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.05.freqs,segment10_brown,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.2.freqs,segment5_brown,0.2,4th Dimension.freqs,0.881217,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.4.freqs,segment3_white,0.4,4th Dimension.freqs,0.873609,false
+Avicii - Wake Me Up (Official Video)_segment5_white_intensity_0.35.freqs,segment5_white,0.35,4th Dimension.freqs,0.881217,false
+Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.05.freqs,segment4_pink,0.05,4th Dimension.freqs,0.936634,false
+Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.05.freqs,segment8_pink,0.05,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973984,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.45.freqs,segment10_pink,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998521,true
+Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.5.freqs,segment5_brown,0.5,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.5.freqs,segment4_white,0.5,4th Dimension.freqs,0.936634,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.4.freqs,segment10_pink,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998336,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.45.freqs,segment2_pink,0.45,4th Dimension.freqs,0.843024,false
+Post Malone - White Iverson_segment3_pink_intensity_0.05.freqs,segment3_pink,0.05,4th Dimension.freqs,0.858998,false
+Post Malone - White Iverson_segment7_white_intensity_0.45.freqs,segment7_white,0.45,New_Slaves.freqs,0.993862,false
+Post Malone - White Iverson_segment1_white_intensity_0.4.freqs,segment1_white,0.4,Post Malone - White Iverson.freqs,0.981994,true
+Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.2.freqs,segment9_white,0.2,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Travis Scott - NO BYSTANDERS (Audio)_white_intensity_0.4.freqs,white,0.4,4th Dimension.freqs,0.849004,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.05.freqs,segment10_pink,0.05,4th Dimension.freqs,0.923916,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.4.freqs,segment10_pink,0.4,4th Dimension.freqs,0.923991,false
+Post Malone - White Iverson_segment3_pink_intensity_0.4.freqs,segment3_pink,0.4,4th Dimension.freqs,0.858998,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.15.freqs,segment1_brown,0.15,4th Dimension.freqs,0.89598,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.45.freqs,segment5_brown,0.45,4th Dimension.freqs,0.881217,false
+Post Malone - White Iverson_segment2_pink_intensity_0.15.freqs,segment2_pink,0.15,Post Malone - White Iverson.freqs,0.988107,true
+Post Malone - White Iverson_segment6_brown_intensity_0.45.freqs,segment6_brown,0.45,4th Dimension.freqs,0.885457,false
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.45.freqs,segment2_brown,0.45,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.15.freqs,segment4_white,0.15,4th Dimension.freqs,0.847301,false
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.35.freqs,segment9_brown,0.35,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.1.freqs,segment2_pink,0.1,4th Dimension.freqs,0.854872,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.1.freqs,segment1_pink,0.1,4th Dimension.freqs,0.89598,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.5.freqs,segment10_brown,0.5,4th Dimension.freqs,0.924029,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.15.freqs,segment4_pink,0.15,4th Dimension.freqs,0.923007,false
+Post Malone - White Iverson_segment9_pink_intensity_0.05.freqs,segment9_pink,0.05,Post Malone - White Iverson.freqs,0.997174,true
+Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.05.freqs,segment9_white,0.05,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.3.freqs,segment3_brown,0.3,4th Dimension.freqs,0.873609,false
+Post Malone - White Iverson_segment9_white_intensity_0.4.freqs,segment9_white,0.4,Post Malone - White Iverson.freqs,0.997174,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.25.freqs,segment8_brown,0.25,4th Dimension.freqs,0.963964,false
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.05.freqs,segment2_pink,0.05,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_intensity_0.25.freqs,segment9_white,0.25,4th Dimension.freqs,0.86778,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_white_intensity_0.4.freqs,segment1_white,0.4,4th Dimension.freqs,0.896131,false
+Imagine Dragons - Bones (Official Music Video)_pink_intensity_0.3.freqs,pink,0.3,4th Dimension.freqs,0.888334,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.45.freqs,segment3_pink,0.45,4th Dimension.freqs,0.850632,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.3.freqs,segment3_white,0.3,4th Dimension.freqs,0.850632,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.1.freqs,segment8_pink,0.1,4th Dimension.freqs,0.869824,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.5.freqs,segment6_white,0.5,4th Dimension.freqs,0.852373,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_intensity_0.3.freqs,segment4_brown,0.3,4th Dimension.freqs,0.847301,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.35.freqs,segment9_pink,0.35,4th Dimension.freqs,0.867401,false
+Post Malone - White Iverson_segment1_brown_intensity_0.1.freqs,segment1_brown,0.1,4th Dimension.freqs,0.933795,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_white_intensity_0.1.freqs,segment8_white,0.1,4th Dimension.freqs,0.869824,false
+Coldplay - Viva La Vida (Official Video)_brown_intensity_0.35.freqs,brown,0.35,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Imagine Dragons - Bones (Official Music Video)_brown_intensity_0.45.freqs,brown,0.45,4th Dimension.freqs,0.888334,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_intensity_0.45.freqs,segment8_white,0.45,4th Dimension.freqs,0.963964,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.4.freqs,segment7_white,0.4,4th Dimension.freqs,0.91343,false
+Post Malone - White Iverson_segment3_pink_intensity_0.15.freqs,segment3_pink,0.15,4th Dimension.freqs,0.858998,false
+Post Malone - White Iverson_segment10_pink_intensity_0.05.freqs,segment10_pink,0.05,4th Dimension.freqs,0.92577,false
+Post Malone - White Iverson_segment10_white_intensity_0.1.freqs,segment10_white,0.1,4th Dimension.freqs,0.903286,false
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.1.freqs,segment2_brown,0.1,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.3.freqs,segment7_brown,0.3,4th Dimension.freqs,0.91343,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.2.freqs,segment8_pink,0.2,4th Dimension.freqs,0.869824,false
+Post Malone - White Iverson_segment8_brown_intensity_0.35.freqs,segment8_brown,0.35,4th Dimension.freqs,0.863161,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.2.freqs,segment1_pink,0.2,4th Dimension.freqs,0.89598,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.05.freqs,segment10_white,0.05,4th Dimension.freqs,0.923916,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.2.freqs,segment10_white,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+Post Malone - White Iverson_segment6_white_intensity_0.4.freqs,segment6_white,0.4,4th Dimension.freqs,0.885457,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.45.freqs,segment4_pink,0.45,4th Dimension.freqs,0.923007,false
+Post Malone - White Iverson_segment2_brown_intensity_0.4.freqs,segment2_brown,0.4,Post Malone - White Iverson.freqs,0.988107,true
+Coldplay - Viva La Vida (Official Video)_white_intensity_0.05.freqs,white,0.05,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.25.freqs,segment3_brown,0.25,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.25.freqs,segment6_brown,0.25,4th Dimension.freqs,0.868802,false
+Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.35.freqs,segment8_pink,0.35,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.4.freqs,segment5_brown,0.4,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.2.freqs,segment1_pink,0.2,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_pink_intensity_0.45.freqs,segment5_pink,0.45,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.2.freqs,segment2_brown,0.2,4th Dimension.freqs,0.854872,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.5.freqs,segment9_pink,0.5,4th Dimension.freqs,0.86778,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.2.freqs,segment7_white,0.2,4th Dimension.freqs,0.851503,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.15.freqs,segment5_brown,0.15,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment2_brown_intensity_0.3.freqs,segment2_brown,0.3,Post Malone - White Iverson.freqs,0.988107,true
+Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.4.freqs,segment4_pink,0.4,4th Dimension.freqs,0.936634,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.05.freqs,segment1_brown,0.05,4th Dimension.freqs,0.89598,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.5.freqs,segment3_white,0.5,4th Dimension.freqs,0.850632,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.05.freqs,segment2_white,0.05,4th Dimension.freqs,0.854872,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.05.freqs,segment1_pink,0.05,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Travis Scott - NO BYSTANDERS (Audio)_pink_intensity_0.45.freqs,pink,0.45,4th Dimension.freqs,0.849004,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.4.freqs,segment9_pink,0.4,4th Dimension.freqs,0.867401,false
+Post Malone - White Iverson_segment4_pink_intensity_0.15.freqs,segment4_pink,0.15,4th Dimension.freqs,0.913203,false
+Travis Scott - NO BYSTANDERS (Audio)_brown_intensity_0.15.freqs,brown,0.15,4th Dimension.freqs,0.849004,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_pink_intensity_0.3.freqs,segment5_pink,0.3,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Post Malone - White Iverson_segment9_pink_intensity_0.5.freqs,segment9_pink,0.5,Post Malone - White Iverson.freqs,0.997174,true
+Coldplay - Viva La Vida (Official Video)_white_intensity_0.35.freqs,white,0.35,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Post Malone - White Iverson_segment3_brown_intensity_0.15.freqs,segment3_brown,0.15,4th Dimension.freqs,0.858998,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.25.freqs,segment7_pink,0.25,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment7_pink_intensity_0.45.freqs,segment7_pink,0.45,New_Slaves.freqs,0.993862,false
+Post Malone - White Iverson_segment3_brown_intensity_0.05.freqs,segment3_brown,0.05,4th Dimension.freqs,0.858998,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.4.freqs,segment1_brown,0.4,4th Dimension.freqs,0.89598,false
+Imagine Dragons - Bones (Official Music Video)_white_intensity_0.15.freqs,white,0.15,4th Dimension.freqs,0.888334,false
+Post Malone - White Iverson_segment7_pink_intensity_0.25.freqs,segment7_pink,0.25,New_Slaves.freqs,0.993862,false
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.3.freqs,segment8_brown,0.3,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.4.freqs,segment8_brown,0.4,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Post Malone - White Iverson_segment7_white_intensity_0.1.freqs,segment7_white,0.1,New_Slaves.freqs,0.993862,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.2.freqs,segment6_brown,0.2,4th Dimension.freqs,0.852373,false
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.45.freqs,segment8_brown,0.45,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.5.freqs,segment10_brown,0.5,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+Post Malone - White Iverson_segment5_white_intensity_0.1.freqs,segment5_white,0.1,4th Dimension.freqs,0.934969,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.35.freqs,segment8_brown,0.35,4th Dimension.freqs,0.869824,false
+Post Malone - White Iverson_segment7_white_intensity_0.3.freqs,segment7_white,0.3,New_Slaves.freqs,0.993862,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.45.freqs,segment9_brown,0.45,4th Dimension.freqs,0.867401,false
+Post Malone - White Iverson_segment2_brown_intensity_0.5.freqs,segment2_brown,0.5,Post Malone - White Iverson.freqs,0.988107,true
+Travis Scott - NO BYSTANDERS (Audio)_segment8_white_intensity_0.3.freqs,segment8_white,0.3,4th Dimension.freqs,0.869824,false
+Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.35.freqs,segment7_pink,0.35,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.4.freqs,segment7_pink,0.4,4th Dimension.freqs,0.91343,false
+Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.5.freqs,segment7_white,0.5,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Post Malone - White Iverson_segment6_pink_intensity_0.25.freqs,segment6_pink,0.25,4th Dimension.freqs,0.885457,false
+Post Malone - White Iverson_segment2_white_intensity_0.5.freqs,segment2_white,0.5,Post Malone - White Iverson.freqs,0.988107,true
+Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.1.freqs,segment3_white,0.1,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.2.freqs,segment10_brown,0.2,4th Dimension.freqs,0.924029,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.3.freqs,segment7_brown,0.3,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.4.freqs,segment2_white,0.4,4th Dimension.freqs,0.843024,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.2.freqs,segment3_brown,0.2,4th Dimension.freqs,0.873609,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.25.freqs,segment6_pink,0.25,4th Dimension.freqs,0.852373,false
+Post Malone - White Iverson_segment9_pink_intensity_0.35.freqs,segment9_pink,0.35,Post Malone - White Iverson.freqs,0.997174,true
+Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.1.freqs,segment6_pink,0.1,4th Dimension.freqs,0.868802,false
+Post Malone - White Iverson_segment9_white_intensity_0.15.freqs,segment9_white,0.15,Post Malone - White Iverson.freqs,0.997174,true
+Imagine Dragons - Bones (Official Music Video)_white_intensity_0.1.freqs,white,0.1,4th Dimension.freqs,0.888334,false
+Post Malone - White Iverson_segment3_brown_intensity_0.4.freqs,segment3_brown,0.4,4th Dimension.freqs,0.858998,false
+Imagine Dragons - Bones (Official Music Video)_white_intensity_0.45.freqs,white,0.45,4th Dimension.freqs,0.888334,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.3.freqs,segment10_white,0.3,4th Dimension.freqs,0.862253,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.05.freqs,segment6_brown,0.05,4th Dimension.freqs,0.868802,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.35.freqs,segment5_brown,0.35,4th Dimension.freqs,0.881217,false
+Post Malone - White Iverson_segment10_white_intensity_0.4.freqs,segment10_white,0.4,4th Dimension.freqs,0.867287,false
+Post Malone - White Iverson_segment7_brown_intensity_0.3.freqs,segment7_brown,0.3,New_Slaves.freqs,0.993862,false
+Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.1.freqs,segment7_white,0.1,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Imagine Dragons - Bones (Official Music Video)_pink_intensity_0.1.freqs,pink,0.1,4th Dimension.freqs,0.888334,false
+Post Malone - White Iverson_segment10_pink_intensity_0.35.freqs,segment10_pink,0.35,4th Dimension.freqs,0.927701,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.45.freqs,segment9_pink,0.45,4th Dimension.freqs,0.867401,false
+Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.2.freqs,segment8_pink,0.2,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973984,false
+Avicii - Wake Me Up (Official Video)_pink_intensity_0.2.freqs,pink,0.2,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Post Malone - White Iverson_segment2_white_intensity_0.25.freqs,segment2_white,0.25,Post Malone - White Iverson.freqs,0.988107,true
+Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.45.freqs,segment5_brown,0.45,4th Dimension.freqs,0.851503,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.15.freqs,segment10_brown,0.15,4th Dimension.freqs,0.924029,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.15.freqs,segment10_white,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.1.freqs,segment8_pink,0.1,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973984,false
+Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.2.freqs,segment3_white,0.2,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.2.freqs,segment8_brown,0.2,4th Dimension.freqs,0.869824,false
+Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.25.freqs,segment9_white,0.25,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_intensity_0.15.freqs,segment9_white,0.15,4th Dimension.freqs,0.86778,false
+Post Malone - White Iverson_segment7_brown_intensity_0.05.freqs,segment7_brown,0.05,New_Slaves.freqs,0.993862,false
+Post Malone - White Iverson_segment8_pink_intensity_0.25.freqs,segment8_pink,0.25,4th Dimension.freqs,0.863161,false
+Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.15.freqs,segment7_white,0.15,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.5.freqs,segment10_pink,0.5,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998521,true
+Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.5.freqs,segment5_pink,0.5,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.05.freqs,segment8_brown,0.05,4th Dimension.freqs,0.963964,false
+Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.1.freqs,segment2_white,0.1,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Post Malone - White Iverson_segment6_pink_intensity_0.4.freqs,segment6_pink,0.4,4th Dimension.freqs,0.885457,false
+Avicii - Wake Me Up (Official Video)_segment6_white_intensity_0.3.freqs,segment6_white,0.3,4th Dimension.freqs,0.880385,false
+Post Malone - White Iverson_segment9_white_intensity_0.25.freqs,segment9_white,0.25,Post Malone - White Iverson.freqs,0.997174,true
+Travis Scott - NO BYSTANDERS (Audio)_segment5_white_intensity_0.25.freqs,segment5_white,0.25,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.25.freqs,segment4_brown,0.25,4th Dimension.freqs,0.936634,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.45.freqs,segment1_pink,0.45,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.35.freqs,segment9_brown,0.35,4th Dimension.freqs,0.867401,false
+Post Malone - White Iverson_segment4_brown_intensity_0.05.freqs,segment4_brown,0.05,4th Dimension.freqs,0.913203,false
+Imagine Dragons - Bones (Official Music Video)_white_intensity_0.25.freqs,white,0.25,4th Dimension.freqs,0.888334,false
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.4.freqs,segment1_brown,0.4,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_white_intensity_0.25.freqs,segment8_white,0.25,4th Dimension.freqs,0.869824,false
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.25.freqs,segment9_brown,0.25,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Post Malone - White Iverson_segment8_pink_intensity_0.4.freqs,segment8_pink,0.4,4th Dimension.freqs,0.863161,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.1.freqs,segment10_brown,0.1,4th Dimension.freqs,0.924029,false
+Travis Scott - NO BYSTANDERS (Audio)_brown_intensity_0.3.freqs,brown,0.3,4th Dimension.freqs,0.849004,false
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.4.freqs,segment2_brown,0.4,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.1.freqs,segment7_brown,0.1,4th Dimension.freqs,0.91343,false
+Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.4.freqs,segment1_pink,0.4,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_intensity_0.05.freqs,segment2_brown,0.05,4th Dimension.freqs,0.843024,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.45.freqs,segment9_brown,0.45,4th Dimension.freqs,0.86778,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.1.freqs,segment9_pink,0.1,4th Dimension.freqs,0.867401,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.1.freqs,segment9_white,0.1,4th Dimension.freqs,0.867401,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.5.freqs,segment3_pink,0.5,4th Dimension.freqs,0.873609,false
+Post Malone - White Iverson_segment2_pink_intensity_0.35.freqs,segment2_pink,0.35,Post Malone - White Iverson.freqs,0.988159,true
+Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.25.freqs,segment4_white,0.25,4th Dimension.freqs,0.923007,false
+Post Malone - White Iverson_segment10_white_intensity_0.25.freqs,segment10_white,0.25,4th Dimension.freqs,0.925846,false
+Avicii - Wake Me Up (Official Video)_brown_intensity_0.4.freqs,brown,0.4,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.05.freqs,segment3_pink,0.05,4th Dimension.freqs,0.850632,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.15.freqs,segment10_pink,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998521,true
+Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.25.freqs,segment9_white,0.25,4th Dimension.freqs,0.867401,false
+Post Malone - White Iverson_segment5_pink_intensity_0.25.freqs,segment5_pink,0.25,4th Dimension.freqs,0.934969,false
+Post Malone - White Iverson_segment8_pink_intensity_0.5.freqs,segment8_pink,0.5,4th Dimension.freqs,0.863161,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.2.freqs,segment7_brown,0.2,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.35.freqs,segment10_brown,0.35,4th Dimension.freqs,0.924029,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.2.freqs,segment6_pink,0.2,4th Dimension.freqs,0.868802,false
+Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.15.freqs,segment3_pink,0.15,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.3.freqs,segment9_pink,0.3,4th Dimension.freqs,0.86778,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.05.freqs,segment8_brown,0.05,4th Dimension.freqs,0.869824,false
+Coldplay - Viva La Vida (Official Video)_pink_intensity_0.35.freqs,pink,0.35,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.45.freqs,segment1_brown,0.45,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.4.freqs,segment5_pink,0.4,4th Dimension.freqs,0.881217,false
+Avicii - Wake Me Up (Official Video)_white_intensity_0.25.freqs,white,0.25,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Post Malone - White Iverson_segment1_brown_intensity_0.15.freqs,segment1_brown,0.15,4th Dimension.freqs,0.933833,false
+Post Malone - White Iverson_segment2_brown_intensity_0.1.freqs,segment2_brown,0.1,Post Malone - White Iverson.freqs,0.988107,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.25.freqs,segment4_white,0.25,4th Dimension.freqs,0.847301,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.3.freqs,segment6_white,0.3,4th Dimension.freqs,0.868802,false
+Avicii - Wake Me Up (Official Video)_segment8_white_intensity_0.35.freqs,segment8_white,0.35,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.1.freqs,segment2_pink,0.1,4th Dimension.freqs,0.843024,false
+Post Malone - White Iverson_segment4_pink_intensity_0.5.freqs,segment4_pink,0.5,4th Dimension.freqs,0.913203,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.35.freqs,segment10_brown,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998521,true
+Imagine Dragons - Bones (Official Music Video)_white_intensity_0.35.freqs,white,0.35,4th Dimension.freqs,0.888334,false
+Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.25.freqs,segment7_pink,0.25,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.15.freqs,segment10_brown,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+Coldplay - Viva La Vida (Official Video)_pink_intensity_0.2.freqs,pink,0.2,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.25.freqs,segment2_brown,0.25,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.5.freqs,segment1_brown,0.5,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Post Malone - White Iverson_segment2_white_intensity_0.1.freqs,segment2_white,0.1,Post Malone - White Iverson.freqs,0.988107,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.3.freqs,segment2_pink,0.3,4th Dimension.freqs,0.843024,false
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.1.freqs,segment1_brown,0.1,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Post Malone - White Iverson_segment4_brown_intensity_0.5.freqs,segment4_brown,0.5,4th Dimension.freqs,0.913203,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.1.freqs,segment10_white,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.3.freqs,segment7_pink,0.3,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.45.freqs,segment6_brown,0.45,4th Dimension.freqs,0.852373,false
+Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.35.freqs,segment3_white,0.35,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Post Malone - White Iverson_segment6_pink_intensity_0.15.freqs,segment6_pink,0.15,4th Dimension.freqs,0.885457,false
+Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.05.freqs,segment3_white,0.05,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Avicii - Wake Me Up (Official Video)_white_intensity_0.45.freqs,white,0.45,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Post Malone - White Iverson_segment2_pink_intensity_0.5.freqs,segment2_pink,0.5,Post Malone - White Iverson.freqs,0.988107,true
+Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.25.freqs,segment2_white,0.25,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.3.freqs,segment10_brown,0.3,4th Dimension.freqs,0.924029,false
+Travis Scott - NO BYSTANDERS (Audio)_white_intensity_0.45.freqs,white,0.45,4th Dimension.freqs,0.849004,false
+Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.15.freqs,segment7_pink,0.15,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.1.freqs,segment6_white,0.1,4th Dimension.freqs,0.868802,false
+Post Malone - White Iverson_segment8_pink_intensity_0.45.freqs,segment8_pink,0.45,4th Dimension.freqs,0.863161,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.05.freqs,segment5_brown,0.05,4th Dimension.freqs,0.881217,false
+Post Malone - White Iverson_segment1_pink_intensity_0.15.freqs,segment1_pink,0.15,4th Dimension.freqs,0.933719,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.25.freqs,segment1_pink,0.25,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Post Malone - White Iverson_segment1_brown_intensity_0.45.freqs,segment1_brown,0.45,4th Dimension.freqs,0.933757,false
+Post Malone - White Iverson_segment6_brown_intensity_0.2.freqs,segment6_brown,0.2,4th Dimension.freqs,0.885457,false
+Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.1.freqs,segment4_white,0.1,4th Dimension.freqs,0.936634,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.25.freqs,segment2_brown,0.25,4th Dimension.freqs,0.854872,false
+Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.3.freqs,segment3_white,0.3,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.05.freqs,segment9_pink,0.05,4th Dimension.freqs,0.867401,false
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.15.freqs,segment2_brown,0.15,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Post Malone - White Iverson_segment2_brown_intensity_0.15.freqs,segment2_brown,0.15,Post Malone - White Iverson.freqs,0.988107,true
+Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.35.freqs,segment7_pink,0.35,4th Dimension.freqs,0.91343,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_white_intensity_0.4.freqs,segment8_white,0.4,4th Dimension.freqs,0.869824,false
+Post Malone - White Iverson_segment7_white_intensity_0.4.freqs,segment7_white,0.4,New_Slaves.freqs,0.993862,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.25.freqs,segment9_pink,0.25,4th Dimension.freqs,0.867401,false
+Post Malone - White Iverson_segment5_pink_intensity_0.45.freqs,segment5_pink,0.45,4th Dimension.freqs,0.934969,false
+Post Malone - White Iverson_segment9_brown_intensity_0.5.freqs,segment9_brown,0.5,Post Malone - White Iverson.freqs,0.997174,true
+Travis Scott - NO BYSTANDERS (Audio)_segment5_white_intensity_0.1.freqs,segment5_white,0.1,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment5_brown_intensity_0.05.freqs,segment5_brown,0.05,4th Dimension.freqs,0.934969,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.4.freqs,segment9_brown,0.4,4th Dimension.freqs,0.867401,false
+Post Malone - White Iverson_segment10_white_intensity_0.2.freqs,segment10_white,0.2,New_Slaves.freqs,0.993414,false
+Post Malone - White Iverson_segment4_pink_intensity_0.45.freqs,segment4_pink,0.45,4th Dimension.freqs,0.913203,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_white_intensity_0.45.freqs,segment1_white,0.45,4th Dimension.freqs,0.895904,false
+Post Malone - White Iverson_segment2_white_intensity_0.35.freqs,segment2_white,0.35,Post Malone - White Iverson.freqs,0.988107,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.15.freqs,segment3_pink,0.15,4th Dimension.freqs,0.873609,false
+Avicii - Wake Me Up (Official Video)_segment8_white_intensity_0.2.freqs,segment8_white,0.2,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.4.freqs,segment6_white,0.4,4th Dimension.freqs,0.868802,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.05.freqs,segment9_brown,0.05,4th Dimension.freqs,0.867401,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.2.freqs,segment1_brown,0.2,4th Dimension.freqs,0.89598,false
+Avicii - Wake Me Up (Official Video)_segment6_white_intensity_0.15.freqs,segment6_white,0.15,4th Dimension.freqs,0.880385,false
+Post Malone - White Iverson_segment4_white_intensity_0.25.freqs,segment4_white,0.25,4th Dimension.freqs,0.913203,false
+Post Malone - White Iverson_segment9_white_intensity_0.3.freqs,segment9_white,0.3,Post Malone - White Iverson.freqs,0.997174,true
+Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.45.freqs,segment10_pink,0.45,4th Dimension.freqs,0.924029,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_intensity_0.15.freqs,segment8_pink,0.15,4th Dimension.freqs,0.963964,false
+Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.1.freqs,segment10_white,0.1,4th Dimension.freqs,0.975433,false
+Post Malone - White Iverson_segment8_pink_intensity_0.1.freqs,segment8_pink,0.1,4th Dimension.freqs,0.863161,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.35.freqs,segment4_brown,0.35,4th Dimension.freqs,0.923007,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.05.freqs,segment4_brown,0.05,4th Dimension.freqs,0.936634,false
+Post Malone - White Iverson_segment4_white_intensity_0.4.freqs,segment4_white,0.4,4th Dimension.freqs,0.913203,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_white_intensity_0.35.freqs,segment1_white,0.35,4th Dimension.freqs,0.89598,false
+Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.2.freqs,segment1_white,0.2,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.5.freqs,segment9_brown,0.5,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.15.freqs,segment6_pink,0.15,4th Dimension.freqs,0.852373,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.25.freqs,segment7_brown,0.25,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.3.freqs,segment10_pink,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998459,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.3.freqs,segment7_white,0.3,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.3.freqs,segment4_white,0.3,4th Dimension.freqs,0.936634,false
+Avicii - Wake Me Up (Official Video)_brown_intensity_0.2.freqs,brown,0.2,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.25.freqs,segment2_pink,0.25,4th Dimension.freqs,0.843024,false
+Post Malone - White Iverson_segment9_brown_intensity_0.45.freqs,segment9_brown,0.45,Post Malone - White Iverson.freqs,0.997174,true
+Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.05.freqs,segment4_brown,0.05,4th Dimension.freqs,0.923007,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.2.freqs,segment9_brown,0.2,4th Dimension.freqs,0.86778,false
+Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.45.freqs,segment10_pink,0.45,4th Dimension.freqs,0.975433,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.3.freqs,segment9_pink,0.3,4th Dimension.freqs,0.867401,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.35.freqs,segment2_pink,0.35,4th Dimension.freqs,0.854872,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.45.freqs,segment9_white,0.45,4th Dimension.freqs,0.867401,false
+Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.15.freqs,segment2_white,0.15,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.05.freqs,segment4_white,0.05,4th Dimension.freqs,0.923007,false
+Post Malone - White Iverson_segment10_pink_intensity_0.1.freqs,segment10_pink,0.1,New_Slaves.freqs,0.99319,false
+Post Malone - White Iverson_segment8_brown_intensity_0.3.freqs,segment8_brown,0.3,4th Dimension.freqs,0.863161,false
+Post Malone - White Iverson_segment10_brown_intensity_0.2.freqs,segment10_brown,0.2,4th Dimension.freqs,0.903021,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.2.freqs,segment9_pink,0.2,4th Dimension.freqs,0.86778,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.35.freqs,segment3_pink,0.35,4th Dimension.freqs,0.873609,false
+Coldplay - Viva La Vida (Official Video)_brown_intensity_0.25.freqs,brown,0.25,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.45.freqs,segment1_pink,0.45,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Post Malone - White Iverson_segment8_pink_intensity_0.3.freqs,segment8_pink,0.3,4th Dimension.freqs,0.863161,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.1.freqs,segment3_brown,0.1,4th Dimension.freqs,0.873609,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.5.freqs,segment9_brown,0.5,4th Dimension.freqs,0.86778,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_intensity_0.1.freqs,segment8_white,0.1,4th Dimension.freqs,0.963964,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.3.freqs,segment4_brown,0.3,4th Dimension.freqs,0.923007,false
+Post Malone - White Iverson_segment3_pink_intensity_0.1.freqs,segment3_pink,0.1,4th Dimension.freqs,0.858998,false
+Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.1.freqs,segment5_pink,0.1,4th Dimension.freqs,0.881217,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_intensity_0.2.freqs,segment8_white,0.2,4th Dimension.freqs,0.963964,false
+Avicii - Wake Me Up (Official Video)_segment5_white_intensity_0.05.freqs,segment5_white,0.05,4th Dimension.freqs,0.881217,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_white_intensity_0.4.freqs,segment5_white,0.4,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.25.freqs,segment3_pink,0.25,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.45.freqs,segment10_brown,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.45.freqs,segment10_white,0.45,4th Dimension.freqs,0.849156,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.05.freqs,segment3_brown,0.05,4th Dimension.freqs,0.850632,false
+Post Malone - White Iverson_segment9_brown_intensity_0.2.freqs,segment9_brown,0.2,Post Malone - White Iverson.freqs,0.997174,true
+Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.1.freqs,segment4_brown,0.1,4th Dimension.freqs,0.923007,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_intensity_0.05.freqs,segment9_white,0.05,4th Dimension.freqs,0.86778,false
+Post Malone - White Iverson_segment9_white_intensity_0.45.freqs,segment9_white,0.45,Post Malone - White Iverson.freqs,0.997174,true
+Post Malone - White Iverson_segment3_white_intensity_0.15.freqs,segment3_white,0.15,4th Dimension.freqs,0.858998,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_intensity_0.4.freqs,segment9_white,0.4,4th Dimension.freqs,0.86778,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_pink_intensity_0.5.freqs,segment5_pink,0.5,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.35.freqs,segment7_brown,0.35,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.15.freqs,segment8_pink,0.15,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Post Malone - White Iverson_segment9_brown_intensity_0.4.freqs,segment9_brown,0.4,Post Malone - White Iverson.freqs,0.997174,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.2.freqs,segment4_white,0.2,4th Dimension.freqs,0.847301,false
+Post Malone - White Iverson_segment1_pink_intensity_0.45.freqs,segment1_pink,0.45,4th Dimension.freqs,0.933757,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.35.freqs,segment1_white,0.35,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.5.freqs,segment4_pink,0.5,4th Dimension.freqs,0.923007,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.2.freqs,segment3_white,0.2,4th Dimension.freqs,0.873609,false
+Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.15.freqs,segment1_white,0.15,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.2.freqs,segment2_pink,0.2,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.2.freqs,segment7_white,0.2,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.3.freqs,segment1_white,0.3,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_intensity_0.05.freqs,segment8_pink,0.05,4th Dimension.freqs,0.963964,false
+Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.3.freqs,segment3_pink,0.3,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.3.freqs,segment1_white,0.3,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.1.freqs,segment10_white,0.1,4th Dimension.freqs,0.923916,false
+Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.15.freqs,segment3_white,0.15,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.45.freqs,segment10_white,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.2.freqs,segment4_pink,0.2,4th Dimension.freqs,0.936634,false
+Post Malone - White Iverson_segment4_pink_intensity_0.35.freqs,segment4_pink,0.35,4th Dimension.freqs,0.913203,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_intensity_0.4.freqs,segment4_brown,0.4,4th Dimension.freqs,0.847301,false
+Post Malone - White Iverson_segment6_brown_intensity_0.05.freqs,segment6_brown,0.05,4th Dimension.freqs,0.885457,false
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.3.freqs,segment1_brown,0.3,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.4.freqs,segment7_brown,0.4,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.25.freqs,segment9_brown,0.25,4th Dimension.freqs,0.86778,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.35.freqs,segment2_white,0.35,4th Dimension.freqs,0.843024,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.1.freqs,segment2_white,0.1,4th Dimension.freqs,0.843024,false
+Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.1.freqs,segment10_pink,0.1,4th Dimension.freqs,0.975433,false
+Post Malone - White Iverson_segment8_brown_intensity_0.4.freqs,segment8_brown,0.4,4th Dimension.freqs,0.863161,false
+Post Malone - White Iverson_segment7_brown_intensity_0.15.freqs,segment7_brown,0.15,New_Slaves.freqs,0.993862,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.15.freqs,segment3_white,0.15,4th Dimension.freqs,0.873609,false
+Post Malone - White Iverson_segment10_brown_intensity_0.3.freqs,segment10_brown,0.3,4th Dimension.freqs,0.894958,false
+Post Malone - White Iverson_segment3_pink_intensity_0.45.freqs,segment3_pink,0.45,4th Dimension.freqs,0.858998,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.1.freqs,segment10_brown,0.1,4th Dimension.freqs,0.975433,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.25.freqs,segment10_brown,0.25,4th Dimension.freqs,0.92418,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.2.freqs,segment1_pink,0.2,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.2.freqs,segment10_brown,0.2,4th Dimension.freqs,0.975433,false
+Coldplay - Viva La Vida (Official Video)_brown_intensity_0.5.freqs,brown,0.5,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Post Malone - White Iverson_segment10_pink_intensity_0.5.freqs,segment10_pink,0.5,New_Slaves.freqs,0.993919,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.4.freqs,segment9_white,0.4,4th Dimension.freqs,0.867401,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.15.freqs,segment7_white,0.15,4th Dimension.freqs,0.851503,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.1.freqs,segment3_brown,0.1,4th Dimension.freqs,0.850632,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.35.freqs,segment5_brown,0.35,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.5.freqs,segment2_pink,0.5,4th Dimension.freqs,0.843024,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_white_intensity_0.35.freqs,segment8_white,0.35,4th Dimension.freqs,0.869824,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.15.freqs,segment7_white,0.15,4th Dimension.freqs,0.91343,false
+Imagine Dragons - Bones (Official Music Video)_white_intensity_0.05.freqs,white,0.05,4th Dimension.freqs,0.888334,false
+Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.4.freqs,segment9_pink,0.4,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.15.freqs,segment1_pink,0.15,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.1.freqs,segment4_pink,0.1,4th Dimension.freqs,0.936634,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.1.freqs,segment5_brown,0.1,4th Dimension.freqs,0.881217,false
+Post Malone - White Iverson_segment1_white_intensity_0.5.freqs,segment1_white,0.5,Post Malone - White Iverson.freqs,0.982045,true
+Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.5.freqs,segment9_pink,0.5,4th Dimension.freqs,0.867401,false
+Coldplay - Viva La Vida (Official Video)_white_intensity_0.15.freqs,white,0.15,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Post Malone - White Iverson_segment2_white_intensity_0.05.freqs,segment2_white,0.05,Post Malone - White Iverson.freqs,0.988107,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.05.freqs,segment7_pink,0.05,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment10_brown_intensity_0.35.freqs,segment10_brown,0.35,New_Slaves.freqs,0.993442,false
+Post Malone - White Iverson_segment8_brown_intensity_0.45.freqs,segment8_brown,0.45,4th Dimension.freqs,0.863161,false
+Post Malone - White Iverson_segment6_pink_intensity_0.5.freqs,segment6_pink,0.5,4th Dimension.freqs,0.885457,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_white_intensity_0.5.freqs,segment5_white,0.5,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_pink_intensity_0.15.freqs,pink,0.15,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.25.freqs,segment10_pink,0.25,4th Dimension.freqs,0.924029,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.4.freqs,segment9_brown,0.4,4th Dimension.freqs,0.86778,false
+Coldplay - Viva La Vida (Official Video)_pink_intensity_0.45.freqs,pink,0.45,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Post Malone - White Iverson_segment8_white_intensity_0.3.freqs,segment8_white,0.3,4th Dimension.freqs,0.863161,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.05.freqs,segment5_white,0.05,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.45.freqs,segment1_brown,0.45,4th Dimension.freqs,0.89598,false
+Avicii - Wake Me Up (Official Video)_pink_intensity_0.05.freqs,pink,0.05,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_intensity_0.2.freqs,segment2_brown,0.2,4th Dimension.freqs,0.843024,false
+Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.2.freqs,segment9_pink,0.2,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.35.freqs,segment3_white,0.35,4th Dimension.freqs,0.873609,false
+Imagine Dragons - Bones (Official Music Video)_brown_intensity_0.1.freqs,brown,0.1,4th Dimension.freqs,0.888334,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.1.freqs,segment4_pink,0.1,4th Dimension.freqs,0.923007,false
+Post Malone - White Iverson_segment8_white_intensity_0.1.freqs,segment8_white,0.1,4th Dimension.freqs,0.863161,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.1.freqs,segment6_pink,0.1,4th Dimension.freqs,0.852373,false
+Travis Scott - NO BYSTANDERS (Audio)_white_intensity_0.35.freqs,white,0.35,4th Dimension.freqs,0.849004,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.15.freqs,segment4_pink,0.15,4th Dimension.freqs,0.847301,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.35.freqs,segment9_brown,0.35,4th Dimension.freqs,0.86778,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.25.freqs,segment5_pink,0.25,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment1_brown_intensity_0.4.freqs,segment1_brown,0.4,4th Dimension.freqs,0.933833,false
+Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.5.freqs,segment1_pink,0.5,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.05.freqs,segment7_white,0.05,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.1.freqs,segment3_white,0.1,4th Dimension.freqs,0.873609,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.25.freqs,segment1_white,0.25,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_white_intensity_0.3.freqs,segment1_white,0.3,4th Dimension.freqs,0.899955,false
+Post Malone - White Iverson_segment4_white_intensity_0.3.freqs,segment4_white,0.3,4th Dimension.freqs,0.913203,false
+Avicii - Wake Me Up (Official Video)_segment5_white_intensity_0.45.freqs,segment5_white,0.45,4th Dimension.freqs,0.881217,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.1.freqs,segment6_brown,0.1,4th Dimension.freqs,0.852373,false
+Post Malone - White Iverson_segment9_pink_intensity_0.2.freqs,segment9_pink,0.2,Post Malone - White Iverson.freqs,0.997174,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_intensity_0.1.freqs,segment2_brown,0.1,4th Dimension.freqs,0.843024,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.25.freqs,segment8_pink,0.25,4th Dimension.freqs,0.869824,false
+Avicii - Wake Me Up (Official Video)_segment8_white_intensity_0.05.freqs,segment8_white,0.05,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.4.freqs,segment10_pink,0.4,4th Dimension.freqs,0.975433,false
+Post Malone - White Iverson_segment9_white_intensity_0.2.freqs,segment9_white,0.2,Post Malone - White Iverson.freqs,0.997174,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_intensity_0.3.freqs,segment8_white,0.3,4th Dimension.freqs,0.963964,false
+Post Malone - White Iverson_segment2_white_intensity_0.15.freqs,segment2_white,0.15,Post Malone - White Iverson.freqs,0.988107,true
+Post Malone - White Iverson_segment3_brown_intensity_0.1.freqs,segment3_brown,0.1,4th Dimension.freqs,0.858998,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.2.freqs,segment6_white,0.2,4th Dimension.freqs,0.868802,false
+Post Malone - White Iverson_segment8_brown_intensity_0.25.freqs,segment8_brown,0.25,4th Dimension.freqs,0.863161,false
+Post Malone - White Iverson_segment7_white_intensity_0.2.freqs,segment7_white,0.2,New_Slaves.freqs,0.993862,false
+Post Malone - White Iverson_segment5_white_intensity_0.15.freqs,segment5_white,0.15,4th Dimension.freqs,0.934969,false
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.45.freqs,segment3_brown,0.45,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Coldplay - Viva La Vida (Official Video)_brown_intensity_0.3.freqs,brown,0.3,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.3.freqs,segment2_white,0.3,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Post Malone - White Iverson_segment8_white_intensity_0.15.freqs,segment8_white,0.15,4th Dimension.freqs,0.863161,false
+Post Malone - White Iverson_segment2_pink_intensity_0.45.freqs,segment2_pink,0.45,Post Malone - White Iverson.freqs,0.988107,true
+Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.4.freqs,segment3_pink,0.4,4th Dimension.freqs,0.850632,false
+Coldplay - Viva La Vida (Official Video)_white_intensity_0.5.freqs,white,0.5,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.1.freqs,segment9_brown,0.1,4th Dimension.freqs,0.867401,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.5.freqs,segment4_brown,0.5,4th Dimension.freqs,0.923007,false
+Avicii - Wake Me Up (Official Video)_white_intensity_0.5.freqs,white,0.5,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.1.freqs,segment4_brown,0.1,4th Dimension.freqs,0.936634,false
+Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.1.freqs,segment9_white,0.1,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Avicii - Wake Me Up (Official Video)_brown_intensity_0.15.freqs,brown,0.15,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.35.freqs,segment7_pink,0.35,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.35.freqs,segment4_white,0.35,4th Dimension.freqs,0.936634,false
+Post Malone - White Iverson_segment5_white_intensity_0.4.freqs,segment5_white,0.4,4th Dimension.freqs,0.934969,false
+Post Malone - White Iverson_segment6_brown_intensity_0.1.freqs,segment6_brown,0.1,4th Dimension.freqs,0.885457,false
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.1.freqs,segment8_brown,0.1,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.2.freqs,segment2_brown,0.2,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Avicii - Wake Me Up (Official Video)_segment5_white_intensity_0.5.freqs,segment5_white,0.5,4th Dimension.freqs,0.881217,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.35.freqs,segment8_pink,0.35,4th Dimension.freqs,0.869824,false
+Post Malone - White Iverson_segment8_pink_intensity_0.2.freqs,segment8_pink,0.2,4th Dimension.freqs,0.863161,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.2.freqs,segment2_pink,0.2,4th Dimension.freqs,0.854872,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.25.freqs,segment3_brown,0.25,4th Dimension.freqs,0.850632,false
+Post Malone - White Iverson_segment6_brown_intensity_0.5.freqs,segment6_brown,0.5,4th Dimension.freqs,0.885457,false
+Post Malone - White Iverson_segment5_white_intensity_0.3.freqs,segment5_white,0.3,4th Dimension.freqs,0.934969,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.1.freqs,segment2_white,0.1,4th Dimension.freqs,0.854872,false
+Post Malone - White Iverson_segment4_white_intensity_0.2.freqs,segment4_white,0.2,4th Dimension.freqs,0.913203,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.1.freqs,segment4_white,0.1,4th Dimension.freqs,0.923007,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.1.freqs,segment3_pink,0.1,4th Dimension.freqs,0.850632,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.5.freqs,segment5_brown,0.5,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.25.freqs,segment6_white,0.25,4th Dimension.freqs,0.868802,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.5.freqs,segment2_white,0.5,4th Dimension.freqs,0.854872,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.45.freqs,segment7_pink,0.45,4th Dimension.freqs,0.91343,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.4.freqs,segment10_brown,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.05.freqs,segment2_brown,0.05,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.15.freqs,segment6_brown,0.15,4th Dimension.freqs,0.852373,false
+Post Malone - White Iverson_segment2_white_intensity_0.2.freqs,segment2_white,0.2,Post Malone - White Iverson.freqs,0.988107,true
+Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.35.freqs,segment3_pink,0.35,4th Dimension.freqs,0.850632,false
+Avicii - Wake Me Up (Official Video)_white_intensity_0.2.freqs,white,0.2,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Coldplay - Viva La Vida (Official Video)_brown_intensity_0.1.freqs,brown,0.1,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.25.freqs,segment4_white,0.25,4th Dimension.freqs,0.936634,false
+Post Malone - White Iverson_segment4_brown_intensity_0.45.freqs,segment4_brown,0.45,4th Dimension.freqs,0.913203,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.5.freqs,segment4_white,0.5,4th Dimension.freqs,0.923007,false
+Post Malone - White Iverson_segment4_white_intensity_0.5.freqs,segment4_white,0.5,4th Dimension.freqs,0.913203,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.15.freqs,segment7_brown,0.15,4th Dimension.freqs,0.91343,false
+Post Malone - White Iverson_segment1_brown_intensity_0.05.freqs,segment1_brown,0.05,4th Dimension.freqs,0.933795,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.3.freqs,segment4_pink,0.3,4th Dimension.freqs,0.923007,false
+Post Malone - White Iverson_segment10_brown_intensity_0.15.freqs,segment10_brown,0.15,4th Dimension.freqs,0.894958,false
+Imagine Dragons - Bones (Official Music Video)_brown_intensity_0.25.freqs,brown,0.25,4th Dimension.freqs,0.888334,false
+Post Malone - White Iverson_segment4_white_intensity_0.35.freqs,segment4_white,0.35,4th Dimension.freqs,0.913203,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.15.freqs,segment2_pink,0.15,4th Dimension.freqs,0.854872,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.35.freqs,segment4_white,0.35,4th Dimension.freqs,0.923007,false
+Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.3.freqs,segment6_brown,0.3,4th Dimension.freqs,0.880385,false
+Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.25.freqs,segment4_pink,0.25,4th Dimension.freqs,0.936634,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.45.freqs,segment1_pink,0.45,4th Dimension.freqs,0.89598,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.15.freqs,segment10_pink,0.15,4th Dimension.freqs,0.92418,false
+Post Malone - White Iverson_segment1_white_intensity_0.2.freqs,segment1_white,0.2,4th Dimension.freqs,0.933757,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.2.freqs,segment3_white,0.2,4th Dimension.freqs,0.850632,false
+Coldplay - Viva La Vida (Official Video)_white_intensity_0.4.freqs,white,0.4,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.2.freqs,segment3_brown,0.2,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.25.freqs,segment9_brown,0.25,4th Dimension.freqs,0.867401,false
+Travis Scott - NO BYSTANDERS (Audio)_white_intensity_0.3.freqs,white,0.3,4th Dimension.freqs,0.849004,false
+Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.1.freqs,segment6_pink,0.1,4th Dimension.freqs,0.880385,false
+Post Malone - White Iverson_segment1_brown_intensity_0.2.freqs,segment1_brown,0.2,4th Dimension.freqs,0.933795,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.5.freqs,segment10_white,0.5,4th Dimension.freqs,0.869672,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.15.freqs,segment9_brown,0.15,4th Dimension.freqs,0.867401,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.15.freqs,segment3_brown,0.15,4th Dimension.freqs,0.850632,false
+Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.15.freqs,segment6_pink,0.15,4th Dimension.freqs,0.880385,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.2.freqs,segment5_brown,0.2,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment2_pink_intensity_0.4.freqs,segment2_pink,0.4,Post Malone - White Iverson.freqs,0.988107,true
+Post Malone - White Iverson_segment5_white_intensity_0.35.freqs,segment5_white,0.35,4th Dimension.freqs,0.934969,false
+Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.15.freqs,segment10_white,0.15,4th Dimension.freqs,0.975433,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.15.freqs,segment10_brown,0.15,4th Dimension.freqs,0.975433,false
+Travis Scott - NO BYSTANDERS (Audio)_brown_intensity_0.2.freqs,brown,0.2,4th Dimension.freqs,0.849004,false
+Post Malone - White Iverson_segment4_brown_intensity_0.4.freqs,segment4_brown,0.4,4th Dimension.freqs,0.913203,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.5.freqs,segment7_brown,0.5,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.45.freqs,segment8_pink,0.45,4th Dimension.freqs,0.869824,false
+Post Malone - White Iverson_segment9_pink_intensity_0.4.freqs,segment9_pink,0.4,Post Malone - White Iverson.freqs,0.997174,true
+Post Malone - White Iverson_segment2_white_intensity_0.3.freqs,segment2_white,0.3,Post Malone - White Iverson.freqs,0.988107,true
+Avicii - Wake Me Up (Official Video)_segment5_white_intensity_0.1.freqs,segment5_white,0.1,4th Dimension.freqs,0.881217,false
+Post Malone - White Iverson_segment8_white_intensity_0.4.freqs,segment8_white,0.4,4th Dimension.freqs,0.863161,false
+Post Malone - White Iverson_segment7_brown_intensity_0.35.freqs,segment7_brown,0.35,New_Slaves.freqs,0.993862,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.35.freqs,segment10_pink,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.15.freqs,segment4_brown,0.15,4th Dimension.freqs,0.923007,false
+Post Malone - White Iverson_segment9_brown_intensity_0.3.freqs,segment9_brown,0.3,Post Malone - White Iverson.freqs,0.997174,true
+Post Malone - White Iverson_segment3_white_intensity_0.25.freqs,segment3_white,0.25,4th Dimension.freqs,0.858998,false
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.5.freqs,segment2_pink,0.5,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.15.freqs,segment2_pink,0.15,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.25.freqs,segment5_brown,0.25,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.35.freqs,segment10_brown,0.35,4th Dimension.freqs,0.975433,false
+Post Malone - White Iverson_segment6_pink_intensity_0.2.freqs,segment6_pink,0.2,4th Dimension.freqs,0.885457,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.3.freqs,segment3_white,0.3,4th Dimension.freqs,0.873609,false
+Post Malone - White Iverson_segment10_brown_intensity_0.1.freqs,segment10_brown,0.1,Kanye West - Hurricane.freqs,0.99619,false
+Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.5.freqs,segment6_pink,0.5,4th Dimension.freqs,0.880385,false
+Post Malone - White Iverson_segment5_brown_intensity_0.4.freqs,segment5_brown,0.4,4th Dimension.freqs,0.934969,false
+Avicii - Wake Me Up (Official Video)_pink_intensity_0.4.freqs,pink,0.4,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Avicii - Wake Me Up (Official Video)_brown_intensity_0.5.freqs,brown,0.5,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.4.freqs,segment3_pink,0.4,4th Dimension.freqs,0.873609,false
+Post Malone - White Iverson_segment5_brown_intensity_0.2.freqs,segment5_brown,0.2,4th Dimension.freqs,0.934969,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.4.freqs,segment1_white,0.4,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Post Malone - White Iverson_segment1_pink_intensity_0.4.freqs,segment1_pink,0.4,4th Dimension.freqs,0.933757,false
+Post Malone - White Iverson_segment10_brown_intensity_0.5.freqs,segment10_brown,0.5,4th Dimension.freqs,0.894958,false
+Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.45.freqs,segment4_white,0.45,4th Dimension.freqs,0.936634,false
+Post Malone - White Iverson_segment10_white_intensity_0.45.freqs,segment10_white,0.45,4th Dimension.freqs,0.867325,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.15.freqs,segment2_pink,0.15,4th Dimension.freqs,0.843024,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.3.freqs,segment2_white,0.3,4th Dimension.freqs,0.854872,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.45.freqs,segment3_brown,0.45,4th Dimension.freqs,0.873609,false
+Post Malone - White Iverson_segment3_pink_intensity_0.2.freqs,segment3_pink,0.2,4th Dimension.freqs,0.858998,false
+Post Malone - White Iverson_segment6_pink_intensity_0.05.freqs,segment6_pink,0.05,4th Dimension.freqs,0.885457,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.4.freqs,segment10_white,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998521,true
+Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.35.freqs,segment1_white,0.35,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.45.freqs,segment7_white,0.45,4th Dimension.freqs,0.91343,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.3.freqs,segment7_brown,0.3,4th Dimension.freqs,0.851503,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.4.freqs,segment4_brown,0.4,4th Dimension.freqs,0.923007,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.4.freqs,segment2_pink,0.4,4th Dimension.freqs,0.854872,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.35.freqs,segment7_white,0.35,4th Dimension.freqs,0.91343,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_white_intensity_0.5.freqs,segment8_white,0.5,4th Dimension.freqs,0.869824,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.1.freqs,segment7_pink,0.1,4th Dimension.freqs,0.91343,false
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.2.freqs,segment8_brown,0.2,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.05.freqs,segment1_brown,0.05,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.25.freqs,segment7_brown,0.25,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_intensity_0.3.freqs,segment2_brown,0.3,4th Dimension.freqs,0.843024,false
+Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.5.freqs,segment9_pink,0.5,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Imagine Dragons - Bones (Official Music Video)_white_intensity_0.5.freqs,white,0.5,4th Dimension.freqs,0.888334,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.25.freqs,segment1_brown,0.25,4th Dimension.freqs,0.89598,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.2.freqs,segment5_pink,0.2,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment2_white_intensity_0.45.freqs,segment2_white,0.45,Post Malone - White Iverson.freqs,0.988107,true
+Travis Scott - NO BYSTANDERS (Audio)_pink_intensity_0.4.freqs,pink,0.4,4th Dimension.freqs,0.849004,false
+Post Malone - White Iverson_segment4_pink_intensity_0.2.freqs,segment4_pink,0.2,4th Dimension.freqs,0.913203,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.3.freqs,segment1_pink,0.3,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.05.freqs,segment10_pink,0.05,4th Dimension.freqs,0.975433,false
+Post Malone - White Iverson_segment6_pink_intensity_0.1.freqs,segment6_pink,0.1,4th Dimension.freqs,0.885457,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.05.freqs,segment8_pink,0.05,4th Dimension.freqs,0.869824,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.2.freqs,segment9_brown,0.2,4th Dimension.freqs,0.867401,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.35.freqs,segment6_white,0.35,4th Dimension.freqs,0.868802,false
+Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.2.freqs,segment6_brown,0.2,4th Dimension.freqs,0.880385,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.45.freqs,segment6_white,0.45,4th Dimension.freqs,0.852373,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.5.freqs,segment4_pink,0.5,4th Dimension.freqs,0.847301,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.05.freqs,segment6_brown,0.05,4th Dimension.freqs,0.852373,false
+Post Malone - White Iverson_segment1_pink_intensity_0.35.freqs,segment1_pink,0.35,4th Dimension.freqs,0.933757,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.2.freqs,segment10_pink,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998336,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.05.freqs,segment6_white,0.05,4th Dimension.freqs,0.852373,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.3.freqs,segment10_brown,0.3,4th Dimension.freqs,0.975433,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.15.freqs,segment2_white,0.15,4th Dimension.freqs,0.854872,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_intensity_0.35.freqs,segment4_brown,0.35,4th Dimension.freqs,0.847301,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.3.freqs,segment9_brown,0.3,4th Dimension.freqs,0.867401,false
+Post Malone - White Iverson_segment1_brown_intensity_0.25.freqs,segment1_brown,0.25,4th Dimension.freqs,0.933833,false
+Post Malone - White Iverson_segment7_pink_intensity_0.1.freqs,segment7_pink,0.1,New_Slaves.freqs,0.993862,false
+Post Malone - White Iverson_segment3_white_intensity_0.35.freqs,segment3_white,0.35,4th Dimension.freqs,0.858998,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.1.freqs,segment5_pink,0.1,4th Dimension.freqs,0.851503,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.05.freqs,segment9_white,0.05,4th Dimension.freqs,0.867401,false
+Travis Scott - NO BYSTANDERS (Audio)_pink_intensity_0.15.freqs,pink,0.15,4th Dimension.freqs,0.849004,false
+Post Malone - White Iverson_segment10_white_intensity_0.35.freqs,segment10_white,0.35,4th Dimension.freqs,0.907714,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.35.freqs,segment8_brown,0.35,4th Dimension.freqs,0.963964,false
+Avicii - Wake Me Up (Official Video)_white_intensity_0.4.freqs,white,0.4,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.25.freqs,segment5_pink,0.25,4th Dimension.freqs,0.881217,false
+Travis Scott - NO BYSTANDERS (Audio)_brown_intensity_0.4.freqs,brown,0.4,4th Dimension.freqs,0.849004,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.05.freqs,segment2_pink,0.05,4th Dimension.freqs,0.843024,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.1.freqs,segment1_white,0.1,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Avicii - Wake Me Up (Official Video)_pink_intensity_0.45.freqs,pink,0.45,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.1.freqs,segment10_brown,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.05.freqs,segment3_pink,0.05,4th Dimension.freqs,0.873609,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.15.freqs,segment7_brown,0.15,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment7_pink_intensity_0.4.freqs,segment7_pink,0.4,New_Slaves.freqs,0.993862,false
+Post Malone - White Iverson_segment4_brown_intensity_0.3.freqs,segment4_brown,0.3,4th Dimension.freqs,0.913203,false
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.15.freqs,segment8_brown,0.15,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_intensity_0.25.freqs,segment4_brown,0.25,4th Dimension.freqs,0.847301,false
+Avicii - Wake Me Up (Official Video)_white_intensity_0.1.freqs,white,0.1,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.35.freqs,segment4_pink,0.35,4th Dimension.freqs,0.936634,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.3.freqs,segment1_pink,0.3,4th Dimension.freqs,0.89598,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.4.freqs,segment3_brown,0.4,4th Dimension.freqs,0.873609,false
+Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.1.freqs,segment6_brown,0.1,4th Dimension.freqs,0.880385,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.45.freqs,segment6_white,0.45,4th Dimension.freqs,0.868802,false
+Travis Scott - NO BYSTANDERS (Audio)_brown_intensity_0.1.freqs,brown,0.1,4th Dimension.freqs,0.849004,false
+Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.5.freqs,segment7_pink,0.5,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.25.freqs,segment1_white,0.25,Coldplay - Viva La Vida (Official Video).freqs,0.94495,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.25.freqs,segment1_pink,0.25,4th Dimension.freqs,0.89598,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.4.freqs,segment8_brown,0.4,4th Dimension.freqs,0.963964,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.2.freqs,segment4_pink,0.2,4th Dimension.freqs,0.923007,false
+Post Malone - White Iverson_segment1_brown_intensity_0.5.freqs,segment1_brown,0.5,4th Dimension.freqs,0.933833,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.45.freqs,segment8_brown,0.45,4th Dimension.freqs,0.963964,false
+Post Malone - White Iverson_segment9_brown_intensity_0.15.freqs,segment9_brown,0.15,Post Malone - White Iverson.freqs,0.997174,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.2.freqs,segment6_pink,0.2,4th Dimension.freqs,0.852373,false
+Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.4.freqs,segment2_white,0.4,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.2.freqs,segment6_brown,0.2,4th Dimension.freqs,0.868802,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.2.freqs,segment5_white,0.2,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.15.freqs,segment2_brown,0.15,4th Dimension.freqs,0.854872,false
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.1.freqs,segment3_brown,0.1,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.05.freqs,segment2_brown,0.05,4th Dimension.freqs,0.854872,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_intensity_0.05.freqs,segment4_brown,0.05,4th Dimension.freqs,0.847301,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.3.freqs,segment7_white,0.3,4th Dimension.freqs,0.91343,false
+Post Malone - White Iverson_segment8_pink_intensity_0.35.freqs,segment8_pink,0.35,4th Dimension.freqs,0.863161,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.3.freqs,segment3_pink,0.3,4th Dimension.freqs,0.850632,false
+Post Malone - White Iverson_segment1_pink_intensity_0.05.freqs,segment1_pink,0.05,4th Dimension.freqs,0.933719,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.3.freqs,segment6_brown,0.3,4th Dimension.freqs,0.868802,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.4.freqs,segment5_white,0.4,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.45.freqs,segment9_white,0.45,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Travis Scott - NO BYSTANDERS (Audio)_pink_intensity_0.2.freqs,pink,0.2,4th Dimension.freqs,0.849004,false
+Post Malone - White Iverson_segment10_brown_intensity_0.25.freqs,segment10_brown,0.25,4th Dimension.freqs,0.894882,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.4.freqs,segment1_pink,0.4,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Avicii - Wake Me Up (Official Video)_segment5_white_intensity_0.4.freqs,segment5_white,0.4,4th Dimension.freqs,0.881217,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.05.freqs,segment3_white,0.05,4th Dimension.freqs,0.850632,false
+Post Malone - White Iverson_segment6_white_intensity_0.5.freqs,segment6_white,0.5,4th Dimension.freqs,0.885457,false
+Avicii - Wake Me Up (Official Video)_brown_intensity_0.05.freqs,brown,0.05,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.5.freqs,segment6_pink,0.5,4th Dimension.freqs,0.868802,false
+Post Malone - White Iverson_segment8_white_intensity_0.25.freqs,segment8_white,0.25,4th Dimension.freqs,0.863161,false
+Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.4.freqs,segment7_pink,0.4,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.3.freqs,segment5_white,0.3,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.15.freqs,segment9_brown,0.15,4th Dimension.freqs,0.86778,false
+Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.45.freqs,segment8_pink,0.45,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.4.freqs,segment4_white,0.4,4th Dimension.freqs,0.936634,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.15.freqs,segment7_pink,0.15,4th Dimension.freqs,0.91343,false
+Post Malone - White Iverson_segment3_pink_intensity_0.3.freqs,segment3_pink,0.3,4th Dimension.freqs,0.858998,false
+Post Malone - White Iverson_segment9_pink_intensity_0.15.freqs,segment9_pink,0.15,Post Malone - White Iverson.freqs,0.997174,true
+Coldplay - Viva La Vida (Official Video)_white_intensity_0.3.freqs,white,0.3,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Travis Scott - NO BYSTANDERS (Audio)_pink_intensity_0.3.freqs,pink,0.3,4th Dimension.freqs,0.849004,false
+Imagine Dragons - Bones (Official Music Video)_pink_intensity_0.5.freqs,pink,0.5,4th Dimension.freqs,0.888334,false
+Post Malone - White Iverson_segment7_pink_intensity_0.15.freqs,segment7_pink,0.15,New_Slaves.freqs,0.993862,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.4.freqs,segment4_brown,0.4,4th Dimension.freqs,0.936634,false
+Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.35.freqs,segment5_pink,0.35,4th Dimension.freqs,0.881217,false
+Post Malone - White Iverson_segment8_brown_intensity_0.15.freqs,segment8_brown,0.15,4th Dimension.freqs,0.863161,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.05.freqs,segment2_pink,0.05,4th Dimension.freqs,0.854872,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.3.freqs,segment8_pink,0.3,4th Dimension.freqs,0.869824,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_intensity_0.35.freqs,segment2_brown,0.35,4th Dimension.freqs,0.843024,false
+Coldplay - Viva La Vida (Official Video)_white_intensity_0.25.freqs,white,0.25,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Post Malone - White Iverson_segment5_pink_intensity_0.05.freqs,segment5_pink,0.05,4th Dimension.freqs,0.934969,false
+Post Malone - White Iverson_segment9_brown_intensity_0.35.freqs,segment9_brown,0.35,Post Malone - White Iverson.freqs,0.997174,true
+Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.25.freqs,segment10_pink,0.25,4th Dimension.freqs,0.975433,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.5.freqs,segment10_pink,0.5,4th Dimension.freqs,0.918503,false
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.3.freqs,segment9_brown,0.3,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.25.freqs,segment4_brown,0.25,4th Dimension.freqs,0.923007,false
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.2.freqs,segment1_brown,0.2,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.35.freqs,segment5_brown,0.35,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.5.freqs,segment3_pink,0.5,4th Dimension.freqs,0.850632,false
+Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.3.freqs,segment8_pink,0.3,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973984,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.35.freqs,segment7_white,0.35,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.2.freqs,segment7_pink,0.2,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.4.freqs,segment7_brown,0.4,4th Dimension.freqs,0.91343,false
+Post Malone - White Iverson_segment4_brown_intensity_0.15.freqs,segment4_brown,0.15,4th Dimension.freqs,0.913203,false
+Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.05.freqs,segment1_pink,0.05,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.35.freqs,segment5_pink,0.35,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.15.freqs,segment5_white,0.15,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Coldplay - Viva La Vida (Official Video)_brown_intensity_0.05.freqs,brown,0.05,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Travis Scott - NO BYSTANDERS (Audio)_segment5_white_intensity_0.45.freqs,segment5_white,0.45,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.2.freqs,segment2_white,0.2,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Post Malone - White Iverson_segment9_pink_intensity_0.45.freqs,segment9_pink,0.45,Post Malone - White Iverson.freqs,0.997174,true
+Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.3.freqs,segment9_white,0.3,4th Dimension.freqs,0.867401,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.3.freqs,segment2_white,0.3,4th Dimension.freqs,0.843024,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_pink_intensity_0.25.freqs,segment5_pink,0.25,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.1.freqs,segment10_pink,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+Post Malone - White Iverson_segment4_white_intensity_0.45.freqs,segment4_white,0.45,4th Dimension.freqs,0.913203,false
+Post Malone - White Iverson_segment10_pink_intensity_0.2.freqs,segment10_pink,0.2,New_Slaves.freqs,0.993526,false
+Post Malone - White Iverson_segment2_brown_intensity_0.2.freqs,segment2_brown,0.2,Post Malone - White Iverson.freqs,0.988107,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_intensity_0.45.freqs,segment4_brown,0.45,4th Dimension.freqs,0.847301,false
+Post Malone - White Iverson_segment10_white_intensity_0.15.freqs,segment10_white,0.15,4th Dimension.freqs,0.903361,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.45.freqs,segment7_white,0.45,4th Dimension.freqs,0.851503,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.3.freqs,segment4_white,0.3,4th Dimension.freqs,0.923007,false
+Post Malone - White Iverson_segment3_white_intensity_0.3.freqs,segment3_white,0.3,4th Dimension.freqs,0.858998,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.25.freqs,segment4_pink,0.25,4th Dimension.freqs,0.923007,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.1.freqs,segment4_white,0.1,4th Dimension.freqs,0.847301,false
+Imagine Dragons - Bones (Official Music Video)_pink_intensity_0.15.freqs,pink,0.15,4th Dimension.freqs,0.888334,false
+Post Malone - White Iverson_segment9_brown_intensity_0.25.freqs,segment9_brown,0.25,Post Malone - White Iverson.freqs,0.997174,true
+Post Malone - White Iverson_segment10_white_intensity_0.05.freqs,segment10_white,0.05,4th Dimension.freqs,0.903399,false
+Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.25.freqs,segment7_white,0.25,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.1.freqs,segment8_brown,0.1,4th Dimension.freqs,0.869824,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.45.freqs,segment9_pink,0.45,4th Dimension.freqs,0.86778,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.3.freqs,segment4_white,0.3,4th Dimension.freqs,0.847301,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.25.freqs,segment2_white,0.25,4th Dimension.freqs,0.843024,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.15.freqs,segment3_pink,0.15,4th Dimension.freqs,0.850632,false
+Travis Scott - NO BYSTANDERS (Audio)_pink_intensity_0.05.freqs,pink,0.05,4th Dimension.freqs,0.849004,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_intensity_0.5.freqs,segment2_brown,0.5,4th Dimension.freqs,0.843024,false
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.3.freqs,segment3_brown,0.3,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.05.freqs,segment1_brown,0.05,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Coldplay - Viva La Vida (Official Video)_white_intensity_0.2.freqs,white,0.2,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.2.freqs,segment9_brown,0.2,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.4.freqs,segment3_white,0.4,4th Dimension.freqs,0.850632,false
+Post Malone - White Iverson_segment9_pink_intensity_0.3.freqs,segment9_pink,0.3,Post Malone - White Iverson.freqs,0.997174,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_intensity_0.5.freqs,segment9_white,0.5,4th Dimension.freqs,0.86778,false
+Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.05.freqs,segment3_pink,0.05,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Post Malone - White Iverson_segment2_brown_intensity_0.05.freqs,segment2_brown,0.05,Post Malone - White Iverson.freqs,0.988107,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_pink_intensity_0.35.freqs,segment5_pink,0.35,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.1.freqs,segment9_brown,0.1,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.45.freqs,segment2_white,0.45,4th Dimension.freqs,0.843024,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.25.freqs,segment6_brown,0.25,4th Dimension.freqs,0.852373,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.45.freqs,segment3_white,0.45,4th Dimension.freqs,0.850632,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.05.freqs,segment10_brown,0.05,4th Dimension.freqs,0.924029,false
+Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.05.freqs,segment9_pink,0.05,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.4.freqs,segment2_brown,0.4,4th Dimension.freqs,0.854872,false
+Post Malone - White Iverson_segment8_white_intensity_0.2.freqs,segment8_white,0.2,4th Dimension.freqs,0.863161,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.15.freqs,segment9_pink,0.15,4th Dimension.freqs,0.86778,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.3.freqs,segment5_brown,0.3,4th Dimension.freqs,0.881217,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.5.freqs,segment1_brown,0.5,4th Dimension.freqs,0.89598,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.45.freqs,segment4_brown,0.45,4th Dimension.freqs,0.923007,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.3.freqs,segment3_pink,0.3,4th Dimension.freqs,0.873609,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.4.freqs,segment8_brown,0.4,4th Dimension.freqs,0.869824,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.4.freqs,segment4_white,0.4,4th Dimension.freqs,0.923007,false
+Post Malone - White Iverson_segment7_white_intensity_0.25.freqs,segment7_white,0.25,New_Slaves.freqs,0.993862,false
+Imagine Dragons - Bones (Official Music Video)_brown_intensity_0.35.freqs,brown,0.35,4th Dimension.freqs,0.888334,false
+Post Malone - White Iverson_segment6_brown_intensity_0.25.freqs,segment6_brown,0.25,4th Dimension.freqs,0.885457,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.3.freqs,segment3_brown,0.3,4th Dimension.freqs,0.850632,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.25.freqs,segment10_white,0.25,4th Dimension.freqs,0.92384,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.3.freqs,segment4_brown,0.3,4th Dimension.freqs,0.936634,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.4.freqs,segment6_pink,0.4,4th Dimension.freqs,0.868802,false
+Avicii - Wake Me Up (Official Video)_segment8_white_intensity_0.45.freqs,segment8_white,0.45,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.45.freqs,segment4_brown,0.45,4th Dimension.freqs,0.936634,false
+Avicii - Wake Me Up (Official Video)_pink_intensity_0.5.freqs,pink,0.5,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.2.freqs,segment4_pink,0.2,4th Dimension.freqs,0.847301,false
+Post Malone - White Iverson_segment1_brown_intensity_0.35.freqs,segment1_brown,0.35,4th Dimension.freqs,0.933757,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.25.freqs,segment5_brown,0.25,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Post Malone - White Iverson_segment5_pink_intensity_0.5.freqs,segment5_pink,0.5,4th Dimension.freqs,0.934969,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.2.freqs,segment4_brown,0.2,4th Dimension.freqs,0.923007,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_intensity_0.45.freqs,segment8_pink,0.45,4th Dimension.freqs,0.963964,false
+Post Malone - White Iverson_segment7_white_intensity_0.15.freqs,segment7_white,0.15,New_Slaves.freqs,0.993862,false
+Travis Scott - NO BYSTANDERS (Audio)_white_intensity_0.25.freqs,white,0.25,4th Dimension.freqs,0.849004,false
+Avicii - Wake Me Up (Official Video)_pink_intensity_0.25.freqs,pink,0.25,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Travis Scott - NO BYSTANDERS (Audio)_white_intensity_0.1.freqs,white,0.1,4th Dimension.freqs,0.849004,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.2.freqs,segment10_pink,0.2,4th Dimension.freqs,0.923916,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.4.freqs,segment6_pink,0.4,4th Dimension.freqs,0.852373,false
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.35.freqs,segment2_brown,0.35,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Post Malone - White Iverson_segment5_pink_intensity_0.15.freqs,segment5_pink,0.15,4th Dimension.freqs,0.934969,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_intensity_0.3.freqs,segment9_white,0.3,4th Dimension.freqs,0.86778,false
+Post Malone - White Iverson_segment2_pink_intensity_0.2.freqs,segment2_pink,0.2,Post Malone - White Iverson.freqs,0.988107,true
+Post Malone - White Iverson_segment5_brown_intensity_0.3.freqs,segment5_brown,0.3,4th Dimension.freqs,0.934969,false
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.05.freqs,segment3_brown,0.05,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_white_intensity_0.45.freqs,segment8_white,0.45,4th Dimension.freqs,0.869824,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_intensity_0.15.freqs,segment4_brown,0.15,4th Dimension.freqs,0.847301,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_intensity_0.2.freqs,segment8_pink,0.2,4th Dimension.freqs,0.963964,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.2.freqs,segment3_brown,0.2,4th Dimension.freqs,0.850632,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.35.freqs,segment6_pink,0.35,4th Dimension.freqs,0.852373,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.15.freqs,segment7_brown,0.15,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Post Malone - White Iverson_segment7_brown_intensity_0.25.freqs,segment7_brown,0.25,New_Slaves.freqs,0.993862,false
+Post Malone - White Iverson_segment6_brown_intensity_0.35.freqs,segment6_brown,0.35,4th Dimension.freqs,0.885457,false
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.3.freqs,segment2_brown,0.3,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.2.freqs,segment2_white,0.2,4th Dimension.freqs,0.843024,false
+Post Malone - White Iverson_segment5_white_intensity_0.45.freqs,segment5_white,0.45,4th Dimension.freqs,0.934969,false
+Post Malone - White Iverson_segment10_white_intensity_0.3.freqs,segment10_white,0.3,New_Slaves.freqs,0.99333,false
+Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.1.freqs,segment7_pink,0.1,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Post Malone - White Iverson_segment9_brown_intensity_0.1.freqs,segment9_brown,0.1,Post Malone - White Iverson.freqs,0.997174,true
+Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.15.freqs,segment10_white,0.15,4th Dimension.freqs,0.923916,false
+Post Malone - White Iverson_segment3_white_intensity_0.2.freqs,segment3_white,0.2,4th Dimension.freqs,0.858998,false
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.5.freqs,segment3_brown,0.5,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_pink_intensity_0.05.freqs,segment5_pink,0.05,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Post Malone - White Iverson_segment6_pink_intensity_0.35.freqs,segment6_pink,0.35,4th Dimension.freqs,0.885457,false
+Travis Scott - NO BYSTANDERS (Audio)_pink_intensity_0.5.freqs,pink,0.5,4th Dimension.freqs,0.849004,false
+Post Malone - White Iverson_segment6_pink_intensity_0.45.freqs,segment6_pink,0.45,4th Dimension.freqs,0.885457,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.25.freqs,segment7_white,0.25,4th Dimension.freqs,0.91343,false
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.4.freqs,segment9_brown,0.4,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.35.freqs,segment4_pink,0.35,4th Dimension.freqs,0.923007,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.2.freqs,segment7_brown,0.2,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.4.freqs,segment3_white,0.4,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Post Malone - White Iverson_segment6_pink_intensity_0.3.freqs,segment6_pink,0.3,4th Dimension.freqs,0.885457,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.4.freqs,segment6_brown,0.4,4th Dimension.freqs,0.868802,false
+Post Malone - White Iverson_segment10_pink_intensity_0.25.freqs,segment10_pink,0.25,4th Dimension.freqs,0.921342,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.2.freqs,segment7_pink,0.2,4th Dimension.freqs,0.91343,false
+Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.3.freqs,segment9_white,0.3,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.05.freqs,segment4_pink,0.05,4th Dimension.freqs,0.923007,false
+Post Malone - White Iverson_segment1_pink_intensity_0.2.freqs,segment1_pink,0.2,4th Dimension.freqs,0.933757,false
+Avicii - Wake Me Up (Official Video)_white_intensity_0.05.freqs,white,0.05,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Imagine Dragons - Bones (Official Music Video)_brown_intensity_0.5.freqs,brown,0.5,4th Dimension.freqs,0.888334,false
+Imagine Dragons - Bones (Official Music Video)_pink_intensity_0.2.freqs,pink,0.2,4th Dimension.freqs,0.888334,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.05.freqs,segment3_white,0.05,4th Dimension.freqs,0.873609,false
+Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.45.freqs,segment7_pink,0.45,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Post Malone - White Iverson_segment8_brown_intensity_0.1.freqs,segment8_brown,0.1,4th Dimension.freqs,0.863161,false
+Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.45.freqs,segment7_white,0.45,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.45.freqs,segment5_pink,0.45,4th Dimension.freqs,0.881217,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.4.freqs,segment6_white,0.4,4th Dimension.freqs,0.852373,false
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.25.freqs,segment2_pink,0.25,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.4.freqs,segment6_pink,0.4,4th Dimension.freqs,0.880385,false
+Post Malone - White Iverson_segment1_white_intensity_0.35.freqs,segment1_white,0.35,Post Malone - White Iverson.freqs,0.982071,true
+Post Malone - White Iverson_segment6_brown_intensity_0.3.freqs,segment6_brown,0.3,4th Dimension.freqs,0.885457,false
+Avicii - Wake Me Up (Official Video)_segment5_white_intensity_0.2.freqs,segment5_white,0.2,4th Dimension.freqs,0.881217,false
+Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.1.freqs,segment1_white,0.1,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.1.freqs,segment1_brown,0.1,4th Dimension.freqs,0.89598,false
+Post Malone - White Iverson_segment1_white_intensity_0.25.freqs,segment1_white,0.25,Post Malone - White Iverson.freqs,0.981917,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.2.freqs,segment1_white,0.2,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_white_intensity_0.05.freqs,segment5_white,0.05,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.1.freqs,segment7_white,0.1,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment4_brown_intensity_0.2.freqs,segment4_brown,0.2,4th Dimension.freqs,0.913203,false
+Post Malone - White Iverson_segment8_brown_intensity_0.2.freqs,segment8_brown,0.2,4th Dimension.freqs,0.863161,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.5.freqs,segment10_white,0.5,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998521,true
+Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.45.freqs,segment9_pink,0.45,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Post Malone - White Iverson_segment4_pink_intensity_0.1.freqs,segment4_pink,0.1,4th Dimension.freqs,0.913203,false
+Post Malone - White Iverson_segment10_pink_intensity_0.3.freqs,segment10_pink,0.3,New_Slaves.freqs,0.99333,false
+Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.1.freqs,segment3_pink,0.1,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.2.freqs,segment7_brown,0.2,4th Dimension.freqs,0.91343,false
+Avicii - Wake Me Up (Official Video)_segment8_white_intensity_0.5.freqs,segment8_white,0.5,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.3.freqs,segment6_pink,0.3,4th Dimension.freqs,0.880385,false
+Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.45.freqs,segment4_pink,0.45,4th Dimension.freqs,0.936634,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.5.freqs,segment7_brown,0.5,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_pink_intensity_0.15.freqs,segment5_pink,0.15,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.35.freqs,segment1_pink,0.35,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_intensity_0.1.freqs,segment4_brown,0.1,4th Dimension.freqs,0.847301,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.5.freqs,segment6_brown,0.5,4th Dimension.freqs,0.852373,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.25.freqs,segment9_pink,0.25,4th Dimension.freqs,0.86778,false
+Avicii - Wake Me Up (Official Video)_segment8_white_intensity_0.3.freqs,segment8_white,0.3,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Post Malone - White Iverson_segment4_white_intensity_0.1.freqs,segment4_white,0.1,4th Dimension.freqs,0.913203,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.45.freqs,segment5_pink,0.45,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.15.freqs,segment3_brown,0.15,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Coldplay - Viva La Vida (Official Video)_brown_intensity_0.2.freqs,brown,0.2,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Post Malone - White Iverson_segment9_white_intensity_0.05.freqs,segment9_white,0.05,Post Malone - White Iverson.freqs,0.997174,true
+Post Malone - White Iverson_segment5_brown_intensity_0.5.freqs,segment5_brown,0.5,4th Dimension.freqs,0.934969,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.25.freqs,segment7_white,0.25,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.15.freqs,segment1_white,0.15,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.4.freqs,segment9_white,0.4,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Post Malone - White Iverson_segment4_brown_intensity_0.25.freqs,segment4_brown,0.25,4th Dimension.freqs,0.913203,false
+Post Malone - White Iverson_segment1_white_intensity_0.1.freqs,segment1_white,0.1,4th Dimension.freqs,0.933757,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.45.freqs,segment7_brown,0.45,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.3.freqs,segment2_pink,0.3,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.35.freqs,segment1_pink,0.35,4th Dimension.freqs,0.89598,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.05.freqs,segment9_brown,0.05,4th Dimension.freqs,0.86778,false
+Post Malone - White Iverson_segment3_brown_intensity_0.45.freqs,segment3_brown,0.45,4th Dimension.freqs,0.858998,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_intensity_0.5.freqs,segment4_brown,0.5,4th Dimension.freqs,0.847301,false
+Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.15.freqs,segment9_pink,0.15,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.3.freqs,segment2_brown,0.3,4th Dimension.freqs,0.854872,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.05.freqs,segment5_brown,0.05,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.4.freqs,segment8_pink,0.4,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.4.freqs,segment1_white,0.4,Coldplay - Viva La Vida (Official Video).freqs,0.944925,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.15.freqs,segment6_pink,0.15,4th Dimension.freqs,0.868802,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.25.freqs,segment8_brown,0.25,4th Dimension.freqs,0.869824,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.25.freqs,segment10_pink,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998521,true
+Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.15.freqs,segment4_white,0.15,4th Dimension.freqs,0.923007,false
+Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.15.freqs,segment9_white,0.15,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.05.freqs,segment6_brown,0.05,4th Dimension.freqs,0.880385,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_white_intensity_0.25.freqs,segment1_white,0.25,4th Dimension.freqs,0.89598,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.3.freqs,segment5_brown,0.3,4th Dimension.freqs,0.851503,false
+Imagine Dragons - Bones (Official Music Video)_pink_intensity_0.4.freqs,pink,0.4,4th Dimension.freqs,0.888334,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.4.freqs,segment9_pink,0.4,4th Dimension.freqs,0.86778,false
+Avicii - Wake Me Up (Official Video)_segment6_white_intensity_0.35.freqs,segment6_white,0.35,4th Dimension.freqs,0.880385,false
+Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.15.freqs,segment4_white,0.15,4th Dimension.freqs,0.936634,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.15.freqs,segment5_pink,0.15,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment3_white_intensity_0.1.freqs,segment3_white,0.1,4th Dimension.freqs,0.858998,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.1.freqs,segment5_brown,0.1,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.2.freqs,segment6_white,0.2,4th Dimension.freqs,0.852373,false
+Post Malone - White Iverson_segment6_white_intensity_0.35.freqs,segment6_white,0.35,4th Dimension.freqs,0.885457,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.3.freqs,segment9_brown,0.3,4th Dimension.freqs,0.86778,false
+Avicii - Wake Me Up (Official Video)_pink_intensity_0.3.freqs,pink,0.3,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.45.freqs,segment4_pink,0.45,4th Dimension.freqs,0.847301,false
+Post Malone - White Iverson_segment2_brown_intensity_0.45.freqs,segment2_brown,0.45,Post Malone - White Iverson.freqs,0.988107,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.1.freqs,segment1_pink,0.1,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Post Malone - White Iverson_segment7_white_intensity_0.35.freqs,segment7_white,0.35,New_Slaves.freqs,0.993862,false
+Coldplay - Viva La Vida (Official Video)_brown_intensity_0.45.freqs,brown,0.45,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Post Malone - White Iverson_segment1_pink_intensity_0.1.freqs,segment1_pink,0.1,4th Dimension.freqs,0.933757,false
+Imagine Dragons - Bones (Official Music Video)_brown_intensity_0.05.freqs,brown,0.05,4th Dimension.freqs,0.888334,false
+Post Malone - White Iverson_segment7_brown_intensity_0.1.freqs,segment7_brown,0.1,New_Slaves.freqs,0.993862,false
+Post Malone - White Iverson_segment7_brown_intensity_0.2.freqs,segment7_brown,0.2,New_Slaves.freqs,0.993862,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_white_intensity_0.15.freqs,segment5_white,0.15,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_pink_intensity_0.2.freqs,segment5_pink,0.2,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_intensity_0.4.freqs,segment8_pink,0.4,4th Dimension.freqs,0.963964,false
+Avicii - Wake Me Up (Official Video)_segment5_white_intensity_0.15.freqs,segment5_white,0.15,4th Dimension.freqs,0.881217,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.1.freqs,segment2_brown,0.1,4th Dimension.freqs,0.854872,false
+Post Malone - White Iverson_segment9_pink_intensity_0.25.freqs,segment9_pink,0.25,Post Malone - White Iverson.freqs,0.997174,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_intensity_0.4.freqs,segment2_brown,0.4,4th Dimension.freqs,0.843024,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.4.freqs,segment6_brown,0.4,4th Dimension.freqs,0.852373,false
+Travis Scott - NO BYSTANDERS (Audio)_white_intensity_0.05.freqs,white,0.05,4th Dimension.freqs,0.849004,false
+Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.3.freqs,segment10_white,0.3,4th Dimension.freqs,0.975433,false
+Post Malone - White Iverson_segment6_brown_intensity_0.15.freqs,segment6_brown,0.15,4th Dimension.freqs,0.885457,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.2.freqs,segment9_pink,0.2,4th Dimension.freqs,0.867401,false
+Coldplay - Viva La Vida (Official Video)_white_intensity_0.45.freqs,white,0.45,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Travis Scott - NO BYSTANDERS (Audio)_segment1_white_intensity_0.5.freqs,segment1_white,0.5,4th Dimension.freqs,0.89598,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.35.freqs,segment2_brown,0.35,4th Dimension.freqs,0.854872,false
+Avicii - Wake Me Up (Official Video)_white_intensity_0.15.freqs,white,0.15,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.05.freqs,segment10_brown,0.05,4th Dimension.freqs,0.975433,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.3.freqs,segment10_white,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+Post Malone - White Iverson_segment10_pink_intensity_0.15.freqs,segment10_pink,0.15,New_Slaves.freqs,0.993386,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.5.freqs,segment4_brown,0.5,4th Dimension.freqs,0.936634,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_intensity_0.5.freqs,segment8_white,0.5,4th Dimension.freqs,0.963964,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.35.freqs,segment9_white,0.35,4th Dimension.freqs,0.867401,false
+Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.5.freqs,segment5_pink,0.5,4th Dimension.freqs,0.881217,false
+Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.3.freqs,segment4_pink,0.3,4th Dimension.freqs,0.936634,false
+Coldplay - Viva La Vida (Official Video)_pink_intensity_0.1.freqs,pink,0.1,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.4.freqs,segment10_white,0.4,4th Dimension.freqs,0.850178,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.35.freqs,segment5_white,0.35,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.5.freqs,segment1_brown,0.5,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.1.freqs,segment7_white,0.1,4th Dimension.freqs,0.91343,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.45.freqs,segment2_brown,0.45,4th Dimension.freqs,0.854872,false
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.35.freqs,segment8_brown,0.35,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.45.freqs,segment10_brown,0.45,4th Dimension.freqs,0.924029,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_white_intensity_0.2.freqs,segment8_white,0.2,4th Dimension.freqs,0.869824,false
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.25.freqs,segment8_brown,0.25,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.2.freqs,segment10_pink,0.2,4th Dimension.freqs,0.975433,false
+Post Malone - White Iverson_segment4_pink_intensity_0.4.freqs,segment4_pink,0.4,4th Dimension.freqs,0.913203,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.1.freqs,segment3_white,0.1,4th Dimension.freqs,0.850632,false
+Avicii - Wake Me Up (Official Video)_segment8_white_intensity_0.15.freqs,segment8_white,0.15,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.05.freqs,segment6_pink,0.05,4th Dimension.freqs,0.852373,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.05.freqs,segment1_pink,0.05,4th Dimension.freqs,0.89598,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.5.freqs,segment2_pink,0.5,4th Dimension.freqs,0.854872,false
+Avicii - Wake Me Up (Official Video)_brown_intensity_0.25.freqs,brown,0.25,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Post Malone - White Iverson_segment3_white_intensity_0.05.freqs,segment3_white,0.05,4th Dimension.freqs,0.858998,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.4.freqs,segment4_pink,0.4,4th Dimension.freqs,0.847301,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.45.freqs,segment3_pink,0.45,4th Dimension.freqs,0.873609,false
+Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.25.freqs,segment8_pink,0.25,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973984,false
+Post Malone - White Iverson_segment4_white_intensity_0.15.freqs,segment4_white,0.15,4th Dimension.freqs,0.913203,false
+Travis Scott - NO BYSTANDERS (Audio)_white_intensity_0.15.freqs,white,0.15,4th Dimension.freqs,0.849004,false
+Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.45.freqs,segment2_white,0.45,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Travis Scott - NO BYSTANDERS (Audio)_segment5_white_intensity_0.35.freqs,segment5_white,0.35,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_intensity_0.1.freqs,segment9_white,0.1,4th Dimension.freqs,0.86778,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_intensity_0.1.freqs,segment8_pink,0.1,4th Dimension.freqs,0.963964,false
+Post Malone - White Iverson_segment7_pink_intensity_0.05.freqs,segment7_pink,0.05,New_Slaves.freqs,0.993862,false
+Coldplay - Viva La Vida (Official Video)_white_intensity_0.1.freqs,white,0.1,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.3.freqs,segment8_brown,0.3,4th Dimension.freqs,0.963964,false
+Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.35.freqs,segment10_white,0.35,4th Dimension.freqs,0.975433,false
+Avicii - Wake Me Up (Official Video)_pink_intensity_0.1.freqs,pink,0.1,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.2.freqs,segment5_pink,0.2,4th Dimension.freqs,0.881217,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.5.freqs,segment8_brown,0.5,4th Dimension.freqs,0.963964,false
+Avicii - Wake Me Up (Official Video)_segment5_white_intensity_0.3.freqs,segment5_white,0.3,4th Dimension.freqs,0.881217,false
+Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.45.freqs,segment3_white,0.45,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.1.freqs,segment7_brown,0.1,4th Dimension.freqs,0.851503,false
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.05.freqs,segment8_brown,0.05,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.05.freqs,segment4_white,0.05,4th Dimension.freqs,0.847301,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.15.freqs,segment1_pink,0.15,4th Dimension.freqs,0.89598,false
+Post Malone - White Iverson_segment7_brown_intensity_0.5.freqs,segment7_brown,0.5,New_Slaves.freqs,0.993862,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.35.freqs,segment1_brown,0.35,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Post Malone - White Iverson_segment8_white_intensity_0.5.freqs,segment8_white,0.5,4th Dimension.freqs,0.863161,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.25.freqs,segment3_pink,0.25,4th Dimension.freqs,0.873609,false
+Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.25.freqs,segment1_pink,0.25,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.5.freqs,segment3_pink,0.5,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.35.freqs,segment6_brown,0.35,4th Dimension.freqs,0.880385,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.4.freqs,segment1_pink,0.4,4th Dimension.freqs,0.89598,false
+Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.35.freqs,segment6_pink,0.35,4th Dimension.freqs,0.880385,false
+Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.5.freqs,segment4_pink,0.5,4th Dimension.freqs,0.936634,false
+Post Malone - White Iverson_segment2_brown_intensity_0.35.freqs,segment2_brown,0.35,Post Malone - White Iverson.freqs,0.988107,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.15.freqs,segment1_brown,0.15,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Post Malone - White Iverson_segment3_brown_intensity_0.3.freqs,segment3_brown,0.3,4th Dimension.freqs,0.858998,false
+Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.3.freqs,segment7_pink,0.3,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.25.freqs,segment9_pink,0.25,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_intensity_0.4.freqs,segment8_white,0.4,4th Dimension.freqs,0.963964,false
+Post Malone - White Iverson_segment6_white_intensity_0.2.freqs,segment6_white,0.2,4th Dimension.freqs,0.885457,false
+Post Malone - White Iverson_segment8_brown_intensity_0.05.freqs,segment8_brown,0.05,4th Dimension.freqs,0.863161,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.45.freqs,segment10_brown,0.45,4th Dimension.freqs,0.975433,false
+Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.25.freqs,segment10_white,0.25,4th Dimension.freqs,0.975433,false
+Travis Scott - NO BYSTANDERS (Audio)_white_intensity_0.2.freqs,white,0.2,4th Dimension.freqs,0.849004,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.4.freqs,segment10_brown,0.4,4th Dimension.freqs,0.975433,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.3.freqs,segment4_pink,0.3,4th Dimension.freqs,0.847301,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.4.freqs,segment10_brown,0.4,4th Dimension.freqs,0.924029,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.5.freqs,segment6_white,0.5,4th Dimension.freqs,0.868802,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.4.freqs,segment7_brown,0.4,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.2.freqs,segment8_brown,0.2,4th Dimension.freqs,0.963964,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.5.freqs,segment8_pink,0.5,4th Dimension.freqs,0.869824,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.25.freqs,segment3_brown,0.25,4th Dimension.freqs,0.873609,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.05.freqs,segment5_pink,0.05,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment5_pink_intensity_0.35.freqs,segment5_pink,0.35,4th Dimension.freqs,0.934969,false
+Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.15.freqs,segment10_pink,0.15,4th Dimension.freqs,0.975433,false
+Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.05.freqs,segment6_pink,0.05,4th Dimension.freqs,0.880385,false
+Coldplay - Viva La Vida (Official Video)_pink_intensity_0.25.freqs,pink,0.25,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.45.freqs,segment3_pink,0.45,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.3.freqs,segment9_pink,0.3,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.25.freqs,segment3_pink,0.25,4th Dimension.freqs,0.850632,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.15.freqs,segment8_brown,0.15,4th Dimension.freqs,0.869824,false
+Post Malone - White Iverson_segment9_white_intensity_0.5.freqs,segment9_white,0.5,Post Malone - White Iverson.freqs,0.997174,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.1.freqs,segment9_brown,0.1,4th Dimension.freqs,0.86778,false
+Post Malone - White Iverson_segment9_white_intensity_0.1.freqs,segment9_white,0.1,Post Malone - White Iverson.freqs,0.997174,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.5.freqs,segment1_pink,0.5,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.1.freqs,segment2_pink,0.1,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.05.freqs,segment9_pink,0.05,4th Dimension.freqs,0.86778,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.5.freqs,segment10_brown,0.5,4th Dimension.freqs,0.975433,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.2.freqs,segment1_brown,0.2,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Post Malone - White Iverson_segment7_white_intensity_0.05.freqs,segment7_white,0.05,New_Slaves.freqs,0.993862,false
+Coldplay - Viva La Vida (Official Video)_pink_intensity_0.15.freqs,pink,0.15,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Imagine Dragons - Bones (Official Music Video)_pink_intensity_0.25.freqs,pink,0.25,4th Dimension.freqs,0.888334,false
+Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.05.freqs,segment1_white,0.05,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.3.freqs,segment6_brown,0.3,4th Dimension.freqs,0.852373,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.25.freqs,segment2_white,0.25,4th Dimension.freqs,0.854872,false
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.15.freqs,segment9_brown,0.15,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.15.freqs,segment2_white,0.15,4th Dimension.freqs,0.843024,false
+Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.35.freqs,segment7_white,0.35,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Imagine Dragons - Bones (Official Music Video)_brown_intensity_0.4.freqs,brown,0.4,4th Dimension.freqs,0.888334,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_intensity_0.2.freqs,segment4_brown,0.2,4th Dimension.freqs,0.847301,false
+Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.3.freqs,segment10_pink,0.3,4th Dimension.freqs,0.975433,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_intensity_0.35.freqs,segment8_white,0.35,4th Dimension.freqs,0.963964,false
+Post Malone - White Iverson_segment4_brown_intensity_0.1.freqs,segment4_brown,0.1,4th Dimension.freqs,0.913203,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.1.freqs,segment5_brown,0.1,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment5_white_intensity_0.25.freqs,segment5_white,0.25,4th Dimension.freqs,0.934969,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.25.freqs,segment3_white,0.25,4th Dimension.freqs,0.873609,false
+Post Malone - White Iverson_segment10_pink_intensity_0.45.freqs,segment10_pink,0.45,New_Slaves.freqs,0.993162,false
+Coldplay - Viva La Vida (Official Video)_brown_intensity_0.15.freqs,brown,0.15,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.05.freqs,segment4_white,0.05,4th Dimension.freqs,0.936634,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.25.freqs,segment6_pink,0.25,4th Dimension.freqs,0.868802,false
+Imagine Dragons - Bones (Official Music Video)_white_intensity_0.3.freqs,white,0.3,4th Dimension.freqs,0.888334,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.2.freqs,segment3_pink,0.2,4th Dimension.freqs,0.850632,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_white_intensity_0.3.freqs,segment5_white,0.3,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment5_brown_intensity_0.35.freqs,segment5_brown,0.35,4th Dimension.freqs,0.934969,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.35.freqs,segment9_pink,0.35,4th Dimension.freqs,0.86778,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.3.freqs,segment6_pink,0.3,4th Dimension.freqs,0.852373,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_intensity_0.3.freqs,segment8_pink,0.3,4th Dimension.freqs,0.963964,false
+Post Malone - White Iverson_segment5_brown_intensity_0.45.freqs,segment5_brown,0.45,4th Dimension.freqs,0.934969,false
+Travis Scott - NO BYSTANDERS (Audio)_brown_intensity_0.25.freqs,brown,0.25,4th Dimension.freqs,0.849004,false
+Avicii - Wake Me Up (Official Video)_segment6_white_intensity_0.1.freqs,segment6_white,0.1,4th Dimension.freqs,0.880385,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.45.freqs,segment2_pink,0.45,4th Dimension.freqs,0.854872,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.5.freqs,segment3_brown,0.5,4th Dimension.freqs,0.850632,false
+Post Malone - White Iverson_segment1_pink_intensity_0.3.freqs,segment1_pink,0.3,4th Dimension.freqs,0.933757,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.15.freqs,segment3_white,0.15,4th Dimension.freqs,0.850632,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.35.freqs,segment4_white,0.35,4th Dimension.freqs,0.847301,false
+Post Malone - White Iverson_segment2_white_intensity_0.4.freqs,segment2_white,0.4,Post Malone - White Iverson.freqs,0.988107,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.45.freqs,segment7_pink,0.45,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment3_brown_intensity_0.25.freqs,segment3_brown,0.25,4th Dimension.freqs,0.858998,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_intensity_0.2.freqs,segment9_white,0.2,4th Dimension.freqs,0.86778,false
+Post Malone - White Iverson_segment3_brown_intensity_0.35.freqs,segment3_brown,0.35,4th Dimension.freqs,0.858998,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_intensity_0.5.freqs,segment8_pink,0.5,4th Dimension.freqs,0.963964,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_intensity_0.05.freqs,segment8_white,0.05,4th Dimension.freqs,0.963964,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.3.freqs,segment10_brown,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.35.freqs,segment1_brown,0.35,4th Dimension.freqs,0.89598,false
+Post Malone - White Iverson_segment1_white_intensity_0.15.freqs,segment1_white,0.15,4th Dimension.freqs,0.933757,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.45.freqs,segment1_white,0.45,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_intensity_0.45.freqs,segment9_white,0.45,4th Dimension.freqs,0.86778,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.25.freqs,segment10_brown,0.25,4th Dimension.freqs,0.975433,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.3.freqs,segment5_brown,0.3,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.25.freqs,segment5_brown,0.25,4th Dimension.freqs,0.881217,false
+Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.05.freqs,segment7_white,0.05,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Avicii - Wake Me Up (Official Video)_segment6_white_intensity_0.5.freqs,segment6_white,0.5,4th Dimension.freqs,0.880385,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.4.freqs,segment7_pink,0.4,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.5.freqs,segment5_white,0.5,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.5.freqs,segment3_white,0.5,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.1.freqs,segment7_pink,0.1,4th Dimension.freqs,0.851503,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_white_intensity_0.05.freqs,segment8_white,0.05,4th Dimension.freqs,0.869824,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.5.freqs,segment1_pink,0.5,4th Dimension.freqs,0.89598,false
+Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.5.freqs,segment2_white,0.5,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.5.freqs,segment3_white,0.5,4th Dimension.freqs,0.873609,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.45.freqs,segment6_brown,0.45,4th Dimension.freqs,0.868802,false
+Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.25.freqs,segment6_brown,0.25,4th Dimension.freqs,0.880385,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.1.freqs,segment10_pink,0.1,4th Dimension.freqs,0.924029,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.05.freqs,segment4_pink,0.05,4th Dimension.freqs,0.847301,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.35.freqs,segment2_white,0.35,4th Dimension.freqs,0.854872,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.2.freqs,segment10_brown,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+Post Malone - White Iverson_segment1_white_intensity_0.45.freqs,segment1_white,0.45,Post Malone - White Iverson.freqs,0.982379,true
+Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.45.freqs,segment6_brown,0.45,4th Dimension.freqs,0.880385,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.35.freqs,segment10_white,0.35,4th Dimension.freqs,0.924029,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.05.freqs,segment2_white,0.05,4th Dimension.freqs,0.843024,false
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.35.freqs,segment1_brown,0.35,Coldplay - Viva La Vida (Official Video).freqs,0.944877,false
+Post Malone - White Iverson_segment2_pink_intensity_0.3.freqs,segment2_pink,0.3,Post Malone - White Iverson.freqs,0.988107,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.05.freqs,segment3_brown,0.05,4th Dimension.freqs,0.873609,false
+Post Malone - White Iverson_segment3_brown_intensity_0.2.freqs,segment3_brown,0.2,4th Dimension.freqs,0.858998,false
+Coldplay - Viva La Vida (Official Video)_pink_intensity_0.5.freqs,pink,0.5,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Travis Scott - NO BYSTANDERS (Audio)_pink_intensity_0.25.freqs,pink,0.25,4th Dimension.freqs,0.849004,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.5.freqs,segment7_white,0.5,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.1.freqs,segment8_brown,0.1,4th Dimension.freqs,0.963964,false
+Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.45.freqs,segment4_white,0.45,4th Dimension.freqs,0.923007,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.25.freqs,segment10_white,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998521,true
+Avicii - Wake Me Up (Official Video)_white_intensity_0.35.freqs,white,0.35,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.2.freqs,segment2_pink,0.2,4th Dimension.freqs,0.843024,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.35.freqs,segment6_pink,0.35,4th Dimension.freqs,0.868802,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.2.freqs,segment4_brown,0.2,4th Dimension.freqs,0.936634,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.25.freqs,segment5_white,0.25,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.35.freqs,segment3_brown,0.35,4th Dimension.freqs,0.873609,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.2.freqs,segment2_white,0.2,4th Dimension.freqs,0.854872,false
+Post Malone - White Iverson_segment2_pink_intensity_0.1.freqs,segment2_pink,0.1,Post Malone - White Iverson.freqs,0.988107,true
+Post Malone - White Iverson_segment2_brown_intensity_0.25.freqs,segment2_brown,0.25,Post Malone - White Iverson.freqs,0.988159,true
+Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.35.freqs,segment3_pink,0.35,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.15.freqs,segment7_pink,0.15,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.5.freqs,segment2_white,0.5,4th Dimension.freqs,0.843024,false
+Imagine Dragons - Bones (Official Music Video)_white_intensity_0.2.freqs,white,0.2,4th Dimension.freqs,0.888334,false
+Post Malone - White Iverson_segment9_brown_intensity_0.05.freqs,segment9_brown,0.05,Post Malone - White Iverson.freqs,0.997174,true
+Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.05.freqs,segment6_white,0.05,4th Dimension.freqs,0.868802,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.5.freqs,segment8_brown,0.5,4th Dimension.freqs,0.869824,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.25.freqs,segment7_pink,0.25,4th Dimension.freqs,0.91343,false
+Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.5.freqs,segment10_pink,0.5,4th Dimension.freqs,0.924483,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.35.freqs,segment2_pink,0.35,4th Dimension.freqs,0.843024,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.35.freqs,segment6_brown,0.35,4th Dimension.freqs,0.868802,false
+Post Malone - White Iverson_segment2_pink_intensity_0.25.freqs,segment2_pink,0.25,Post Malone - White Iverson.freqs,0.988107,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.45.freqs,segment3_white,0.45,4th Dimension.freqs,0.873609,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.1.freqs,segment6_white,0.1,4th Dimension.freqs,0.852373,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_white_intensity_0.2.freqs,segment5_white,0.2,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment4_brown_intensity_0.35.freqs,segment4_brown,0.35,4th Dimension.freqs,0.913203,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.35.freqs,segment10_pink,0.35,4th Dimension.freqs,0.924029,false
+Post Malone - White Iverson_segment3_white_intensity_0.5.freqs,segment3_white,0.5,4th Dimension.freqs,0.858998,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.25.freqs,segment7_brown,0.25,4th Dimension.freqs,0.91343,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.5.freqs,segment7_brown,0.5,4th Dimension.freqs,0.91343,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.15.freqs,segment4_brown,0.15,4th Dimension.freqs,0.936634,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.4.freqs,segment5_brown,0.4,4th Dimension.freqs,0.881217,false
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.5.freqs,segment2_brown,0.5,Avicii - Wake Me Up (Official Video).freqs,0.995596,true
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.45.freqs,segment7_brown,0.45,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Post Malone - White Iverson_segment7_pink_intensity_0.3.freqs,segment7_pink,0.3,New_Slaves.freqs,0.993862,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_intensity_0.25.freqs,segment8_pink,0.25,4th Dimension.freqs,0.963964,false
+Travis Scott - NO BYSTANDERS (Audio)_brown_intensity_0.5.freqs,brown,0.5,4th Dimension.freqs,0.849004,false
+Avicii - Wake Me Up (Official Video)_brown_intensity_0.45.freqs,brown,0.45,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Avicii - Wake Me Up (Official Video)_segment6_white_intensity_0.45.freqs,segment6_white,0.45,4th Dimension.freqs,0.880385,false
+Post Malone - White Iverson_segment6_white_intensity_0.1.freqs,segment6_white,0.1,4th Dimension.freqs,0.885457,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.1.freqs,segment6_brown,0.1,4th Dimension.freqs,0.868802,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.05.freqs,segment7_pink,0.05,4th Dimension.freqs,0.91343,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.05.freqs,segment10_pink,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998397,true
+Imagine Dragons - Bones (Official Music Video)_white_intensity_0.4.freqs,white,0.4,4th Dimension.freqs,0.888334,false
+Avicii - Wake Me Up (Official Video)_segment6_white_intensity_0.25.freqs,segment6_white,0.25,4th Dimension.freqs,0.880385,false
+Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.05.freqs,segment10_white,0.05,4th Dimension.freqs,0.924483,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.15.freqs,segment6_white,0.15,4th Dimension.freqs,0.852373,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.35.freqs,segment10_white,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998521,true
+Post Malone - White Iverson_segment10_white_intensity_0.5.freqs,segment10_white,0.5,4th Dimension.freqs,0.880536,false
+Post Malone - White Iverson_segment5_pink_intensity_0.2.freqs,segment5_pink,0.2,4th Dimension.freqs,0.934969,false
+Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.15.freqs,segment6_brown,0.15,4th Dimension.freqs,0.880385,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.05.freqs,segment7_brown,0.05,4th Dimension.freqs,0.91343,false
+Post Malone - White Iverson_segment5_white_intensity_0.05.freqs,segment5_white,0.05,4th Dimension.freqs,0.934969,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.2.freqs,segment9_white,0.2,4th Dimension.freqs,0.867401,false
+Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.5.freqs,segment9_white,0.5,4th Dimension.freqs,0.867401,false
+Imagine Dragons - Bones (Official Music Video)_pink_intensity_0.45.freqs,pink,0.45,4th Dimension.freqs,0.888334,false
+Travis Scott - NO BYSTANDERS (Audio)_white_intensity_0.5.freqs,white,0.5,4th Dimension.freqs,0.849004,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_intensity_0.15.freqs,segment8_white,0.15,4th Dimension.freqs,0.963964,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.1.freqs,segment9_pink,0.1,4th Dimension.freqs,0.86778,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.4.freqs,segment8_pink,0.4,4th Dimension.freqs,0.869824,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.4.freqs,segment1_brown,0.4,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.15.freqs,segment8_brown,0.15,4th Dimension.freqs,0.963964,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_pink_intensity_0.4.freqs,segment5_pink,0.4,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.15.freqs,segment3_brown,0.15,4th Dimension.freqs,0.873609,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.5.freqs,segment5_brown,0.5,4th Dimension.freqs,0.881217,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.25.freqs,segment1_brown,0.25,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.4.freqs,segment3_pink,0.4,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.4.freqs,segment3_brown,0.4,4th Dimension.freqs,0.850632,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.15.freqs,segment8_pink,0.15,4th Dimension.freqs,0.869824,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.05.freqs,segment7_brown,0.05,Imagine Dragons - Bones (Official Music Video).freqs,0.978784,false
+Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.5.freqs,segment6_brown,0.5,4th Dimension.freqs,0.880385,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.05.freqs,segment7_white,0.05,4th Dimension.freqs,0.91343,false
+Post Malone - White Iverson_segment4_pink_intensity_0.05.freqs,segment4_pink,0.05,4th Dimension.freqs,0.913203,false
+Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.45.freqs,segment2_white,0.45,4th Dimension.freqs,0.854872,false
+Post Malone - White Iverson_segment3_white_intensity_0.45.freqs,segment3_white,0.45,4th Dimension.freqs,0.858998,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.2.freqs,segment7_pink,0.2,4th Dimension.freqs,0.851503,false
+Post Malone - White Iverson_segment10_brown_intensity_0.4.freqs,segment10_brown,0.4,4th Dimension.freqs,0.907677,false
+Post Malone - White Iverson_segment5_pink_intensity_0.4.freqs,segment5_pink,0.4,4th Dimension.freqs,0.934969,false
+Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.25.freqs,segment3_white,0.25,4th Dimension.freqs,0.850632,false
+Travis Scott - NO BYSTANDERS (Audio)_brown_intensity_0.35.freqs,brown,0.35,4th Dimension.freqs,0.849004,false
+Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.5.freqs,segment7_pink,0.5,4th Dimension.freqs,0.91343,false
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.4.freqs,segment3_brown,0.4,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.976433,false
+Avicii - Wake Me Up (Official Video)_segment8_white_intensity_0.1.freqs,segment8_white,0.1,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Avicii - Wake Me Up (Official Video)_segment6_white_intensity_0.05.freqs,segment6_white,0.05,4th Dimension.freqs,0.880385,false
+Imagine Dragons - Bones (Official Music Video)_brown_intensity_0.15.freqs,brown,0.15,4th Dimension.freqs,0.888334,false
+Coldplay - Viva La Vida (Official Video)_brown_intensity_0.4.freqs,brown,0.4,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.45.freqs,segment1_white,0.45,Coldplay - Viva La Vida (Official Video).freqs,0.944925,false
+Post Malone - White Iverson_segment5_white_intensity_0.2.freqs,segment5_white,0.2,4th Dimension.freqs,0.934969,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_white_intensity_0.2.freqs,segment1_white,0.2,4th Dimension.freqs,0.89598,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.45.freqs,segment6_pink,0.45,4th Dimension.freqs,0.852373,false
+Post Malone - White Iverson_segment8_brown_intensity_0.5.freqs,segment8_brown,0.5,4th Dimension.freqs,0.863161,false
+Avicii - Wake Me Up (Official Video)_brown_intensity_0.1.freqs,brown,0.1,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_intensity_0.35.freqs,segment8_pink,0.35,4th Dimension.freqs,0.963964,false
+Avicii - Wake Me Up (Official Video)_segment8_white_intensity_0.25.freqs,segment8_white,0.25,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.973955,false
+Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.4.freqs,segment10_white,0.4,4th Dimension.freqs,0.975433,false
+Post Malone - White Iverson_segment3_pink_intensity_0.35.freqs,segment3_pink,0.35,4th Dimension.freqs,0.858998,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.2.freqs,segment5_brown,0.2,Imagine Dragons - Bones (Official Music Video).freqs,0.969883,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_white_intensity_0.05.freqs,segment1_white,0.05,4th Dimension.freqs,0.89598,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.15.freqs,segment6_white,0.15,4th Dimension.freqs,0.868802,false
+Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.5.freqs,segment10_white,0.5,4th Dimension.freqs,0.975433,false
+Avicii - Wake Me Up (Official Video)_brown_intensity_0.35.freqs,brown,0.35,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.45.freqs,segment9_brown,0.45,Avicii - Wake Me Up (Official Video).freqs,0.998261,true
+Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.4.freqs,segment4_pink,0.4,4th Dimension.freqs,0.923007,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.5.freqs,segment4_white,0.5,4th Dimension.freqs,0.847301,false
+Post Malone - White Iverson_segment5_pink_intensity_0.3.freqs,segment5_pink,0.3,4th Dimension.freqs,0.934969,false
+Post Malone - White Iverson_segment7_brown_intensity_0.4.freqs,segment7_brown,0.4,New_Slaves.freqs,0.993862,false
+Post Malone - White Iverson_segment5_brown_intensity_0.15.freqs,segment5_brown,0.15,4th Dimension.freqs,0.934969,false
+Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.4.freqs,segment6_brown,0.4,4th Dimension.freqs,0.880385,false
+Coldplay - Viva La Vida (Official Video)_pink_intensity_0.4.freqs,pink,0.4,Coldplay - Viva La Vida (Official Video).freqs,0.975846,true
+Travis Scott - NO BYSTANDERS (Audio)_segment1_white_intensity_0.1.freqs,segment1_white,0.1,4th Dimension.freqs,0.89598,false
+Imagine Dragons - Bones (Official Music Video)_brown_intensity_0.2.freqs,brown,0.2,4th Dimension.freqs,0.888334,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.3.freqs,segment5_pink,0.3,4th Dimension.freqs,0.851503,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.05.freqs,segment1_white,0.05,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Post Malone - White Iverson_segment5_pink_intensity_0.1.freqs,segment5_pink,0.1,4th Dimension.freqs,0.934969,false
+Post Malone - White Iverson_segment5_brown_intensity_0.25.freqs,segment5_brown,0.25,4th Dimension.freqs,0.934969,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_intensity_0.45.freqs,segment2_brown,0.45,4th Dimension.freqs,0.843024,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.1.freqs,segment1_brown,0.1,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+Avicii - Wake Me Up (Official Video)_segment6_white_intensity_0.2.freqs,segment6_white,0.2,4th Dimension.freqs,0.880385,false
+Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.5.freqs,segment6_brown,0.5,4th Dimension.freqs,0.868802,false
+Avicii - Wake Me Up (Official Video)_pink_intensity_0.35.freqs,pink,0.35,Coldplay - Viva La Vida (Official Video).freqs,0.944537,false
+Post Malone - White Iverson_segment8_white_intensity_0.35.freqs,segment8_white,0.35,4th Dimension.freqs,0.863161,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.45.freqs,segment1_brown,0.45,Imagine Dragons - Bones (Official Music Video).freqs,0.978745,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.1.freqs,segment3_pink,0.1,4th Dimension.freqs,0.873609,false

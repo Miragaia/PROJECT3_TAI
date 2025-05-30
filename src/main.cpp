@@ -15,9 +15,9 @@ namespace fs = std::filesystem;
 int main(int argc, char* argv[]) {
     std::string db_dir = "database/";
     std::string query_dir = "queries/";
-    std::string output_csv = "results/results.csv";
     std::string compressor = "zlib";  // default compressor
     std::string single_query_file;
+    std::string output_csv;
 
     for (int i = 1; i < argc; ++i) {
         if (strcmp(argv[i], "--compressor") == 0 && i + 1 < argc) {
@@ -29,8 +29,12 @@ int main(int argc, char* argv[]) {
         } else if (strcmp(argv[i], "--output") == 0 && i + 1 < argc) {
             output_csv = argv[i + 1];
             ++i;
+        }else {
+            output_csv = "results/results_" + compressor + ".csv";
         }
     }
+
+    output_csv = "results/results_" + compressor + ".csv";
 
     // Load database .freqs files
     std::vector<std::pair<std::string, std::vector<uint8_t>>> database;
