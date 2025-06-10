@@ -1,6 +1,6 @@
 #!/bin/bash
 
-directory="../test_files"
+directory="../test_files_sox_intensity"
 
 for wavfile in "$directory"/*.wav; do
     filename=$(basename "$wavfile" .wav)

@@ -1,216 +1,319 @@
 import os
-import numpy as np
-from pydub import AudioSegment
-from scipy.signal import lfilter
-from scipy import signal
+import subprocess
+import shutil
+from pathlib import Path
 
-def generate_noise(noise_type, length, sample_rate=44100):
-    """Generate different types of noise with proper spectral characteristics."""
-    if noise_type == 'white':
-        return np.random.normal(0, 1, length)
-    
-    elif noise_type == 'pink':
-        # Better pink noise generation using frequency domain method
-        # Create white noise
-        white = np.random.randn(length)
-        
-        # Apply pink noise filter (1/f characteristic)
-        # Using a more accurate pink noise filter
-        b = np.array([0.049922035, -0.095993537, 0.050612699, -0.004408786])
-        a = np.array([1, -2.494956002, 2.017265875, -0.522189400])
-        
-        # Apply filter
-        pink = lfilter(b, a, white)
-        
-        # Remove DC component and normalize
-        pink = pink - np.mean(pink)
-        pink = pink / np.std(pink)  # Normalize to unit variance instead of peak
-        return pink
-    
-    elif noise_type == 'brown':
-        # Brown noise (Brownian motion) - integrate white noise
-        white = np.random.normal(0, 1, length)
-        brown = np.cumsum(white)
-        
-        # Remove DC and normalize to unit variance
-        brown = brown - np.mean(brown)
-        brown = brown / np.std(brown)
-        return brown
-    
-    else:
-        raise ValueError(f"Unsupported noise type: {noise_type}")
+def check_sox_installation():
+    """Check if SoX is installed and available."""
+    try:
+        result = subprocess.run(['sox', '--version'], capture_output=True, text=True)
+        print(f"SoX found: {result.stdout.strip()}")
+        return True
+    except FileNotFoundError:
+        print("Error: SoX is not installed or not in PATH")
+        print("Please install SoX:")
+        print("  Ubuntu/Debian: sudo apt-get install sox")
+        print("  macOS: brew install sox")
+        print("  Windows: Download from http://sox.sourceforge.net/")
+        return False
 
-def calculate_rms(audio_data):
-    """Calculate RMS (Root Mean Square) of audio data."""
-    return np.sqrt(np.mean(audio_data**2))
+def get_audio_info(input_file):
+    """Get audio file information using SoX."""
+    try:
+        result = subprocess.run(['soxi', input_file], capture_output=True, text=True)
+        if result.returncode == 0:
+            return result.stdout
+        else:
+            return None
+    except Exception as e:
+        print(f"Error getting audio info: {e}")
+        return None
 
-def add_noise_snr_based(audio_segment, noise_type, snr_db):
-    """Add noise based on Signal-to-Noise Ratio in dB."""
-    # Get audio data
-    samples = np.array(audio_segment.get_array_of_samples(), dtype=np.float64)
+def add_noise_with_sox(input_file, output_file, noise_type, snr_db=None, intensity=None):
+    """
+    Add noise to audio file using SoX.
     
-    # Handle stereo audio
-    if audio_segment.channels == 2:
-        # Reshape to handle stereo (interleaved L,R,L,R...)
-        samples = samples.reshape(-1, 2)
-        mono_length = len(samples)
+    Args:
+        input_file: Path to input audio file
+        output_file: Path to output audio file
+        noise_type: 'white', 'pink', or 'brown'
+        snr_db: Signal-to-noise ratio in dB (if using SNR method)
+        intensity: Noise intensity factor (if using intensity method)
+    """
+    temp_noise = None
+    try:
+        # Get input file duration
+        duration_result = subprocess.run(
+            ['soxi', '-D', input_file], 
+            capture_output=True, text=True
+        )
         
-        # Generate noise for both channels
-        noise_left = generate_noise(noise_type, mono_length, audio_segment.frame_rate)
-        noise_right = generate_noise(noise_type, mono_length, audio_segment.frame_rate)
-        noise = np.column_stack([noise_left, noise_right])
-    else:
-        # Mono audio
-        noise = generate_noise(noise_type, len(samples), audio_segment.frame_rate)
-        noise = noise.reshape(-1, 1) if len(samples.shape) == 1 else noise
-        samples = samples.reshape(-1, 1) if len(samples.shape) == 1 else samples
-    
-    # Calculate RMS of original signal
-    signal_rms = calculate_rms(samples)
-    
-    # Calculate desired noise RMS based on SNR
-    # SNR(dB) = 20 * log10(signal_rms / noise_rms)
-    # Therefore: noise_rms = signal_rms / (10^(SNR_dB/20))
-    noise_rms_target = signal_rms / (10**(snr_db/20))
-    
-    # Scale noise to achieve target RMS
-    current_noise_rms = calculate_rms(noise)
-    if current_noise_rms > 0:
-        noise = noise * (noise_rms_target / current_noise_rms)
-    
-    # Add noise to signal
-    noisy_samples = samples + noise
-    
-    # Prevent clipping by scaling if necessary
-    max_val = np.max(np.abs(noisy_samples))
-    if max_val > 0.95:  # Leave some headroom
-        scale_factor = 0.95 / max_val
-        noisy_samples = noisy_samples * scale_factor
-        print(f"Scaled by {scale_factor:.3f} to prevent clipping")
-    
-    # Convert back to original format
-    if audio_segment.channels == 2:
-        noisy_samples = noisy_samples.flatten()
-    else:
-        noisy_samples = noisy_samples.flatten()
-    
-    # Convert back to integer format
-    if audio_segment.sample_width == 2:  # 16-bit
-        noisy_samples = noisy_samples.astype(np.int16)
-    elif audio_segment.sample_width == 4:  # 32-bit
-        noisy_samples = noisy_samples.astype(np.int32)
-    else:
-        noisy_samples = noisy_samples.astype(np.int16)
-    
-    return audio_segment._spawn(noisy_samples.tobytes())
-
-def add_noise_intensity_based(audio_segment, noise_type, intensity):
-    """Add noise based on intensity factor (your original approach, but improved)."""
-    # Get audio data
-    samples = np.array(audio_segment.get_array_of_samples(), dtype=np.float64)
-    
-    # Handle stereo audio
-    if audio_segment.channels == 2:
-        samples = samples.reshape(-1, 2)
-        mono_length = len(samples)
+        if duration_result.returncode != 0:
+            print(f"Error getting duration for {input_file}")
+            return False
+            
+        duration = float(duration_result.stdout.strip())
         
-        noise_left = generate_noise(noise_type, mono_length, audio_segment.frame_rate)
-        noise_right = generate_noise(noise_type, mono_length, audio_segment.frame_rate)
-        noise = np.column_stack([noise_left, noise_right])
-    else:
-        noise = generate_noise(noise_type, len(samples), audio_segment.frame_rate)
-        noise = noise.reshape(-1, 1) if len(samples.shape) == 1 else noise
-        samples = samples.reshape(-1, 1) if len(samples.shape) == 1 else samples
-    
-    # Scale noise by intensity and signal RMS for consistent relative levels
-    signal_rms = calculate_rms(samples)
-    noise = noise * intensity * signal_rms
-    
-    # Add noise
-    noisy_samples = samples + noise
-    
-    # Prevent clipping
-    max_val = np.max(np.abs(noisy_samples))
-    if max_val > 0.95:
-        scale_factor = 0.95 / max_val
-        noisy_samples = noisy_samples * scale_factor
-        print(f"Scaled by {scale_factor:.3f} to prevent clipping")
-    
-    # Convert back to original format
-    if audio_segment.channels == 2:
-        noisy_samples = noisy_samples.flatten()
-    else:
-        noisy_samples = noisy_samples.flatten()
-    
-    # Convert to appropriate integer format
-    if audio_segment.sample_width == 2:
-        noisy_samples = noisy_samples.astype(np.int16)
-    elif audio_segment.sample_width == 4:
-        noisy_samples = noisy_samples.astype(np.int32)
-    else:
-        noisy_samples = noisy_samples.astype(np.int16)
-    
-    return audio_segment._spawn(noisy_samples.tobytes())
-
-def process_directory_intensity(input_dir, output_dir, 
-                              intensities=[0.05, 0.1, 0.15, 0.2, 0.25, 0.30, 0.35, 0.40, 0.45, 0.50], 
-                              noise_types=['white', 'pink', 'brown']):
-    """Process directory using intensity-based noise addition (your original method)."""
-    os.makedirs(output_dir, exist_ok=True)
-    
-    for fname in os.listdir(input_dir):
-        if fname.endswith(".wav"):
-            path = os.path.join(input_dir, fname)
-            try:
-                audio = AudioSegment.from_wav(path)
-                print(f"Processing {fname} - {audio.channels} channels, {audio.frame_rate}Hz")
+        # Get sample rate
+        rate_result = subprocess.run(
+            ['soxi', '-r', input_file], 
+            capture_output=True, text=True
+        )
+        
+        if rate_result.returncode != 0:
+            print(f"Error getting sample rate for {input_file}")
+            return False
+            
+        sample_rate = int(rate_result.stdout.strip())
+        
+        # Create temporary noise file
+        temp_noise = f"temp_noise_{noise_type}.wav"
+        
+        # Generate noise based on type - FIXED COMMAND STRUCTURE
+        if noise_type == 'white':
+            # Generate white noise
+            noise_cmd = [
+                'sox', '-n', '-r', str(sample_rate), temp_noise, 
+                'synth', str(duration), 'whitenoise'
+            ]
+        elif noise_type == 'pink':
+            # Generate pink noise
+            noise_cmd = [
+                'sox', '-n', '-r', str(sample_rate), temp_noise, 
+                'synth', str(duration), 'pinknoise'
+            ]
+        elif noise_type == 'brown':
+            # Generate brown noise (Brownian/red noise)
+            noise_cmd = [
+                'sox', '-n', '-r', str(sample_rate), temp_noise, 
+                'synth', str(duration), 'brownnoise'
+            ]
+        else:
+            print(f"Unsupported noise type: {noise_type}")
+            return False
+        
+        # Generate noise
+        result = subprocess.run(noise_cmd, capture_output=True, text=True)
+        if result.returncode != 0:
+            print(f"Error generating noise: {result.stderr}")
+            return False
+        
+        # Mix the original audio with noise
+        if snr_db is not None:
+            # SNR-based mixing
+            # Convert SNR to volume ratio
+            # SNR(dB) = 20*log10(signal/noise), so noise_volume = 10^(-SNR/20)
+            noise_volume = 10**(-snr_db/20)
+            
+            mix_cmd = [
+                'sox', '-m', 
+                input_file,
+                '-v', str(noise_volume), temp_noise,
+                output_file
+            ]
+        else:
+            # Intensity-based mixing (simple volume scaling)
+            if intensity is None:
+                intensity = 0.1  # Default intensity
                 
-                for noise_type in noise_types:
-                    for intensity in intensities:
-                        noisy_audio = add_noise_intensity_based(audio, noise_type, intensity)
-                        out_name = f"{os.path.splitext(fname)[0]}_{noise_type}_intensity_{intensity}.wav"
-                        out_path = os.path.join(output_dir, out_name)
-                        noisy_audio.export(out_path, format="wav")
-                        print(f"  Saved {out_name}")
-                        
-            except Exception as e:
-                print(f"Error processing {fname}: {e}")
+            mix_cmd = [
+                'sox', '-m',
+                input_file,
+                '-v', str(intensity), temp_noise,
+                output_file
+            ]
+        
+        # Execute mixing command
+        result = subprocess.run(mix_cmd, capture_output=True, text=True)
+        
+        # Clean up temporary file
+        if temp_noise and os.path.exists(temp_noise):
+            os.remove(temp_noise)
+        
+        if result.returncode != 0:
+            print(f"Error mixing audio: {result.stderr}")
+            return False
+        
+        return True
+        
+    except Exception as e:
+        print(f"Error processing {input_file}: {e}")
+        # Clean up temp file if it exists
+        if temp_noise and os.path.exists(temp_noise):
+            os.remove(temp_noise)
+        return False
 
 def process_directory_snr(input_dir, output_dir, 
                          snr_values=[20, 15, 10, 5, 0, -5], 
                          noise_types=['white', 'pink', 'brown']):
-    """Process directory using SNR-based noise addition (more scientifically accurate)."""
-    os.makedirs(output_dir, exist_ok=True)
+    """Process directory using SNR-based noise addition with SoX."""
     
-    for fname in os.listdir(input_dir):
-        if fname.endswith(".wav"):
-            path = os.path.join(input_dir, fname)
-            try:
-                audio = AudioSegment.from_wav(path)
-                print(f"Processing {fname} - {audio.channels} channels, {audio.frame_rate}Hz")
+    if not check_sox_installation():
+        return
+    
+    # Create output directory
+    Path(output_dir).mkdir(parents=True, exist_ok=True)
+    
+    # Get all audio files (not just .wav)
+    audio_extensions = ['.wav', '.mp3', '.flac', '.m4a', '.aiff', '.au']
+    audio_files = []
+    
+    for ext in audio_extensions:
+        audio_files.extend(Path(input_dir).glob(f"*{ext}"))
+        audio_files.extend(Path(input_dir).glob(f"*{ext.upper()}"))
+    
+    if not audio_files:
+        print(f"No audio files found in {input_dir}")
+        return
+    
+    print(f"Found {len(audio_files)} audio files")
+    
+    for audio_file in audio_files:
+        print(f"\nProcessing {audio_file.name}...")
+        
+        # Get and display audio info
+        info = get_audio_info(str(audio_file))
+        if info:
+            print("Audio info:")
+            for line in info.split('\n')[:3]:  # Show first 3 lines
+                if line.strip():
+                    print(f"  {line}")
+        
+        for noise_type in noise_types:
+            for snr_db in snr_values:
+                # Create output filename
+                stem = audio_file.stem
+                out_name = f"{stem}_{noise_type}_snr_{snr_db}dB.wav"
+                out_path = Path(output_dir) / out_name
                 
-                for noise_type in noise_types:
-                    for snr_db in snr_values:
-                        noisy_audio = add_noise_snr_based(audio, noise_type, snr_db)
-                        out_name = f"{os.path.splitext(fname)[0]}_{noise_type}_snr_{snr_db}dB.wav"
-                        out_path = os.path.join(output_dir, out_name)
-                        noisy_audio.export(out_path, format="wav")
-                        print(f"  Saved {out_name}")
-                        
-            except Exception as e:
-                print(f"Error processing {fname}: {e}")
+                print(f"  Adding {noise_type} noise at {snr_db}dB SNR...")
+                
+                success = add_noise_with_sox(
+                    str(audio_file), 
+                    str(out_path), 
+                    noise_type, 
+                    snr_db=snr_db
+                )
+                
+                if success:
+                    print(f"    ✓ Saved {out_name}")
+                else:
+                    print(f"    ✗ Failed to create {out_name}")
+
+def process_directory_intensity(input_dir, output_dir, 
+                              intensities=[0.05, 0.1, 0.15, 0.2, 0.25, 0.30, 0.35, 0.40, 0.45, 0.50], 
+                              noise_types=['white', 'pink', 'brown']):
+    """Process directory using intensity-based noise addition with SoX."""
+    
+    if not check_sox_installation():
+        return
+    
+    # Create output directory
+    Path(output_dir).mkdir(parents=True, exist_ok=True)
+    
+    # Get all audio files
+    audio_extensions = ['.wav', '.mp3', '.flac', '.m4a', '.aiff', '.au']
+    audio_files = []
+    
+    for ext in audio_extensions:
+        audio_files.extend(Path(input_dir).glob(f"*{ext}"))
+        audio_files.extend(Path(input_dir).glob(f"*{ext.upper()}"))
+    
+    if not audio_files:
+        print(f"No audio files found in {input_dir}")
+        return
+    
+    print(f"Found {len(audio_files)} audio files")
+    
+    for audio_file in audio_files:
+        print(f"\nProcessing {audio_file.name}...")
+        
+        # Get and display audio info
+        info = get_audio_info(str(audio_file))
+        if info:
+            print("Audio info:")
+            for line in info.split('\n')[:3]:  # Show first 3 lines
+                if line.strip():
+                    print(f"  {line}")
+        
+        for noise_type in noise_types:
+            for intensity in intensities:
+                # Create output filename
+                stem = audio_file.stem
+                out_name = f"{stem}_{noise_type}_intensity_{intensity}.wav"
+                out_path = Path(output_dir) / out_name
+                
+                print(f"  Adding {noise_type} noise at {intensity} intensity...")
+                
+                success = add_noise_with_sox(
+                    str(audio_file), 
+                    str(out_path), 
+                    noise_type, 
+                    intensity=intensity
+                )
+                
+                if success:
+                    print(f"    ✓ Saved {out_name}")
+                else:
+                    print(f"    ✗ Failed to create {out_name}")
+
+def process_single_file(input_file, output_dir, noise_type='white', snr_db=10):
+    """Process a single file for testing."""
+    
+    if not check_sox_installation():
+        return
+    
+    Path(output_dir).mkdir(parents=True, exist_ok=True)
+    
+    input_path = Path(input_file)
+    out_name = f"{input_path.stem}_{noise_type}_snr_{snr_db}dB.wav"
+    out_path = Path(output_dir) / out_name
+    
+    print(f"Processing {input_path.name} with {noise_type} noise at {snr_db}dB SNR...")
+    
+    success = add_noise_with_sox(str(input_path), str(out_path), noise_type, snr_db=snr_db)
+    
+    if success:
+        print(f"✓ Saved {out_name}")
+    else:
+        print(f"✗ Failed to create {out_name}")
 
 if __name__ == "__main__":
-    input_folder = "../wav_queries"     # Modify if needed
-    output_folder = "../test_files"     # Output folder
+    # Configuration
+    input_folder = "../wav_queries"     # Modify as needed
+    output_folder = "../test_files_sox"  # Output folder
     
-    # Choose which method to use:
+    # Check if input folder exists
+    if not os.path.exists(input_folder):
+        print(f"Input folder '{input_folder}' does not exist.")
+        print("Please update the input_folder path or create the directory.")
+        exit(1)
     
-    # Method 1: Your original intensity-based approach (improved)
-    print("Using intensity-based noise addition...")
-    process_directory_intensity(input_folder, output_folder)
+    print("SoX Audio Noise Addition Script")
+    print("=" * 40)
     
-    # Method 2: SNR-based approach (more scientifically accurate)
-    # Uncomment the following lines to use SNR-based method instead:
-    # print("Using SNR-based noise addition...")
-    # process_directory_snr(input_folder, output_folder + "_snr")
+    # Choose processing method
+    method = input("\nChoose method:\n1. SNR-based (recommended)\n2. Intensity-based\n3. Test single file\nEnter choice (1-3): ").strip()
+    
+    if method == "1":
+        print("\nUsing SNR-based noise addition with SoX...")
+        process_directory_snr(input_folder, output_folder + "_snr")
+        
+    elif method == "2":
+        print("\nUsing intensity-based noise addition with SoX...")
+        process_directory_intensity(input_folder, output_folder + "_intensity")
+        
+    elif method == "3":
+        # Test with a single file
+        test_files = list(Path(input_folder).glob("*.wav"))
+        if test_files:
+            test_file = test_files[0]
+            print(f"\nTesting with {test_file.name}...")
+            process_single_file(str(test_file), output_folder + "_test")
+        else:
+            print("No .wav files found for testing")
+    
+    else:
+        print("Invalid choice. Please run the script again.")
+    
+    print("\nDone!")
