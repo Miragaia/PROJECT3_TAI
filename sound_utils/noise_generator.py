@@ -281,7 +281,7 @@ def process_single_file(input_file, output_dir, noise_type='white', snr_db=10):
 if __name__ == "__main__":
     # Configuration
     input_folder = "../wav_queries"     # Modify as needed
-    output_folder = "../test_files_sox"  # Output folder
+    output_folder = "../test_files"  # Output folder
     
     # Check if input folder exists
     if not os.path.exists(input_folder):
@@ -297,11 +297,11 @@ if __name__ == "__main__":
     
     if method == "1":
         print("\nUsing SNR-based noise addition with SoX...")
-        process_directory_snr(input_folder, output_folder + "_snr")
+        process_directory_snr(input_folder, output_folder)
         
     elif method == "2":
         print("\nUsing intensity-based noise addition with SoX...")
-        process_directory_intensity(input_folder, output_folder + "_intensity")
+        process_directory_intensity(input_folder, output_folder)
         
     elif method == "3":
         # Test with a single file
