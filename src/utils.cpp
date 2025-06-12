@@ -8,6 +8,7 @@
 #include <vector>
 #include <cstring>
 #include <stdexcept>
+#include <lz4.h>
 
 int compress_zlib(const std::vector<uint8_t>& data) {
     uLongf compressedSize = compressBound(data.size());
@@ -69,6 +70,25 @@ int compress_snappy(const std::vector<uint8_t>& data) {
     return static_cast<int>(out_len);
 }
 
+int compress_lz4(const std::vector<uint8_t>& data) {
+    int max_dst_size = LZ4_compressBound(data.size());
+    std::vector<char> compressed(max_dst_size);
+
+    int compressed_size = LZ4_compress_default(
+        reinterpret_cast<const char*>(data.data()), 
+        compressed.data(),                           
+        data.size(),                                 
+        max_dst_size                               
+    );
+
+    if (compressed_size <= 0) {
+        throw std::runtime_error("LZ4 compression failed");
+    }
+
+    return compressed_size;
+}
+
+
 
 int compress_size(const std::vector<uint8_t>& data, Compressor compressor) {
     switch (compressor) {
@@ -84,6 +104,8 @@ int compress_size(const std::vector<uint8_t>& data, Compressor compressor) {
             return compress_lzo(data);
         case Compressor::SNAPPY:
             return compress_snappy(data);
+        case Compressor::LZ4:
+            return compress_lz4(data);
         default:
             throw std::invalid_argument("Unknown compressor type");
     }
@@ -96,11 +118,12 @@ std::vector<uint8_t> concat_vectors(const std::vector<uint8_t>& a, const std::ve
 }
 
 Compressor compressor_from_string(const std::string& name) {
-    if (name == "zlib") return Compressor::ZLIB;
+    if (name == "gzip") return Compressor::ZLIB;
     if (name == "bzip2") return Compressor::BZIP2;
     if (name == "zstd") return Compressor::ZSTD;
     if (name == "lzma") return Compressor::LZMA;
     if (name == "lzo") return Compressor::LZO;
     if (name == "snappy") return Compressor::SNAPPY;
+    if (name == "lz4") return Compressor::LZ4;
     throw std::invalid_argument("Unknown compressor name: " + name);
 }

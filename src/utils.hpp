@@ -11,7 +11,8 @@ enum class Compressor {
     ZSTD,
     LZMA,
     LZO,
-    SNAPPY
+    SNAPPY,
+    LZ4
 };
 
 int compress_size(const std::vector<uint8_t>& data, Compressor compressor);

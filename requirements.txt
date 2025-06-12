@@ -4,3 +4,4 @@ soundfile
 pydub
 pandas
 matplotlib
+scikit-learn

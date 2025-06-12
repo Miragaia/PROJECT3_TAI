@@ -14,8 +14,9 @@ namespace fs = std::filesystem;
 
 int main(int argc, char* argv[]) {
     std::string db_dir = "database/";
-    std::string query_dir = "queries/";
-    std::string compressor = "zlib";  // default compressor
+    std::string query_dir = "queries_spectral/";
+    //std::string query_dir = "queries/";
+    std::string compressor = "gzip";  // ZLIB library
     std::string single_query_file;
     std::string output_csv;
 
