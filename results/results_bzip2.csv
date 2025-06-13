@@ -1,14 +1,14 @@
 music query,noise type,noise intensity,result,NCD,expected
-Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.15.freqs,segment5_brown,0.15,Coldplay - Viva La Vida (Official Video).freqs,1.0022,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.15.freqs,segment5_brown,0.15,OneRepublic - Counting Stars.freqs,1.00139,false
 Post Malone - White Iverson_segment5_white_intensity_0.5.freqs,segment5_white,0.5,Post Malone - White Iverson.freqs,0.990642,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_intensity_0.25.freqs,segment2_brown,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998259,true
 Post Malone - White Iverson_segment7_pink_intensity_0.5.freqs,segment7_pink,0.5,Post Malone - White Iverson.freqs,0.994216,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.5.freqs,segment1_white,0.5,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.991624,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_intensity_0.35.freqs,segment9_white,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.985507,true
-Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.35.freqs,segment10_pink,0.35,Avicii - Wake Me Up (Official Video).freqs,1.00167,true
+Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.35.freqs,segment10_pink,0.35,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00153,false
 Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.1.freqs,segment7_brown,0.1,Avicii - Wake Me Up (Official Video).freqs,1.00109,true
 Post Malone - White Iverson_segment4_pink_intensity_0.25.freqs,segment4_pink,0.25,Post Malone - White Iverson.freqs,0.990642,true
-Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.15.freqs,segment1_brown,0.15,Post Malone - White Iverson.freqs,1.00236,false
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.15.freqs,segment1_brown,0.15,Mac Miller - 2009.freqs,1.00158,false
 Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.2.freqs,segment10_white,0.2,Avicii - Wake Me Up (Official Video).freqs,0.995055,true
 Avicii - Wake Me Up (Official Video)_segment8_white_intensity_0.4.freqs,segment8_white,0.4,Avicii - Wake Me Up (Official Video).freqs,0.99634,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.4.freqs,segment4_white,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.987248,true
@@ -20,7 +20,7 @@ Post Malone - White Iverson_segment9_pink_intensity_0.1.freqs,segment9_pink,0.1,
 Post Malone - White Iverson_segment9_white_intensity_0.35.freqs,segment9_white,0.35,Post Malone - White Iverson.freqs,0.995395,true
 Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.5.freqs,segment9_white,0.5,Avicii - Wake Me Up (Official Video).freqs,0.998619,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.4.freqs,segment5_brown,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998777,true
-Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.5.freqs,segment1_white,0.5,Avicii - Wake Me Up (Official Video).freqs,0.998491,true
+Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.5.freqs,segment1_white,0.5,OneRepublic - Counting Stars.freqs,0.998369,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.1.freqs,segment5_white,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988942,true
 Post Malone - White Iverson_segment10_brown_intensity_0.05.freqs,segment10_brown,0.05,Post Malone - White Iverson.freqs,1.00111,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.4.freqs,segment2_white,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98496,true
@@ -31,37 +31,37 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_int
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.5.freqs,segment7_pink,0.5,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.98913,true
 Post Malone - White Iverson_segment7_brown_intensity_0.45.freqs,segment7_brown,0.45,Post Malone - White Iverson.freqs,1.00007,true
 Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.45.freqs,segment10_white,0.45,Avicii - Wake Me Up (Official Video).freqs,0.997271,true
-Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.15.freqs,segment5_pink,0.15,Avicii - Wake Me Up (Official Video).freqs,0.995665,true
+Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.15.freqs,segment5_pink,0.15,Djo - End Of Beginning.freqs,0.995633,false
 Post Malone - White Iverson_segment1_white_intensity_0.3.freqs,segment1_white,0.3,Post Malone - White Iverson.freqs,0.9965,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.3.freqs,segment2_pink,0.3,Travis Scott - NO BYSTANDERS (Audio).freqs,0.984193,true
 Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.15.freqs,segment9_pink,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990945,true
 Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.2.freqs,segment4_white,0.2,Avicii - Wake Me Up (Official Video).freqs,0.996693,true
-Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.35.freqs,segment1_pink,0.35,4th Dimension.freqs,1.002,false
+Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.35.freqs,segment1_pink,0.35,OneRepublic - Counting Stars.freqs,1.00218,false
 Post Malone - White Iverson_segment6_white_intensity_0.45.freqs,segment6_white,0.45,Post Malone - White Iverson.freqs,0.990126,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_pink_intensity_0.1.freqs,segment5_pink,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988189,true
 Post Malone - White Iverson_segment6_white_intensity_0.05.freqs,segment6_white,0.05,Post Malone - White Iverson.freqs,0.992189,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_intensity_0.25.freqs,segment8_white,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989177,true
 Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.05.freqs,segment5_pink,0.05,Avicii - Wake Me Up (Official Video).freqs,0.994734,true
 Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.3.freqs,segment7_pink,0.3,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989308,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.3.freqs,segment1_brown,0.3,Post Malone - White Iverson.freqs,1.00136,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.3.freqs,segment1_brown,0.3,System of a Down - Chop Suey (Remastered 2021).freqs,1.001,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.05.freqs,segment5_brown,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988001,true
-Post Malone - White Iverson_segment10_pink_intensity_0.4.freqs,segment10_pink,0.4,Post Malone - White Iverson.freqs,1.00096,true
+Post Malone - White Iverson_segment10_pink_intensity_0.4.freqs,segment10_pink,0.4,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00095,false
 Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.4.freqs,segment7_white,0.4,Avicii - Wake Me Up (Official Video).freqs,0.995312,true
 Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.25.freqs,segment6_pink,0.25,Avicii - Wake Me Up (Official Video).freqs,0.997271,true
-Post Malone - White Iverson_segment1_brown_intensity_0.3.freqs,segment1_brown,0.3,Coldplay - Viva La Vida (Official Video).freqs,1.00142,false
+Post Malone - White Iverson_segment1_brown_intensity_0.3.freqs,segment1_brown,0.3,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00138,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.2.freqs,segment3_pink,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.9896,true
 Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.5.freqs,segment9_brown,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.999233,true
 Post Malone - White Iverson_segment6_white_intensity_0.25.freqs,segment6_white,0.25,Post Malone - White Iverson.freqs,0.991231,true
 Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.5.freqs,segment8_pink,0.5,Avicii - Wake Me Up (Official Video).freqs,1.00222,true
-Post Malone - White Iverson_segment6_brown_intensity_0.4.freqs,segment6_brown,0.4,Post Malone - White Iverson.freqs,1.00004,true
-Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.35.freqs,segment4_brown,0.35,Post Malone - White Iverson.freqs,1.00081,false
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.5.freqs,segment3_brown,0.5,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,0.999955,false
+Post Malone - White Iverson_segment6_brown_intensity_0.4.freqs,segment6_brown,0.4,Djo - End Of Beginning.freqs,0.999931,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.35.freqs,segment4_brown,0.35,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00061,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.5.freqs,segment3_brown,0.5,OneRepublic - Counting Stars.freqs,0.999116,false
 Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.35.freqs,segment9_pink,0.35,Avicii - Wake Me Up (Official Video).freqs,1.00154,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.35.freqs,segment3_brown,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.991201,true
 Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.15.freqs,segment9_white,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.99028,true
 Post Malone - White Iverson_segment7_pink_intensity_0.2.freqs,segment7_pink,0.2,Post Malone - White Iverson.freqs,0.992005,true
-Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.35.freqs,segment2_pink,0.35,4th Dimension.freqs,1.001,false
-Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.5.freqs,segment8_brown,0.5,Post Malone - White Iverson.freqs,1.00004,false
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.35.freqs,segment2_pink,0.35,OneRepublic - Counting Stars.freqs,1.00017,false
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.5.freqs,segment8_brown,0.5,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,0.999471,false
 Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.45.freqs,segment7_brown,0.45,Travis Scott - NO BYSTANDERS (Audio).freqs,0.99821,true
 Post Malone - White Iverson_segment8_white_intensity_0.05.freqs,segment8_white,0.05,Post Malone - White Iverson.freqs,0.990458,true
 Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.4.freqs,segment5_pink,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.992071,true
@@ -70,24 +70,24 @@ Travis Scott - NO BYSTANDERS (Audio)_segment8_white_intensity_0.15.freqs,segment
 Avicii - Wake Me Up (Official Video)_segment5_white_intensity_0.25.freqs,segment5_white,0.25,Avicii - Wake Me Up (Official Video).freqs,0.996243,true
 Post Malone - White Iverson_segment4_white_intensity_0.05.freqs,segment4_white,0.05,Post Malone - White Iverson.freqs,0.990568,true
 Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.2.freqs,segment4_white,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.988183,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.25.freqs,segment10_brown,0.25,Sabrina Carpenter - Espresso (Official Video).freqs,1.00135,false
-Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.45.freqs,segment8_brown,0.45,4th Dimension.freqs,0.997256,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.25.freqs,segment10_brown,0.25,Radiohead - No Surprises.freqs,1.00086,false
+Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.45.freqs,segment8_brown,0.45,Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars.freqs,0.999121,false
 Post Malone - White Iverson_segment6_white_intensity_0.3.freqs,segment6_white,0.3,Post Malone - White Iverson.freqs,0.992373,true
-Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.25.freqs,segment1_brown,0.25,Post Malone - White Iverson.freqs,1.00181,false
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.25.freqs,segment1_brown,0.25,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00116,false
 Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.35.freqs,segment9_white,0.35,Avicii - Wake Me Up (Official Video).freqs,0.998459,true
 Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.5.freqs,segment7_white,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.988336,true
-Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.4.freqs,segment2_pink,0.4,4th Dimension.freqs,1.00125,false
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.4.freqs,segment2_pink,0.4,OneRepublic - Counting Stars.freqs,1.00034,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.4.freqs,segment2_pink,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.993506,true
 Post Malone - White Iverson_segment1_white_intensity_0.05.freqs,segment1_white,0.05,Post Malone - White Iverson.freqs,0.994768,true
 Post Malone - White Iverson_segment3_pink_intensity_0.25.freqs,segment3_pink,0.25,Post Malone - White Iverson.freqs,0.990531,true
-Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.45.freqs,segment2_pink,0.45,4th Dimension.freqs,0.999813,false
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.45.freqs,segment2_pink,0.45,Sabrina Carpenter - Espresso (Official Video).freqs,1.00047,false
 Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.45.freqs,segment6_pink,0.45,Avicii - Wake Me Up (Official Video).freqs,1.00048,true
 Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.1.freqs,segment1_pink,0.1,Avicii - Wake Me Up (Official Video).freqs,0.996821,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.25.freqs,segment6_white,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989365,true
 Post Malone - White Iverson_segment3_pink_intensity_0.5.freqs,segment3_pink,0.5,Post Malone - White Iverson.freqs,0.99311,true
 Post Malone - White Iverson_segment8_pink_intensity_0.05.freqs,segment8_pink,0.05,Post Malone - White Iverson.freqs,0.991194,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.25.freqs,segment2_pink,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.982914,true
-Post Malone - White Iverson_segment10_brown_intensity_0.45.freqs,segment10_brown,0.45,Sabrina Carpenter - Espresso (Official Video).freqs,1.00088,false
+Post Malone - White Iverson_segment10_brown_intensity_0.45.freqs,segment10_brown,0.45,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00033,false
 Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.45.freqs,segment6_pink,0.45,Travis Scott - NO BYSTANDERS (Audio).freqs,0.99028,true
 Post Malone - White Iverson_segment5_brown_intensity_0.1.freqs,segment5_brown,0.1,Post Malone - White Iverson.freqs,0.991305,true
 Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.05.freqs,segment6_pink,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.988797,true
@@ -103,13 +103,13 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_int
 Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.15.freqs,segment6_brown,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.991303,true
 Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.2.freqs,segment3_pink,0.2,Avicii - Wake Me Up (Official Video).freqs,0.996982,true
 Post Malone - White Iverson_segment8_pink_intensity_0.15.freqs,segment8_pink,0.15,Post Malone - White Iverson.freqs,0.991563,true
-Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.35.freqs,segment3_brown,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,1.0016,false
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.35.freqs,segment3_brown,0.35,Frank Ocean - White Ferrari.freqs,1.0011,false
 Post Malone - White Iverson_segment7_pink_intensity_0.35.freqs,segment7_pink,0.35,Post Malone - White Iverson.freqs,0.993442,true
-Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.35.freqs,segment2_white,0.35,4th Dimension.freqs,0.995697,false
+Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.35.freqs,segment2_white,0.35,Avicii - Wake Me Up (Official Video).freqs,0.996789,true
 Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.05.freqs,segment2_white,0.05,Avicii - Wake Me Up (Official Video).freqs,0.994734,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.35.freqs,segment6_white,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.987295,true
 Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.05.freqs,segment9_brown,0.05,Avicii - Wake Me Up (Official Video).freqs,0.997271,true
-Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.3.freqs,segment5_pink,0.3,Avicii - Wake Me Up (Official Video).freqs,0.999518,true
+Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.3.freqs,segment5_pink,0.3,Djo - End Of Beginning.freqs,0.998614,false
 Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.35.freqs,segment3_white,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.985472,true
 Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.3.freqs,segment8_brown,0.3,Travis Scott - NO BYSTANDERS (Audio).freqs,0.997033,true
 Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.3.freqs,segment6_pink,0.3,Travis Scott - NO BYSTANDERS (Audio).freqs,0.991713,true
@@ -122,7 +122,7 @@ Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.3.freqs,segment1
 Post Malone - White Iverson_segment1_pink_intensity_0.5.freqs,segment1_pink,0.5,Post Malone - White Iverson.freqs,1.00059,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.25.freqs,segment4_pink,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.986777,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.35.freqs,segment4_pink,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.987248,true
-Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.35.freqs,segment7_brown,0.35,Coldplay - Viva La Vida (Official Video).freqs,1.00163,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.35.freqs,segment7_brown,0.35,Lady Gaga Bruno Mars - Die With A Smile (Official Music Video).freqs,1.0009,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.35.freqs,segment6_brown,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.994071,true
 Travis Scott - NO BYSTANDERS (Audio)_segment1_white_intensity_0.15.freqs,segment1_white,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.982658,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.45.freqs,segment5_brown,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.997224,true
@@ -135,35 +135,35 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_int
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.05.freqs,segment7_brown,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.990353,true
 Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.35.freqs,segment7_brown,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.99647,true
 Post Malone - White Iverson_segment7_white_intensity_0.5.freqs,segment7_white,0.5,Post Malone - White Iverson.freqs,0.992447,true
-Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.3.freqs,segment1_pink,0.3,4th Dimension.freqs,1.00262,false
+Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.3.freqs,segment1_pink,0.3,Mac Miller - 2009.freqs,1.00278,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.05.freqs,segment10_brown,0.05,Sabrina Carpenter - Espresso (Official Video).freqs,1.00088,false
-Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.2.freqs,segment5_brown,0.2,Sabrina Carpenter - Espresso (Official Video).freqs,1.00093,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.2.freqs,segment5_brown,0.2,OneRepublic - Counting Stars.freqs,1.00075,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.4.freqs,segment3_white,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989412,true
 Avicii - Wake Me Up (Official Video)_segment5_white_intensity_0.35.freqs,segment5_white,0.35,Avicii - Wake Me Up (Official Video).freqs,0.995505,true
 Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.05.freqs,segment4_pink,0.05,Avicii - Wake Me Up (Official Video).freqs,0.996693,true
 Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.05.freqs,segment8_pink,0.05,Avicii - Wake Me Up (Official Video).freqs,0.995697,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.45.freqs,segment10_pink,0.45,Coldplay - Viva La Vida (Official Video).freqs,1.00174,false
-Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.5.freqs,segment5_brown,0.5,4th Dimension.freqs,0.998503,false
-Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.5.freqs,segment4_white,0.5,Avicii - Wake Me Up (Official Video).freqs,0.998459,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.4.freqs,segment10_pink,0.4,Post Malone - White Iverson.freqs,1.00188,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.45.freqs,segment10_pink,0.45,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00114,false
+Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.5.freqs,segment5_brown,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.998619,true
+Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.5.freqs,segment4_white,0.5,untiljapan - PYRAMIDZ (Official Audio).freqs,0.995172,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.4.freqs,segment10_pink,0.4,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00119,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.45.freqs,segment2_pink,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.994447,true
 Post Malone - White Iverson_segment3_pink_intensity_0.05.freqs,segment3_pink,0.05,Post Malone - White Iverson.freqs,0.990458,true
 Post Malone - White Iverson_segment7_white_intensity_0.45.freqs,segment7_white,0.45,Post Malone - White Iverson.freqs,0.992816,true
 Post Malone - White Iverson_segment1_white_intensity_0.4.freqs,segment1_white,0.4,Post Malone - White Iverson.freqs,0.996058,true
 Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.2.freqs,segment9_white,0.2,Avicii - Wake Me Up (Official Video).freqs,0.996564,true
 Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.05.freqs,segment10_pink,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.998977,true
-Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.4.freqs,segment10_pink,0.4,4th Dimension.freqs,0.999813,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.4.freqs,segment10_pink,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,1.00051,true
 Post Malone - White Iverson_segment3_pink_intensity_0.4.freqs,segment3_pink,0.4,Post Malone - White Iverson.freqs,0.991305,true
 Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.15.freqs,segment1_brown,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.987313,true
-Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.45.freqs,segment5_brown,0.45,Post Malone - White Iverson.freqs,1.00018,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.45.freqs,segment5_brown,0.45,Frank Ocean - White Ferrari.freqs,1.00008,false
 Post Malone - White Iverson_segment2_pink_intensity_0.15.freqs,segment2_pink,0.15,Post Malone - White Iverson.freqs,0.994621,true
 Post Malone - White Iverson_segment6_brown_intensity_0.45.freqs,segment6_brown,0.45,Post Malone - White Iverson.freqs,0.999521,true
 Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.45.freqs,segment2_brown,0.45,Post Malone - White Iverson.freqs,0.999521,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.15.freqs,segment4_white,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.987389,true
-Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.35.freqs,segment9_brown,0.35,Post Malone - White Iverson.freqs,1.00151,false
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.35.freqs,segment9_brown,0.35,Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars.freqs,1.0006,false
 Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.1.freqs,segment2_pink,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.981891,true
 Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.1.freqs,segment1_pink,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.983886,true
-Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.5.freqs,segment10_brown,0.5,4th Dimension.freqs,1.00025,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.5.freqs,segment10_brown,0.5,Post Malone - White Iverson.freqs,1.00026,false
 Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.15.freqs,segment4_pink,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.988899,true
 Post Malone - White Iverson_segment9_pink_intensity_0.05.freqs,segment9_pink,0.05,Post Malone - White Iverson.freqs,0.992705,true
 Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.05.freqs,segment9_white,0.05,Avicii - Wake Me Up (Official Video).freqs,0.995505,true
@@ -185,29 +185,29 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_int
 Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.4.freqs,segment7_white,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98895,true
 Post Malone - White Iverson_segment3_pink_intensity_0.15.freqs,segment3_pink,0.15,Post Malone - White Iverson.freqs,0.990605,true
 Post Malone - White Iverson_segment10_pink_intensity_0.05.freqs,segment10_pink,0.05,Post Malone - White Iverson.freqs,0.999263,true
-Post Malone - White Iverson_segment10_white_intensity_0.1.freqs,segment10_white,0.1,Post Malone - White Iverson.freqs,0.999189,true
-Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.1.freqs,segment2_brown,0.1,4th Dimension.freqs,0.999751,false
+Post Malone - White Iverson_segment10_white_intensity_0.1.freqs,segment10_white,0.1,Gorillaz - Feel Good Inc. (Official Video).freqs,0.999182,false
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.1.freqs,segment2_brown,0.1,Sabrina Carpenter - Espresso (Official Video).freqs,1.00028,false
 Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.3.freqs,segment7_brown,0.3,Travis Scott - NO BYSTANDERS (Audio).freqs,0.996879,true
 Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.2.freqs,segment8_pink,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990434,true
-Post Malone - White Iverson_segment8_brown_intensity_0.35.freqs,segment8_brown,0.35,4th Dimension.freqs,1.00143,false
+Post Malone - White Iverson_segment8_brown_intensity_0.35.freqs,segment8_brown,0.35,Frank Ocean - White Ferrari.freqs,1.00145,false
 Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.2.freqs,segment1_pink,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.984755,true
 Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.05.freqs,segment10_white,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.995959,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.2.freqs,segment10_white,0.2,4th Dimension.freqs,0.999002,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.2.freqs,segment10_white,0.2,Gorillaz - Feel Good Inc. (Official Video).freqs,0.998706,false
 Post Malone - White Iverson_segment6_white_intensity_0.4.freqs,segment6_white,0.4,Post Malone - White Iverson.freqs,0.991158,true
 Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.45.freqs,segment4_pink,0.45,Travis Scott - NO BYSTANDERS (Audio).freqs,0.991201,true
-Post Malone - White Iverson_segment2_brown_intensity_0.4.freqs,segment2_brown,0.4,Post Malone - White Iverson.freqs,1.00173,true
-Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.25.freqs,segment3_brown,0.25,Post Malone - White Iverson.freqs,1.00184,false
+Post Malone - White Iverson_segment2_brown_intensity_0.4.freqs,segment2_brown,0.4,System of a Down - Chop Suey (Remastered 2021).freqs,1.0017,false
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.25.freqs,segment3_brown,0.25,OneRepublic - Counting Stars.freqs,1.00122,false
 Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.25.freqs,segment6_brown,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.993145,true
 Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.35.freqs,segment8_pink,0.35,Avicii - Wake Me Up (Official Video).freqs,0.999872,true
 Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.4.freqs,segment5_brown,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.996419,true
-Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.2.freqs,segment1_pink,0.2,4th Dimension.freqs,1.00087,false
+Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.2.freqs,segment1_pink,0.2,OneRepublic - Counting Stars.freqs,0.99966,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_pink_intensity_0.45.freqs,segment5_pink,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988142,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.2.freqs,segment2_brown,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.988081,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.5.freqs,segment9_pink,0.5,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988048,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.2.freqs,segment7_white,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.990589,true
 Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.15.freqs,segment5_brown,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.992378,true
-Post Malone - White Iverson_segment2_brown_intensity_0.3.freqs,segment2_brown,0.3,Post Malone - White Iverson.freqs,1.00199,true
-Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.4.freqs,segment4_pink,0.4,Avicii - Wake Me Up (Official Video).freqs,1.00199,true
+Post Malone - White Iverson_segment2_brown_intensity_0.3.freqs,segment2_brown,0.3,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00183,false
+Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.4.freqs,segment4_pink,0.4,Djo - End Of Beginning.freqs,1.00146,false
 Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.05.freqs,segment1_brown,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.982914,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.5.freqs,segment3_white,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.985369,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.05.freqs,segment2_white,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.979998,true
@@ -222,11 +222,11 @@ Post Malone - White Iverson_segment7_pink_intensity_0.45.freqs,segment7_pink,0.4
 Post Malone - White Iverson_segment3_brown_intensity_0.05.freqs,segment3_brown,0.05,Post Malone - White Iverson.freqs,0.990273,true
 Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.4.freqs,segment1_brown,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.999693,true
 Post Malone - White Iverson_segment7_pink_intensity_0.25.freqs,segment7_pink,0.25,Post Malone - White Iverson.freqs,0.992889,true
-Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.3.freqs,segment8_brown,0.3,Sabrina Carpenter - Espresso (Official Video).freqs,1.00149,false
-Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.4.freqs,segment8_brown,0.4,Post Malone - White Iverson.freqs,1.00107,false
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.3.freqs,segment8_brown,0.3,OneRepublic - Counting Stars.freqs,0.999898,false
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.4.freqs,segment8_brown,0.4,Gorillaz - Feel Good Inc. (Official Video).freqs,0.999966,false
 Post Malone - White Iverson_segment7_white_intensity_0.1.freqs,segment7_white,0.1,Post Malone - White Iverson.freqs,0.992631,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.2.freqs,segment6_brown,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.990024,true
-Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.45.freqs,segment8_brown,0.45,4th Dimension.freqs,0.999938,false
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.45.freqs,segment8_brown,0.45,Djo - End Of Beginning.freqs,1.00007,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.5.freqs,segment10_brown,0.5,Coldplay - Viva La Vida (Official Video).freqs,0.999929,false
 Post Malone - White Iverson_segment5_white_intensity_0.1.freqs,segment5_white,0.1,Post Malone - White Iverson.freqs,0.989094,true
 Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.35.freqs,segment8_brown,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.997289,true
@@ -240,8 +240,8 @@ Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.5.freqs,segment7
 Post Malone - White Iverson_segment6_pink_intensity_0.25.freqs,segment6_pink,0.25,Post Malone - White Iverson.freqs,0.991158,true
 Post Malone - White Iverson_segment2_white_intensity_0.5.freqs,segment2_white,0.5,Post Malone - White Iverson.freqs,0.996168,true
 Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.1.freqs,segment3_white,0.1,Avicii - Wake Me Up (Official Video).freqs,0.996564,true
-Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.2.freqs,segment10_brown,0.2,4th Dimension.freqs,1.00012,false
-Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.3.freqs,segment7_brown,0.3,Sabrina Carpenter - Espresso (Official Video).freqs,1.00177,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.2.freqs,segment10_brown,0.2,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,0.999796,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.3.freqs,segment7_brown,0.3,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00082,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.4.freqs,segment2_white,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.992094,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.2.freqs,segment3_brown,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.9944,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.25.freqs,segment6_pink,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.992142,true
@@ -249,10 +249,10 @@ Post Malone - White Iverson_segment9_pink_intensity_0.35.freqs,segment9_pink,0.3
 Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.1.freqs,segment6_pink,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98936,true
 Post Malone - White Iverson_segment9_white_intensity_0.15.freqs,segment9_white,0.15,Post Malone - White Iverson.freqs,0.993221,true
 Post Malone - White Iverson_segment3_brown_intensity_0.4.freqs,segment3_brown,0.4,Post Malone - White Iverson.freqs,1.00077,true
-Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.3.freqs,segment10_white,0.3,4th Dimension.freqs,0.999002,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.3.freqs,segment10_white,0.3,Travis Scott - NO BYSTANDERS (Audio).freqs,0.999028,true
 Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.05.freqs,segment6_brown,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990434,true
-Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.35.freqs,segment5_brown,0.35,Sabrina Carpenter - Espresso (Official Video).freqs,1.00079,false
-Post Malone - White Iverson_segment10_white_intensity_0.4.freqs,segment10_white,0.4,4th Dimension.freqs,0.998379,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.35.freqs,segment5_brown,0.35,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00034,false
+Post Malone - White Iverson_segment10_white_intensity_0.4.freqs,segment10_white,0.4,Gorillaz - Feel Good Inc. (Official Video).freqs,0.998501,false
 Post Malone - White Iverson_segment7_brown_intensity_0.3.freqs,segment7_brown,0.3,Post Malone - White Iverson.freqs,0.998158,true
 Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.1.freqs,segment7_white,0.1,Avicii - Wake Me Up (Official Video).freqs,0.995505,true
 Post Malone - White Iverson_segment10_pink_intensity_0.35.freqs,segment10_pink,0.35,Post Malone - White Iverson.freqs,1.00122,true
@@ -260,7 +260,7 @@ Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.45.freqs,segment9
 Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.2.freqs,segment8_pink,0.2,Avicii - Wake Me Up (Official Video).freqs,0.997303,true
 Post Malone - White Iverson_segment2_white_intensity_0.25.freqs,segment2_white,0.25,Post Malone - White Iverson.freqs,0.995947,true
 Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.45.freqs,segment5_brown,0.45,Travis Scott - NO BYSTANDERS (Audio).freqs,0.997851,true
-Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.15.freqs,segment10_brown,0.15,4th Dimension.freqs,0.999002,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.15.freqs,segment10_brown,0.15,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,0.998982,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.15.freqs,segment10_white,0.15,Playboi Carti - Magnolia (Official Video).freqs,0.99884,false
 Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.1.freqs,segment8_pink,0.1,Avicii - Wake Me Up (Official Video).freqs,0.994638,true
 Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.2.freqs,segment3_white,0.2,Avicii - Wake Me Up (Official Video).freqs,0.995152,true
@@ -270,7 +270,7 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_int
 Post Malone - White Iverson_segment7_brown_intensity_0.05.freqs,segment7_brown,0.05,Post Malone - White Iverson.freqs,0.992558,true
 Post Malone - White Iverson_segment8_pink_intensity_0.25.freqs,segment8_pink,0.25,Post Malone - White Iverson.freqs,0.990973,true
 Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.15.freqs,segment7_white,0.15,Avicii - Wake Me Up (Official Video).freqs,0.994381,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.5.freqs,segment10_pink,0.5,Avicii - Wake Me Up (Official Video).freqs,1.00161,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.5.freqs,segment10_pink,0.5,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00014,false
 Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.5.freqs,segment5_pink,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.993964,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.05.freqs,segment8_brown,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.990024,true
 Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.1.freqs,segment2_white,0.1,Avicii - Wake Me Up (Official Video).freqs,0.994349,true
@@ -278,18 +278,18 @@ Post Malone - White Iverson_segment6_pink_intensity_0.4.freqs,segment6_pink,0.4,
 Avicii - Wake Me Up (Official Video)_segment6_white_intensity_0.3.freqs,segment6_white,0.3,Avicii - Wake Me Up (Official Video).freqs,0.99406,true
 Post Malone - White Iverson_segment9_white_intensity_0.25.freqs,segment9_white,0.25,Post Malone - White Iverson.freqs,0.995026,true
 Travis Scott - NO BYSTANDERS (Audio)_segment5_white_intensity_0.25.freqs,segment5_white,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.991815,true
-Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.25.freqs,segment4_brown,0.25,Post Malone - White Iverson.freqs,1.00122,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.25.freqs,segment4_brown,0.25,Slipknot - Duality [OFFICIAL VIDEO] [HD].freqs,1.00112,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.45.freqs,segment1_pink,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.999671,true
 Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.35.freqs,segment9_brown,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.996266,true
 Post Malone - White Iverson_segment4_brown_intensity_0.05.freqs,segment4_brown,0.05,Post Malone - White Iverson.freqs,0.990752,true
-Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.4.freqs,segment1_brown,0.4,Sabrina Carpenter - Espresso (Official Video).freqs,1.00065,false
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.4.freqs,segment1_brown,0.4,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00044,false
 Travis Scott - NO BYSTANDERS (Audio)_segment8_white_intensity_0.25.freqs,segment8_white,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990945,true
 Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.25.freqs,segment9_brown,0.25,Post Malone - White Iverson.freqs,1.00088,false
 Post Malone - White Iverson_segment8_pink_intensity_0.4.freqs,segment8_pink,0.4,Post Malone - White Iverson.freqs,0.992963,true
 Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.1.freqs,segment10_brown,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,1.00026,true
-Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.4.freqs,segment2_brown,0.4,Post Malone - White Iverson.freqs,1.00007,false
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.4.freqs,segment2_brown,0.4,Gorillaz - Feel Good Inc. (Official Video).freqs,0.99983,false
 Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.1.freqs,segment7_brown,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990434,true
-Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.4.freqs,segment1_pink,0.4,4th Dimension.freqs,1.00224,false
+Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.4.freqs,segment1_pink,0.4,OneRepublic - Counting Stars.freqs,1.00044,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_intensity_0.05.freqs,segment2_brown,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.993083,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.45.freqs,segment9_brown,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998259,true
 Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.1.freqs,segment9_pink,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989922,true
@@ -297,19 +297,19 @@ Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.1.freqs,segment9
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.5.freqs,segment3_pink,0.5,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.990777,true
 Post Malone - White Iverson_segment2_pink_intensity_0.35.freqs,segment2_pink,0.35,Post Malone - White Iverson.freqs,0.9993,true
 Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.25.freqs,segment4_white,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989155,true
-Post Malone - White Iverson_segment10_white_intensity_0.25.freqs,segment10_white,0.25,4th Dimension.freqs,0.998316,false
+Post Malone - White Iverson_segment10_white_intensity_0.25.freqs,segment10_white,0.25,Post Malone - White Iverson.freqs,0.998747,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.05.freqs,segment3_pink,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.984653,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.15.freqs,segment10_pink,0.15,Sabrina Carpenter - Espresso (Official Video).freqs,1.00149,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.15.freqs,segment10_pink,0.15,OneRepublic - Counting Stars.freqs,1.00116,false
 Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.25.freqs,segment9_white,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990638,true
 Post Malone - White Iverson_segment5_pink_intensity_0.25.freqs,segment5_pink,0.25,Post Malone - White Iverson.freqs,0.989279,true
 Post Malone - White Iverson_segment8_pink_intensity_0.5.freqs,segment8_pink,0.5,Post Malone - White Iverson.freqs,0.993184,true
-Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.2.freqs,segment7_brown,0.2,Sabrina Carpenter - Espresso (Official Video).freqs,1.00177,false
-Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.35.freqs,segment10_brown,0.35,4th Dimension.freqs,1.00131,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.2.freqs,segment7_brown,0.2,OneRepublic - Counting Stars.freqs,1.00085,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.35.freqs,segment10_brown,0.35,Frank Ocean - White Ferrari.freqs,1.00065,false
 Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.2.freqs,segment6_pink,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.988899,true
 Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.15.freqs,segment3_pink,0.15,Avicii - Wake Me Up (Official Video).freqs,0.995408,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.3.freqs,segment9_pink,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.985318,true
 Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.05.freqs,segment8_brown,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990025,true
-Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.45.freqs,segment1_brown,0.45,4th Dimension.freqs,1.00069,false
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.45.freqs,segment1_brown,0.45,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00027,false
 Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.4.freqs,segment5_pink,0.4,Avicii - Wake Me Up (Official Video).freqs,1.00106,true
 Post Malone - White Iverson_segment1_brown_intensity_0.15.freqs,segment1_brown,0.15,Post Malone - White Iverson.freqs,1.00096,true
 Post Malone - White Iverson_segment2_brown_intensity_0.1.freqs,segment2_brown,0.1,Post Malone - White Iverson.freqs,1.00063,true
@@ -322,11 +322,11 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_in
 Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.25.freqs,segment7_pink,0.25,Avicii - Wake Me Up (Official Video).freqs,0.996821,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.15.freqs,segment10_brown,0.15,Post Malone - White Iverson.freqs,1.00004,false
 Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.25.freqs,segment2_brown,0.25,Post Malone - White Iverson.freqs,1.00026,false
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.5.freqs,segment1_brown,0.5,Coldplay - Viva La Vida (Official Video).freqs,1.00092,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.5.freqs,segment1_brown,0.5,Nirvana - Come As You Are (Official Music Video).freqs,1.00028,false
 Post Malone - White Iverson_segment2_white_intensity_0.1.freqs,segment2_white,0.1,Post Malone - White Iverson.freqs,0.993147,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.3.freqs,segment2_pink,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.995247,true
-Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.1.freqs,segment1_brown,0.1,Coldplay - Viva La Vida (Official Video).freqs,1.00266,false
-Post Malone - White Iverson_segment4_brown_intensity_0.5.freqs,segment4_brown,0.5,Post Malone - White Iverson.freqs,1.00033,true
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.1.freqs,segment1_brown,0.1,Mac Miller - 2009.freqs,1.0013,false
+Post Malone - White Iverson_segment4_brown_intensity_0.5.freqs,segment4_brown,0.5,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00031,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.1.freqs,segment10_white,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.99793,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.3.freqs,segment7_pink,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.98993,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.45.freqs,segment6_brown,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.999529,true
@@ -335,20 +335,20 @@ Post Malone - White Iverson_segment6_pink_intensity_0.15.freqs,segment6_pink,0.1
 Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.05.freqs,segment3_white,0.05,Avicii - Wake Me Up (Official Video).freqs,0.994734,true
 Post Malone - White Iverson_segment2_pink_intensity_0.5.freqs,segment2_pink,0.5,Post Malone - White Iverson.freqs,1.00136,true
 Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.25.freqs,segment2_white,0.25,Avicii - Wake Me Up (Official Video).freqs,0.995601,true
-Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.3.freqs,segment10_brown,0.3,4th Dimension.freqs,0.999314,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.3.freqs,segment10_brown,0.3,Frank Ocean - White Ferrari.freqs,0.999924,false
 Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.15.freqs,segment7_pink,0.15,Avicii - Wake Me Up (Official Video).freqs,0.995023,true
 Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.1.freqs,segment6_white,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.99028,true
 Post Malone - White Iverson_segment8_pink_intensity_0.45.freqs,segment8_pink,0.45,Post Malone - White Iverson.freqs,0.991858,true
 Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.05.freqs,segment5_brown,0.05,Avicii - Wake Me Up (Official Video).freqs,0.998908,true
 Post Malone - White Iverson_segment1_pink_intensity_0.15.freqs,segment1_pink,0.15,Post Malone - White Iverson.freqs,0.996758,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.25.freqs,segment1_pink,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.994071,true
-Post Malone - White Iverson_segment1_brown_intensity_0.45.freqs,segment1_brown,0.45,Coldplay - Viva La Vida (Official Video).freqs,1.00121,false
+Post Malone - White Iverson_segment1_brown_intensity_0.45.freqs,segment1_brown,0.45,Mac Miller - 2009.freqs,1.00095,false
 Post Malone - White Iverson_segment6_brown_intensity_0.2.freqs,segment6_brown,0.2,Post Malone - White Iverson.freqs,0.996058,true
 Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.1.freqs,segment4_white,0.1,Avicii - Wake Me Up (Official Video).freqs,0.995986,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.25.freqs,segment2_brown,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.992634,true
 Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.3.freqs,segment3_white,0.3,Avicii - Wake Me Up (Official Video).freqs,0.995312,true
 Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.05.freqs,segment9_pink,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990894,true
-Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.15.freqs,segment2_brown,0.15,Sabrina Carpenter - Espresso (Official Video).freqs,1.00181,false
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.15.freqs,segment2_brown,0.15,Mac Miller - 2009.freqs,1.00136,false
 Post Malone - White Iverson_segment2_brown_intensity_0.15.freqs,segment2_brown,0.15,Post Malone - White Iverson.freqs,1.00239,true
 Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.35.freqs,segment7_pink,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989871,true
 Travis Scott - NO BYSTANDERS (Audio)_segment8_white_intensity_0.4.freqs,segment8_white,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.988797,true
@@ -371,7 +371,7 @@ Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.2.freqs,segment1
 Avicii - Wake Me Up (Official Video)_segment6_white_intensity_0.15.freqs,segment6_white,0.15,Avicii - Wake Me Up (Official Video).freqs,0.993739,true
 Post Malone - White Iverson_segment4_white_intensity_0.25.freqs,segment4_white,0.25,Post Malone - White Iverson.freqs,0.990715,true
 Post Malone - White Iverson_segment9_white_intensity_0.3.freqs,segment9_white,0.3,Post Malone - White Iverson.freqs,0.9944,true
-Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.45.freqs,segment10_pink,0.45,4th Dimension.freqs,0.999688,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.45.freqs,segment10_pink,0.45,Travis Scott - NO BYSTANDERS (Audio).freqs,1.0001,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_intensity_0.15.freqs,segment8_pink,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989977,true
 Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.1.freqs,segment10_white,0.1,Avicii - Wake Me Up (Official Video).freqs,0.995473,true
 Post Malone - White Iverson_segment8_pink_intensity_0.1.freqs,segment8_pink,0.1,Post Malone - White Iverson.freqs,0.991342,true
@@ -380,10 +380,10 @@ Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.05.freqs,segment
 Post Malone - White Iverson_segment4_white_intensity_0.4.freqs,segment4_white,0.4,Post Malone - White Iverson.freqs,0.990752,true
 Travis Scott - NO BYSTANDERS (Audio)_segment1_white_intensity_0.35.freqs,segment1_white,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.985625,true
 Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.2.freqs,segment1_white,0.2,Avicii - Wake Me Up (Official Video).freqs,0.995794,true
-Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.5.freqs,segment9_brown,0.5,4th Dimension.freqs,1.00037,false
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.5.freqs,segment9_brown,0.5,Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars.freqs,0.999473,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.15.freqs,segment6_pink,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988048,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.25.freqs,segment7_brown,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.993224,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.3.freqs,segment10_pink,0.3,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,1.0021,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.3.freqs,segment10_pink,0.3,OneRepublic - Counting Stars.freqs,1.00034,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.3.freqs,segment7_white,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988848,true
 Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.3.freqs,segment4_white,0.3,Avicii - Wake Me Up (Official Video).freqs,0.996468,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.25.freqs,segment2_pink,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.993694,true
@@ -398,10 +398,10 @@ Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.15.freqs,segment
 Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.05.freqs,segment4_white,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989155,true
 Post Malone - White Iverson_segment10_pink_intensity_0.1.freqs,segment10_pink,0.1,Post Malone - White Iverson.freqs,1,true
 Post Malone - White Iverson_segment8_brown_intensity_0.3.freqs,segment8_brown,0.3,Post Malone - White Iverson.freqs,0.999963,true
-Post Malone - White Iverson_segment10_brown_intensity_0.2.freqs,segment10_brown,0.2,Coldplay - Viva La Vida (Official Video).freqs,1.0011,false
+Post Malone - White Iverson_segment10_brown_intensity_0.2.freqs,segment10_brown,0.2,System of a Down - Chop Suey (Remastered 2021).freqs,1.00048,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.2.freqs,segment9_pink,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.985836,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.35.freqs,segment3_pink,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.990259,true
-Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.45.freqs,segment1_pink,0.45,Post Malone - White Iverson.freqs,1.00313,false
+Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.45.freqs,segment1_pink,0.45,OneRepublic - Counting Stars.freqs,1.00194,false
 Post Malone - White Iverson_segment8_pink_intensity_0.3.freqs,segment8_pink,0.3,Post Malone - White Iverson.freqs,0.991084,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.1.freqs,segment3_brown,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.990165,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.5.freqs,segment9_brown,0.5,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.997553,true
@@ -413,10 +413,10 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_int
 Avicii - Wake Me Up (Official Video)_segment5_white_intensity_0.05.freqs,segment5_white,0.05,Avicii - Wake Me Up (Official Video).freqs,0.994959,true
 Travis Scott - NO BYSTANDERS (Audio)_segment5_white_intensity_0.4.freqs,segment5_white,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.993043,true
 Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.25.freqs,segment3_pink,0.25,Avicii - Wake Me Up (Official Video).freqs,0.996661,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.45.freqs,segment10_brown,0.45,Coldplay - Viva La Vida (Official Video).freqs,1.00039,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.45.freqs,segment10_brown,0.45,Frank Ocean - White Ferrari.freqs,0.999506,false
 Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.45.freqs,segment10_white,0.45,Travis Scott - NO BYSTANDERS (Audio).freqs,0.997186,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.05.freqs,segment3_brown,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.984551,true
-Post Malone - White Iverson_segment9_brown_intensity_0.2.freqs,segment9_brown,0.2,Sabrina Carpenter - Espresso (Official Video).freqs,1.00293,false
+Post Malone - White Iverson_segment9_brown_intensity_0.2.freqs,segment9_brown,0.2,OneRepublic - Counting Stars.freqs,1.00272,false
 Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.1.freqs,segment4_brown,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.988899,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_intensity_0.05.freqs,segment9_white,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.98466,true
 Post Malone - White Iverson_segment9_white_intensity_0.45.freqs,segment9_white,0.45,Post Malone - White Iverson.freqs,0.994658,true
@@ -440,13 +440,13 @@ Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.3.freqs,segment3_
 Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.3.freqs,segment1_white,0.3,Avicii - Wake Me Up (Official Video).freqs,0.996596,true
 Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.1.freqs,segment10_white,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.995549,true
 Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.15.freqs,segment3_white,0.15,Avicii - Wake Me Up (Official Video).freqs,0.995376,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.45.freqs,segment10_white,0.45,4th Dimension.freqs,0.996321,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.45.freqs,segment10_white,0.45,Playboi Carti - Magnolia (Official Video).freqs,0.997515,false
 Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.2.freqs,segment4_pink,0.2,Avicii - Wake Me Up (Official Video).freqs,0.998298,true
 Post Malone - White Iverson_segment4_pink_intensity_0.35.freqs,segment4_pink,0.35,Post Malone - White Iverson.freqs,0.991305,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_intensity_0.4.freqs,segment4_brown,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.997318,true
 Post Malone - White Iverson_segment6_brown_intensity_0.05.freqs,segment6_brown,0.05,Post Malone - White Iverson.freqs,0.991305,true
 Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.3.freqs,segment1_brown,0.3,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,1.00013,false
-Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.4.freqs,segment7_brown,0.4,Post Malone - White Iverson.freqs,1.00111,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.4.freqs,segment7_brown,0.4,OneRepublic - Counting Stars.freqs,1.00048,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.25.freqs,segment9_brown,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.990589,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.35.freqs,segment2_white,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.993412,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.1.freqs,segment2_white,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.992424,true
@@ -454,13 +454,13 @@ Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.1.freqs,segment1
 Post Malone - White Iverson_segment8_brown_intensity_0.4.freqs,segment8_brown,0.4,Post Malone - White Iverson.freqs,1.00077,true
 Post Malone - White Iverson_segment7_brown_intensity_0.15.freqs,segment7_brown,0.15,Post Malone - White Iverson.freqs,0.994879,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.15.freqs,segment3_white,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988659,true
-Post Malone - White Iverson_segment10_brown_intensity_0.3.freqs,segment10_brown,0.3,Coldplay - Viva La Vida (Official Video).freqs,1.00121,false
+Post Malone - White Iverson_segment10_brown_intensity_0.3.freqs,segment10_brown,0.3,OneRepublic - Counting Stars.freqs,1.00024,false
 Post Malone - White Iverson_segment3_pink_intensity_0.45.freqs,segment3_pink,0.45,Post Malone - White Iverson.freqs,0.992668,true
-Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.1.freqs,segment10_brown,0.1,Avicii - Wake Me Up (Official Video).freqs,1.00189,true
-Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.25.freqs,segment10_brown,0.25,4th Dimension.freqs,0.999065,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.1.freqs,segment10_brown,0.1,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00164,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.25.freqs,segment10_brown,0.25,SUR LE PONT dAVIGNON -- Mach-Hommy Conductor Williams [OFFICIAL MUSIC VIDEO].freqs,0.999784,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.2.freqs,segment1_pink,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.993177,true
-Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.2.freqs,segment10_brown,0.2,4th Dimension.freqs,1.00181,false
-Post Malone - White Iverson_segment10_pink_intensity_0.5.freqs,segment10_pink,0.5,Post Malone - White Iverson.freqs,1.00136,true
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.2.freqs,segment10_brown,0.2,Frank Ocean - White Ferrari.freqs,1.00156,false
+Post Malone - White Iverson_segment10_pink_intensity_0.5.freqs,segment10_pink,0.5,OneRepublic - Counting Stars.freqs,1.00129,false
 Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.4.freqs,segment9_white,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990178,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.15.freqs,segment7_white,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989224,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.1.freqs,segment3_brown,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.985114,true
@@ -471,13 +471,13 @@ Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.15.freqs,segment
 Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.4.freqs,segment9_pink,0.4,Avicii - Wake Me Up (Official Video).freqs,1.00231,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.15.freqs,segment1_pink,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.993177,true
 Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.1.freqs,segment4_pink,0.1,Avicii - Wake Me Up (Official Video).freqs,0.996532,true
-Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.1.freqs,segment5_brown,0.1,4th Dimension.freqs,1.00143,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.1.freqs,segment5_brown,0.1,Djo - End Of Beginning.freqs,1.00076,false
 Post Malone - White Iverson_segment1_white_intensity_0.5.freqs,segment1_white,0.5,Post Malone - White Iverson.freqs,0.996095,true
 Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.5.freqs,segment9_pink,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990741,true
 Post Malone - White Iverson_segment2_white_intensity_0.05.freqs,segment2_white,0.05,Post Malone - White Iverson.freqs,0.992595,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.05.freqs,segment7_pink,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.992236,true
 Post Malone - White Iverson_segment10_brown_intensity_0.35.freqs,segment10_brown,0.35,Post Malone - White Iverson.freqs,0.999926,true
-Post Malone - White Iverson_segment8_brown_intensity_0.45.freqs,segment8_brown,0.45,Post Malone - White Iverson.freqs,1.00155,true
+Post Malone - White Iverson_segment8_brown_intensity_0.45.freqs,segment8_brown,0.45,OneRepublic - Counting Stars.freqs,0.999796,false
 Post Malone - White Iverson_segment6_pink_intensity_0.5.freqs,segment6_pink,0.5,Post Malone - White Iverson.freqs,0.994179,true
 Travis Scott - NO BYSTANDERS (Audio)_segment5_white_intensity_0.5.freqs,segment5_white,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.99161,true
 Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.25.freqs,segment10_pink,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,1.00015,true
@@ -494,7 +494,7 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_inte
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.15.freqs,segment4_pink,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.987342,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.35.freqs,segment9_brown,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.993883,true
 Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.25.freqs,segment5_pink,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.992429,true
-Post Malone - White Iverson_segment1_brown_intensity_0.4.freqs,segment1_brown,0.4,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,1.00058,false
+Post Malone - White Iverson_segment1_brown_intensity_0.4.freqs,segment1_brown,0.4,System of a Down - Chop Suey (Remastered 2021).freqs,1.00057,false
 Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.5.freqs,segment1_pink,0.5,Sabrina Carpenter - Espresso (Official Video).freqs,1.00237,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.05.freqs,segment7_white,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989365,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.1.freqs,segment3_white,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.9896,true
@@ -516,14 +516,14 @@ Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.2.freqs,segment6
 Post Malone - White Iverson_segment8_brown_intensity_0.25.freqs,segment8_brown,0.25,Post Malone - White Iverson.freqs,0.99871,true
 Post Malone - White Iverson_segment7_white_intensity_0.2.freqs,segment7_white,0.2,Post Malone - White Iverson.freqs,0.992226,true
 Post Malone - White Iverson_segment5_white_intensity_0.15.freqs,segment5_white,0.15,Post Malone - White Iverson.freqs,0.989573,true
-Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.45.freqs,segment3_brown,0.45,Post Malone - White Iverson.freqs,1.00085,false
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.45.freqs,segment3_brown,0.45,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00049,false
 Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.3.freqs,segment2_white,0.3,Avicii - Wake Me Up (Official Video).freqs,0.994895,true
 Post Malone - White Iverson_segment8_white_intensity_0.15.freqs,segment8_white,0.15,Post Malone - White Iverson.freqs,0.990679,true
 Post Malone - White Iverson_segment2_pink_intensity_0.45.freqs,segment2_pink,0.45,Post Malone - White Iverson.freqs,1.00066,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.4.freqs,segment3_pink,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.986239,true
 Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.1.freqs,segment9_brown,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.99028,true
 Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.5.freqs,segment4_brown,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.996777,true
-Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.1.freqs,segment4_brown,0.1,Avicii - Wake Me Up (Official Video).freqs,1.00189,true
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.1.freqs,segment4_brown,0.1,Djo - End Of Beginning.freqs,1.00125,false
 Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.1.freqs,segment9_white,0.1,Avicii - Wake Me Up (Official Video).freqs,0.997239,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.35.freqs,segment7_pink,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989836,true
 Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.35.freqs,segment4_white,0.35,Avicii - Wake Me Up (Official Video).freqs,0.996885,true
@@ -536,7 +536,7 @@ Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.35.freqs,segment8
 Post Malone - White Iverson_segment8_pink_intensity_0.2.freqs,segment8_pink,0.2,Post Malone - White Iverson.freqs,0.990015,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.2.freqs,segment2_pink,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.984449,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.25.freqs,segment3_brown,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.988694,true
-Post Malone - White Iverson_segment6_brown_intensity_0.5.freqs,segment6_brown,0.5,4th Dimension.freqs,1,false
+Post Malone - White Iverson_segment6_brown_intensity_0.5.freqs,segment6_brown,0.5,Post Malone - White Iverson.freqs,1.00015,true
 Post Malone - White Iverson_segment5_white_intensity_0.3.freqs,segment5_white,0.3,Post Malone - White Iverson.freqs,0.989758,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.1.freqs,segment2_white,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.981533,true
 Post Malone - White Iverson_segment4_white_intensity_0.2.freqs,segment4_white,0.2,Post Malone - White Iverson.freqs,0.9895,true
@@ -546,8 +546,8 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_int
 Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.25.freqs,segment6_white,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990638,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.5.freqs,segment2_white,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.984653,true
 Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.45.freqs,segment7_pink,0.45,Travis Scott - NO BYSTANDERS (Audio).freqs,0.99028,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.4.freqs,segment10_brown,0.4,Coldplay - Viva La Vida (Official Video).freqs,1.00046,false
-Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.05.freqs,segment2_brown,0.05,4th Dimension.freqs,0.998316,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.4.freqs,segment10_brown,0.4,Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars.freqs,1.00035,false
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.05.freqs,segment2_brown,0.05,Avicii - Wake Me Up (Official Video).freqs,0.998748,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.15.freqs,segment6_brown,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.990165,true
 Post Malone - White Iverson_segment2_white_intensity_0.2.freqs,segment2_white,0.2,Post Malone - White Iverson.freqs,0.9937,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.35.freqs,segment3_pink,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.985011,true
@@ -558,7 +558,7 @@ Post Malone - White Iverson_segment4_white_intensity_0.5.freqs,segment4_white,0.
 Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.15.freqs,segment7_brown,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.992838,true
 Post Malone - White Iverson_segment1_brown_intensity_0.05.freqs,segment1_brown,0.05,Post Malone - White Iverson.freqs,0.997679,true
 Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.3.freqs,segment4_pink,0.3,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989155,true
-Post Malone - White Iverson_segment10_brown_intensity_0.15.freqs,segment10_brown,0.15,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,1.00125,false
+Post Malone - White Iverson_segment10_brown_intensity_0.15.freqs,segment10_brown,0.15,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00089,false
 Post Malone - White Iverson_segment4_white_intensity_0.35.freqs,segment4_white,0.35,Post Malone - White Iverson.freqs,0.989831,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.15.freqs,segment2_pink,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98276,true
 Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.35.freqs,segment4_white,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989053,true
@@ -568,7 +568,7 @@ Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.45.freqs,segment1
 Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.15.freqs,segment10_pink,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.999847,true
 Post Malone - White Iverson_segment1_white_intensity_0.2.freqs,segment1_white,0.2,Post Malone - White Iverson.freqs,0.995763,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.2.freqs,segment3_white,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.984193,true
-Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.2.freqs,segment3_brown,0.2,Sabrina Carpenter - Espresso (Official Video).freqs,1.00154,false
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.2.freqs,segment3_brown,0.2,OneRepublic - Counting Stars.freqs,1.00139,false
 Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.25.freqs,segment9_brown,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.993401,true
 Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.1.freqs,segment6_pink,0.1,Avicii - Wake Me Up (Official Video).freqs,0.994574,true
 Post Malone - White Iverson_segment1_brown_intensity_0.2.freqs,segment1_brown,0.2,Coldplay - Viva La Vida (Official Video).freqs,1.0011,false
@@ -581,40 +581,40 @@ Post Malone - White Iverson_segment2_pink_intensity_0.4.freqs,segment2_pink,0.4,
 Post Malone - White Iverson_segment5_white_intensity_0.35.freqs,segment5_white,0.35,Post Malone - White Iverson.freqs,0.9895,true
 Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.15.freqs,segment10_white,0.15,Avicii - Wake Me Up (Official Video).freqs,0.99634,true
 Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.15.freqs,segment10_brown,0.15,Avicii - Wake Me Up (Official Video).freqs,1.0018,true
-Post Malone - White Iverson_segment4_brown_intensity_0.4.freqs,segment4_brown,0.4,4th Dimension.freqs,0.999688,false
-Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.5.freqs,segment7_brown,0.5,4th Dimension.freqs,1.00062,false
+Post Malone - White Iverson_segment4_brown_intensity_0.4.freqs,segment4_brown,0.4,Gorillaz - Feel Good Inc. (Official Video).freqs,0.999489,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.5.freqs,segment7_brown,0.5,Gorillaz - Feel Good Inc. (Official Video).freqs,1,false
 Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.45.freqs,segment8_pink,0.45,Travis Scott - NO BYSTANDERS (Audio).freqs,0.992889,true
 Post Malone - White Iverson_segment9_pink_intensity_0.4.freqs,segment9_pink,0.4,Post Malone - White Iverson.freqs,0.997679,true
 Post Malone - White Iverson_segment2_white_intensity_0.3.freqs,segment2_white,0.3,Post Malone - White Iverson.freqs,0.99451,true
 Avicii - Wake Me Up (Official Video)_segment5_white_intensity_0.1.freqs,segment5_white,0.1,Avicii - Wake Me Up (Official Video).freqs,0.994734,true
 Post Malone - White Iverson_segment8_white_intensity_0.4.freqs,segment8_white,0.4,Post Malone - White Iverson.freqs,0.991231,true
 Post Malone - White Iverson_segment7_brown_intensity_0.35.freqs,segment7_brown,0.35,Post Malone - White Iverson.freqs,0.999853,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.35.freqs,segment10_pink,0.35,Post Malone - White Iverson.freqs,1.00173,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.35.freqs,segment10_pink,0.35,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00116,false
 Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.15.freqs,segment4_brown,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.991764,true
-Post Malone - White Iverson_segment9_brown_intensity_0.3.freqs,segment9_brown,0.3,Sabrina Carpenter - Espresso (Official Video).freqs,1.00177,false
+Post Malone - White Iverson_segment9_brown_intensity_0.3.freqs,segment9_brown,0.3,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00138,false
 Post Malone - White Iverson_segment3_white_intensity_0.25.freqs,segment3_white,0.25,Post Malone - White Iverson.freqs,0.990826,true
 Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.5.freqs,segment2_pink,0.5,Sabrina Carpenter - Espresso (Official Video).freqs,0.99986,false
-Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.15.freqs,segment2_pink,0.15,4th Dimension.freqs,0.997319,false
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.15.freqs,segment2_pink,0.15,Avicii - Wake Me Up (Official Video).freqs,0.998202,true
 Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.25.freqs,segment5_brown,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.995294,true
-Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.35.freqs,segment10_brown,0.35,Post Malone - White Iverson.freqs,1.00096,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.35.freqs,segment10_brown,0.35,Slipknot - Duality [OFFICIAL VIDEO] [HD].freqs,1.00076,false
 Post Malone - White Iverson_segment6_pink_intensity_0.2.freqs,segment6_pink,0.2,Post Malone - White Iverson.freqs,0.9909,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.3.freqs,segment3_white,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988048,true
-Post Malone - White Iverson_segment10_brown_intensity_0.1.freqs,segment10_brown,0.1,Sabrina Carpenter - Espresso (Official Video).freqs,1.00195,false
-Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.5.freqs,segment6_pink,0.5,4th Dimension.freqs,1.00143,false
+Post Malone - White Iverson_segment10_brown_intensity_0.1.freqs,segment10_brown,0.1,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00094,false
+Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.5.freqs,segment6_pink,0.5,Imagine Dragons - Bones (Official Music Video).freqs,1.00147,false
 Post Malone - White Iverson_segment5_brown_intensity_0.4.freqs,segment5_brown,0.4,Post Malone - White Iverson.freqs,0.998932,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.4.freqs,segment3_pink,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.992047,true
 Post Malone - White Iverson_segment5_brown_intensity_0.2.freqs,segment5_brown,0.2,Post Malone - White Iverson.freqs,0.995689,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.4.freqs,segment1_white,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989648,true
 Post Malone - White Iverson_segment1_pink_intensity_0.4.freqs,segment1_pink,0.4,Post Malone - White Iverson.freqs,1.00007,true
-Post Malone - White Iverson_segment10_brown_intensity_0.5.freqs,segment10_brown,0.5,Post Malone - White Iverson.freqs,1.00022,true
+Post Malone - White Iverson_segment10_brown_intensity_0.5.freqs,segment10_brown,0.5,Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars.freqs,0.999789,false
 Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.45.freqs,segment4_white,0.45,Avicii - Wake Me Up (Official Video).freqs,0.996629,true
-Post Malone - White Iverson_segment10_white_intensity_0.45.freqs,segment10_white,0.45,4th Dimension.freqs,0.998691,false
+Post Malone - White Iverson_segment10_white_intensity_0.45.freqs,segment10_white,0.45,Post Malone - White Iverson.freqs,0.999337,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.15.freqs,segment2_pink,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.996094,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.3.freqs,segment2_white,0.3,Travis Scott - NO BYSTANDERS (Audio).freqs,0.983425,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.45.freqs,segment3_brown,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998635,true
 Post Malone - White Iverson_segment3_pink_intensity_0.2.freqs,segment3_pink,0.2,Post Malone - White Iverson.freqs,0.990973,true
 Post Malone - White Iverson_segment6_pink_intensity_0.05.freqs,segment6_pink,0.05,Post Malone - White Iverson.freqs,0.991305,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.4.freqs,segment10_white,0.4,4th Dimension.freqs,0.997568,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.4.freqs,segment10_white,0.4,Gorillaz - Feel Good Inc. (Official Video).freqs,0.998263,false
 Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.35.freqs,segment1_white,0.35,Avicii - Wake Me Up (Official Video).freqs,0.99894,true
 Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.45.freqs,segment7_white,0.45,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989411,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.3.freqs,segment7_brown,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.994165,true
@@ -625,9 +625,9 @@ Travis Scott - NO BYSTANDERS (Audio)_segment8_white_intensity_0.5.freqs,segment8
 Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.1.freqs,segment7_pink,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.988388,true
 Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.2.freqs,segment8_brown,0.2,Sabrina Carpenter - Espresso (Official Video).freqs,1.00144,false
 Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.05.freqs,segment1_brown,0.05,Avicii - Wake Me Up (Official Video).freqs,1.0009,true
-Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.25.freqs,segment7_brown,0.25,Post Malone - White Iverson.freqs,1.00225,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.25.freqs,segment7_brown,0.25,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00109,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_intensity_0.3.freqs,segment2_brown,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998871,true
-Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.5.freqs,segment9_pink,0.5,4th Dimension.freqs,1.00237,false
+Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.5.freqs,segment9_pink,0.5,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00184,false
 Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.25.freqs,segment1_brown,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.993247,true
 Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.2.freqs,segment5_pink,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990894,true
 Post Malone - White Iverson_segment2_white_intensity_0.45.freqs,segment2_white,0.45,Post Malone - White Iverson.freqs,0.995579,true
@@ -638,28 +638,28 @@ Post Malone - White Iverson_segment6_pink_intensity_0.1.freqs,segment6_pink,0.1,
 Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.05.freqs,segment8_pink,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989973,true
 Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.2.freqs,segment9_brown,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.992071,true
 Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.35.freqs,segment6_white,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.988592,true
-Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.2.freqs,segment6_brown,0.2,Sabrina Carpenter - Espresso (Official Video).freqs,1.0013,false
+Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.2.freqs,segment6_brown,0.2,OneRepublic - Counting Stars.freqs,1.00109,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.45.freqs,segment6_white,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.992847,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.5.freqs,segment4_pink,0.5,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.992047,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.05.freqs,segment6_brown,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.991577,true
 Post Malone - White Iverson_segment1_pink_intensity_0.35.freqs,segment1_pink,0.35,Post Malone - White Iverson.freqs,0.999742,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.2.freqs,segment10_pink,0.2,Post Malone - White Iverson.freqs,1.00096,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.05.freqs,segment6_white,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.987577,true
-Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.3.freqs,segment10_brown,0.3,4th Dimension.freqs,1.00118,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.3.freqs,segment10_brown,0.3,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00065,false
 Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.15.freqs,segment2_white,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.982095,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_intensity_0.35.freqs,segment4_brown,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.995483,true
 Travis Scott - NO BYSTANDERS (Audio)_segment9_brown_intensity_0.3.freqs,segment9_brown,0.3,Travis Scott - NO BYSTANDERS (Audio).freqs,0.994526,true
-Post Malone - White Iverson_segment1_brown_intensity_0.25.freqs,segment1_brown,0.25,Post Malone - White Iverson.freqs,1.00192,true
+Post Malone - White Iverson_segment1_brown_intensity_0.25.freqs,segment1_brown,0.25,Frank Ocean - White Ferrari.freqs,1.00167,false
 Post Malone - White Iverson_segment7_pink_intensity_0.1.freqs,segment7_pink,0.1,Post Malone - White Iverson.freqs,0.991821,true
 Post Malone - White Iverson_segment3_white_intensity_0.35.freqs,segment3_white,0.35,Post Malone - White Iverson.freqs,0.990863,true
 Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.1.freqs,segment5_pink,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.99202,true
 Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.05.freqs,segment9_white,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990741,true
-Post Malone - White Iverson_segment10_white_intensity_0.35.freqs,segment10_white,0.35,4th Dimension.freqs,0.99788,false
+Post Malone - White Iverson_segment10_white_intensity_0.35.freqs,segment10_white,0.35,Gorillaz - Feel Good Inc. (Official Video).freqs,0.998808,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.35.freqs,segment8_brown,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.999482,true
 Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.25.freqs,segment5_pink,0.25,Avicii - Wake Me Up (Official Video).freqs,0.998491,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.05.freqs,segment2_pink,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.993789,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.1.freqs,segment1_white,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988189,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.1.freqs,segment10_brown,0.1,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,1.00138,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.1.freqs,segment10_brown,0.1,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00102,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.05.freqs,segment3_pink,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989036,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.15.freqs,segment7_brown,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.990212,true
 Post Malone - White Iverson_segment7_pink_intensity_0.4.freqs,segment7_pink,0.4,Post Malone - White Iverson.freqs,0.993221,true
@@ -671,16 +671,16 @@ Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.3.freqs,segment1_
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.4.freqs,segment3_brown,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.9976,true
 Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.1.freqs,segment6_brown,0.1,Avicii - Wake Me Up (Official Video).freqs,1.00202,true
 Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.45.freqs,segment6_white,0.45,Travis Scott - NO BYSTANDERS (Audio).freqs,0.991303,true
-Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.5.freqs,segment7_pink,0.5,Avicii - Wake Me Up (Official Video).freqs,1.0018,true
+Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.5.freqs,segment7_pink,0.5,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00123,false
 Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.25.freqs,segment1_white,0.25,Avicii - Wake Me Up (Official Video).freqs,0.997174,true
 Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.25.freqs,segment1_pink,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.986188,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.4.freqs,segment8_brown,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.997741,true
 Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.2.freqs,segment4_pink,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.987978,true
-Post Malone - White Iverson_segment1_brown_intensity_0.5.freqs,segment1_brown,0.5,Sabrina Carpenter - Espresso (Official Video).freqs,1.00154,false
+Post Malone - White Iverson_segment1_brown_intensity_0.5.freqs,segment1_brown,0.5,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00126,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.45.freqs,segment8_brown,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.999624,true
 Post Malone - White Iverson_segment9_brown_intensity_0.15.freqs,segment9_brown,0.15,Post Malone - White Iverson.freqs,1.00007,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.2.freqs,segment6_pink,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.987906,true
-Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.4.freqs,segment2_white,0.4,4th Dimension.freqs,0.997256,false
+Avicii - Wake Me Up (Official Video)_segment2_white_intensity_0.4.freqs,segment2_white,0.4,Avicii - Wake Me Up (Official Video).freqs,0.997945,true
 Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.2.freqs,segment6_brown,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.993964,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.2.freqs,segment5_white,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.987718,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.15.freqs,segment2_brown,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.988285,true
@@ -694,14 +694,14 @@ Post Malone - White Iverson_segment1_pink_intensity_0.05.freqs,segment1_pink,0.0
 Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.3.freqs,segment6_brown,0.3,Travis Scott - NO BYSTANDERS (Audio).freqs,0.994424,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.4.freqs,segment5_white,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988001,true
 Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.45.freqs,segment9_white,0.45,Avicii - Wake Me Up (Official Video).freqs,0.997399,true
-Post Malone - White Iverson_segment10_brown_intensity_0.25.freqs,segment10_brown,0.25,Post Malone - White Iverson.freqs,1.0007,true
+Post Malone - White Iverson_segment10_brown_intensity_0.25.freqs,segment10_brown,0.25,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,0.999919,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.4.freqs,segment1_pink,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.999341,true
 Avicii - Wake Me Up (Official Video)_segment5_white_intensity_0.4.freqs,segment5_white,0.4,Avicii - Wake Me Up (Official Video).freqs,0.996115,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.05.freqs,segment3_white,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.9845,true
 Post Malone - White Iverson_segment6_white_intensity_0.5.freqs,segment6_white,0.5,Post Malone - White Iverson.freqs,0.992042,true
 Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.5.freqs,segment6_pink,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990741,true
 Post Malone - White Iverson_segment8_white_intensity_0.25.freqs,segment8_white,0.25,Post Malone - White Iverson.freqs,0.989721,true
-Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.4.freqs,segment7_pink,0.4,Sabrina Carpenter - Espresso (Official Video).freqs,1.00079,false
+Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.4.freqs,segment7_pink,0.4,Djo - End Of Beginning.freqs,0.999861,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.3.freqs,segment5_white,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.987859,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.15.freqs,segment9_brown,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.985412,true
 Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.45.freqs,segment8_pink,0.45,Avicii - Wake Me Up (Official Video).freqs,1.00154,true
@@ -710,8 +710,8 @@ Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.15.freqs,segment7
 Post Malone - White Iverson_segment3_pink_intensity_0.3.freqs,segment3_pink,0.3,Post Malone - White Iverson.freqs,0.99031,true
 Post Malone - White Iverson_segment9_pink_intensity_0.15.freqs,segment9_pink,0.15,Post Malone - White Iverson.freqs,0.994105,true
 Post Malone - White Iverson_segment7_pink_intensity_0.15.freqs,segment7_pink,0.15,Post Malone - White Iverson.freqs,0.992963,true
-Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.4.freqs,segment4_brown,0.4,Post Malone - White Iverson.freqs,1,false
-Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.35.freqs,segment5_pink,0.35,4th Dimension.freqs,0.999875,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.4.freqs,segment4_brown,0.4,Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars.freqs,0.999895,false
+Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.35.freqs,segment5_pink,0.35,Djo - End Of Beginning.freqs,1.00069,false
 Post Malone - White Iverson_segment8_brown_intensity_0.15.freqs,segment8_brown,0.15,Post Malone - White Iverson.freqs,0.994842,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_pink_intensity_0.05.freqs,segment2_pink,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.980816,true
 Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.3.freqs,segment8_pink,0.3,Travis Scott - NO BYSTANDERS (Audio).freqs,0.992224,true
@@ -719,10 +719,10 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_int
 Post Malone - White Iverson_segment5_pink_intensity_0.05.freqs,segment5_pink,0.05,Post Malone - White Iverson.freqs,0.989131,true
 Post Malone - White Iverson_segment9_brown_intensity_0.35.freqs,segment9_brown,0.35,Sabrina Carpenter - Espresso (Official Video).freqs,1.00065,false
 Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.25.freqs,segment10_pink,0.25,Avicii - Wake Me Up (Official Video).freqs,0.999294,true
-Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.5.freqs,segment10_pink,0.5,4th Dimension.freqs,1,false
-Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.3.freqs,segment9_brown,0.3,Sabrina Carpenter - Espresso (Official Video).freqs,1.00126,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.5.freqs,segment10_pink,0.5,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00034,false
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.3.freqs,segment9_brown,0.3,Djo - End Of Beginning.freqs,1.00042,false
 Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.25.freqs,segment4_brown,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.99248,true
-Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.2.freqs,segment1_brown,0.2,Post Malone - White Iverson.freqs,1.00129,false
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.2.freqs,segment1_brown,0.2,OneRepublic - Counting Stars.freqs,0.999932,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.35.freqs,segment5_brown,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.994353,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.5.freqs,segment3_pink,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.985574,true
 Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.3.freqs,segment8_pink,0.3,Avicii - Wake Me Up (Official Video).freqs,0.999904,true
@@ -742,15 +742,15 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_pink_inte
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.1.freqs,segment10_pink,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,1.00104,true
 Post Malone - White Iverson_segment4_white_intensity_0.45.freqs,segment4_white,0.45,Post Malone - White Iverson.freqs,0.990752,true
 Post Malone - White Iverson_segment10_pink_intensity_0.2.freqs,segment10_pink,0.2,Post Malone - White Iverson.freqs,1.00033,true
-Post Malone - White Iverson_segment2_brown_intensity_0.2.freqs,segment2_brown,0.2,Coldplay - Viva La Vida (Official Video).freqs,1.00174,false
+Post Malone - White Iverson_segment2_brown_intensity_0.2.freqs,segment2_brown,0.2,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,0.999959,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_intensity_0.45.freqs,segment4_brown,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998777,true
-Post Malone - White Iverson_segment10_white_intensity_0.15.freqs,segment10_white,0.15,4th Dimension.freqs,0.997755,false
+Post Malone - White Iverson_segment10_white_intensity_0.15.freqs,segment10_white,0.15,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,0.998656,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.45.freqs,segment7_white,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989177,true
 Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.3.freqs,segment4_white,0.3,Travis Scott - NO BYSTANDERS (Audio).freqs,0.988132,true
 Post Malone - White Iverson_segment3_white_intensity_0.3.freqs,segment3_white,0.3,Post Malone - White Iverson.freqs,0.990826,true
 Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.25.freqs,segment4_pink,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989308,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.1.freqs,segment4_white,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988048,true
-Post Malone - White Iverson_segment9_brown_intensity_0.25.freqs,segment9_brown,0.25,Post Malone - White Iverson.freqs,1.00203,true
+Post Malone - White Iverson_segment9_brown_intensity_0.25.freqs,segment9_brown,0.25,OneRepublic - Counting Stars.freqs,1.00156,false
 Post Malone - White Iverson_segment10_white_intensity_0.05.freqs,segment10_white,0.05,Post Malone - White Iverson.freqs,0.998526,true
 Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.25.freqs,segment7_white,0.25,Avicii - Wake Me Up (Official Video).freqs,0.995087,true
 Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.1.freqs,segment8_brown,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.992531,true
@@ -758,10 +758,10 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_inte
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.3.freqs,segment4_white,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.987483,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.25.freqs,segment2_white,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.994071,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.15.freqs,segment3_pink,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.984142,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_intensity_0.5.freqs,segment2_brown,0.5,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,1.00075,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_brown_intensity_0.5.freqs,segment2_brown,0.5,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00004,false
 Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.3.freqs,segment3_brown,0.3,Sabrina Carpenter - Espresso (Official Video).freqs,1.00074,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.05.freqs,segment1_brown,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.99313,true
-Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.2.freqs,segment9_brown,0.2,4th Dimension.freqs,1.00118,false
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.2.freqs,segment9_brown,0.2,Lady Gaga Bruno Mars - Die With A Smile (Official Music Video).freqs,1.00138,false
 Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.4.freqs,segment3_white,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98496,true
 Post Malone - White Iverson_segment9_pink_intensity_0.3.freqs,segment9_pink,0.3,Post Malone - White Iverson.freqs,0.996426,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_intensity_0.5.freqs,segment9_white,0.5,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.986212,true
@@ -777,11 +777,11 @@ Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.05.freqs,segment9
 Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.4.freqs,segment2_brown,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.997135,true
 Post Malone - White Iverson_segment8_white_intensity_0.2.freqs,segment8_white,0.2,Post Malone - White Iverson.freqs,0.990863,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.15.freqs,segment9_pink,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.985977,true
-Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.3.freqs,segment5_brown,0.3,Coldplay - Viva La Vida (Official Video).freqs,1.00113,false
-Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.5.freqs,segment1_brown,0.5,4th Dimension.freqs,0.998254,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.3.freqs,segment5_brown,0.3,SUR LE PONT dAVIGNON -- Mach-Hommy Conductor Williams [OFFICIAL MUSIC VIDEO].freqs,0.999928,false
+Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.5.freqs,segment1_brown,0.5,Imagine Dragons - Bones (Official Music Video).freqs,0.999945,false
 Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.45.freqs,segment4_brown,0.45,Travis Scott - NO BYSTANDERS (Audio).freqs,0.996163,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.3.freqs,segment3_pink,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988801,true
-Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.4.freqs,segment8_brown,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.998568,true
+Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.4.freqs,segment8_brown,0.4,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,0.998534,false
 Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.4.freqs,segment4_white,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989257,true
 Post Malone - White Iverson_segment7_white_intensity_0.25.freqs,segment7_white,0.25,Post Malone - White Iverson.freqs,0.993073,true
 Post Malone - White Iverson_segment6_brown_intensity_0.25.freqs,segment6_brown,0.25,Post Malone - White Iverson.freqs,0.99871,true
@@ -790,9 +790,9 @@ Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.25.freqs,segmen
 Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.3.freqs,segment4_brown,0.3,Post Malone - White Iverson.freqs,1.00044,false
 Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.4.freqs,segment6_pink,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.992429,true
 Avicii - Wake Me Up (Official Video)_segment8_white_intensity_0.45.freqs,segment8_white,0.45,Avicii - Wake Me Up (Official Video).freqs,0.995794,true
-Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.45.freqs,segment4_brown,0.45,Post Malone - White Iverson.freqs,1.00026,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.45.freqs,segment4_brown,0.45,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.0002,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.2.freqs,segment4_pink,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.987718,true
-Post Malone - White Iverson_segment1_brown_intensity_0.35.freqs,segment1_brown,0.35,Coldplay - Viva La Vida (Official Video).freqs,1.00135,false
+Post Malone - White Iverson_segment1_brown_intensity_0.35.freqs,segment1_brown,0.35,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.0009,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.25.freqs,segment5_brown,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.992753,true
 Post Malone - White Iverson_segment5_pink_intensity_0.5.freqs,segment5_pink,0.5,Post Malone - White Iverson.freqs,0.991784,true
 Travis Scott - NO BYSTANDERS (Audio)_segment4_brown_intensity_0.2.freqs,segment4_brown,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989513,true
@@ -800,7 +800,7 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_inte
 Post Malone - White Iverson_segment7_white_intensity_0.15.freqs,segment7_white,0.15,Post Malone - White Iverson.freqs,0.99241,true
 Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.2.freqs,segment10_pink,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.999437,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.4.freqs,segment6_pink,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.992753,true
-Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.35.freqs,segment2_brown,0.35,Sabrina Carpenter - Espresso (Official Video).freqs,1.00074,false
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.35.freqs,segment2_brown,0.35,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.0002,false
 Post Malone - White Iverson_segment5_pink_intensity_0.15.freqs,segment5_pink,0.15,Post Malone - White Iverson.freqs,0.989794,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_intensity_0.3.freqs,segment9_white,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.984518,true
 Post Malone - White Iverson_segment2_pink_intensity_0.2.freqs,segment2_pink,0.2,Post Malone - White Iverson.freqs,0.996168,true
@@ -811,7 +811,7 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_int
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_intensity_0.2.freqs,segment8_pink,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988706,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.2.freqs,segment3_brown,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.987109,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.35.freqs,segment6_pink,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.991577,true
-Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.15.freqs,segment7_brown,0.15,Avicii - Wake Me Up (Official Video).freqs,1.00254,true
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.15.freqs,segment7_brown,0.15,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00211,false
 Post Malone - White Iverson_segment7_brown_intensity_0.25.freqs,segment7_brown,0.25,Post Malone - White Iverson.freqs,0.998637,true
 Post Malone - White Iverson_segment6_brown_intensity_0.35.freqs,segment6_brown,0.35,Post Malone - White Iverson.freqs,0.999263,true
 Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.3.freqs,segment2_brown,0.3,Post Malone - White Iverson.freqs,1.00015,false
@@ -822,12 +822,12 @@ Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.1.freqs,segment7_
 Post Malone - White Iverson_segment9_brown_intensity_0.1.freqs,segment9_brown,0.1,Post Malone - White Iverson.freqs,0.998232,true
 Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.15.freqs,segment10_white,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.995959,true
 Post Malone - White Iverson_segment3_white_intensity_0.2.freqs,segment3_white,0.2,Post Malone - White Iverson.freqs,0.990384,true
-Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.5.freqs,segment3_brown,0.5,4th Dimension.freqs,1.00106,false
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.5.freqs,segment3_brown,0.5,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00012,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_pink_intensity_0.05.freqs,segment5_pink,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988706,true
 Post Malone - White Iverson_segment6_pink_intensity_0.35.freqs,segment6_pink,0.35,Post Malone - White Iverson.freqs,0.992042,true
 Post Malone - White Iverson_segment6_pink_intensity_0.45.freqs,segment6_pink,0.45,Post Malone - White Iverson.freqs,0.992816,true
 Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.25.freqs,segment7_white,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.988336,true
-Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.4.freqs,segment9_brown,0.4,Post Malone - White Iverson.freqs,1.00118,false
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.4.freqs,segment9_brown,0.4,Lady Gaga Bruno Mars - Die With A Smile (Official Music Video).freqs,1.00038,false
 Travis Scott - NO BYSTANDERS (Audio)_segment4_pink_intensity_0.35.freqs,segment4_pink,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989053,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.2.freqs,segment7_brown,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.993647,true
 Avicii - Wake Me Up (Official Video)_segment3_white_intensity_0.4.freqs,segment3_white,0.4,Avicii - Wake Me Up (Official Video).freqs,0.996661,true
@@ -842,9 +842,9 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_int
 Avicii - Wake Me Up (Official Video)_segment7_pink_intensity_0.45.freqs,segment7_pink,0.45,Avicii - Wake Me Up (Official Video).freqs,1.00112,true
 Post Malone - White Iverson_segment8_brown_intensity_0.1.freqs,segment8_brown,0.1,Post Malone - White Iverson.freqs,0.992189,true
 Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.45.freqs,segment7_white,0.45,Avicii - Wake Me Up (Official Video).freqs,0.99589,true
-Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.45.freqs,segment5_pink,0.45,4th Dimension.freqs,1.00156,false
+Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.45.freqs,segment5_pink,0.45,Djo - End Of Beginning.freqs,1.00076,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.4.freqs,segment6_white,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.987483,true
-Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.25.freqs,segment2_pink,0.25,4th Dimension.freqs,0.997693,false
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.25.freqs,segment2_pink,0.25,OneRepublic - Counting Stars.freqs,0.999014,false
 Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.4.freqs,segment6_pink,0.4,Avicii - Wake Me Up (Official Video).freqs,1.00122,true
 Post Malone - White Iverson_segment1_white_intensity_0.35.freqs,segment1_white,0.35,Post Malone - White Iverson.freqs,0.997053,true
 Post Malone - White Iverson_segment6_brown_intensity_0.3.freqs,segment6_brown,0.3,Post Malone - White Iverson.freqs,0.999632,true
@@ -857,8 +857,8 @@ Travis Scott - NO BYSTANDERS (Audio)_segment5_white_intensity_0.05.freqs,segment
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.1.freqs,segment7_white,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989412,true
 Post Malone - White Iverson_segment4_brown_intensity_0.2.freqs,segment4_brown,0.2,Post Malone - White Iverson.freqs,0.996426,true
 Post Malone - White Iverson_segment8_brown_intensity_0.2.freqs,segment8_brown,0.2,Post Malone - White Iverson.freqs,0.996684,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.5.freqs,segment10_white,0.5,4th Dimension.freqs,0.997693,false
-Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.45.freqs,segment9_pink,0.45,Avicii - Wake Me Up (Official Video).freqs,1.00244,true
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.5.freqs,segment10_white,0.5,Gorillaz - Feel Good Inc. (Official Video).freqs,0.998501,false
+Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.45.freqs,segment9_pink,0.45,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00221,false
 Post Malone - White Iverson_segment4_pink_intensity_0.1.freqs,segment4_pink,0.1,Post Malone - White Iverson.freqs,0.989868,true
 Post Malone - White Iverson_segment10_pink_intensity_0.3.freqs,segment10_pink,0.3,Post Malone - White Iverson.freqs,1.00199,true
 Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.1.freqs,segment3_pink,0.1,Avicii - Wake Me Up (Official Video).freqs,0.995569,true
@@ -877,14 +877,14 @@ Post Malone - White Iverson_segment4_white_intensity_0.1.freqs,segment4_white,0.
 Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.45.freqs,segment5_pink,0.45,Travis Scott - NO BYSTANDERS (Audio).freqs,0.993708,true
 Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.15.freqs,segment3_brown,0.15,Sabrina Carpenter - Espresso (Official Video).freqs,1.00107,false
 Post Malone - White Iverson_segment9_white_intensity_0.05.freqs,segment9_white,0.05,Post Malone - White Iverson.freqs,0.992631,true
-Post Malone - White Iverson_segment5_brown_intensity_0.5.freqs,segment5_brown,0.5,4th Dimension.freqs,1.00069,false
+Post Malone - White Iverson_segment5_brown_intensity_0.5.freqs,segment5_brown,0.5,Sabrina Carpenter - Espresso (Official Video).freqs,1.00084,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.25.freqs,segment7_white,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989789,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.15.freqs,segment1_white,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.987671,true
 Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.4.freqs,segment9_white,0.4,Avicii - Wake Me Up (Official Video).freqs,0.997784,true
 Post Malone - White Iverson_segment4_brown_intensity_0.25.freqs,segment4_brown,0.25,Post Malone - White Iverson.freqs,0.996758,true
 Post Malone - White Iverson_segment1_white_intensity_0.1.freqs,segment1_white,0.1,Post Malone - White Iverson.freqs,0.995358,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.45.freqs,segment7_brown,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.997882,true
-Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.3.freqs,segment2_pink,0.3,4th Dimension.freqs,0.999252,false
+Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.3.freqs,segment2_pink,0.3,OneRepublic - Counting Stars.freqs,0.999966,false
 Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.35.freqs,segment1_pink,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.987364,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.05.freqs,segment9_brown,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.984283,true
 Post Malone - White Iverson_segment3_brown_intensity_0.45.freqs,segment3_brown,0.45,Post Malone - White Iverson.freqs,1.00004,true
@@ -892,11 +892,11 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_int
 Avicii - Wake Me Up (Official Video)_segment9_pink_intensity_0.15.freqs,segment9_pink,0.15,Avicii - Wake Me Up (Official Video).freqs,0.99955,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.3.freqs,segment2_brown,0.3,Travis Scott - NO BYSTANDERS (Audio).freqs,0.993554,true
 Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.05.freqs,segment5_brown,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.991559,true
-Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.4.freqs,segment8_pink,0.4,Avicii - Wake Me Up (Official Video).freqs,1.00071,true
+Avicii - Wake Me Up (Official Video)_segment8_pink_intensity_0.4.freqs,segment8_pink,0.4,OneRepublic - Counting Stars.freqs,1.00061,false
 Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.4.freqs,segment1_white,0.4,Avicii - Wake Me Up (Official Video).freqs,0.997271,true
 Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.15.freqs,segment6_pink,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990178,true
 Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.25.freqs,segment8_brown,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.997033,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.25.freqs,segment10_pink,0.25,Coldplay - Viva La Vida (Official Video).freqs,1.00138,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.25.freqs,segment10_pink,0.25,OneRepublic - Counting Stars.freqs,1.00014,false
 Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.15.freqs,segment4_white,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989308,true
 Avicii - Wake Me Up (Official Video)_segment9_white_intensity_0.15.freqs,segment9_white,0.15,Avicii - Wake Me Up (Official Video).freqs,0.998395,true
 Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.05.freqs,segment6_brown,0.05,Avicii - Wake Me Up (Official Video).freqs,0.996243,true
@@ -912,7 +912,7 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_int
 Post Malone - White Iverson_segment6_white_intensity_0.35.freqs,segment6_white,0.35,Post Malone - White Iverson.freqs,0.991894,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_brown_intensity_0.3.freqs,segment9_brown,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.993083,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.45.freqs,segment4_pink,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.992424,true
-Post Malone - White Iverson_segment2_brown_intensity_0.45.freqs,segment2_brown,0.45,Coldplay - Viva La Vida (Official Video).freqs,1.00138,false
+Post Malone - White Iverson_segment2_brown_intensity_0.45.freqs,segment2_brown,0.45,Radiohead - No Surprises.freqs,1.00122,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.1.freqs,segment1_pink,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.987201,true
 Post Malone - White Iverson_segment7_white_intensity_0.35.freqs,segment7_white,0.35,Post Malone - White Iverson.freqs,0.992889,true
 Post Malone - White Iverson_segment1_pink_intensity_0.1.freqs,segment1_pink,0.1,Post Malone - White Iverson.freqs,0.996205,true
@@ -932,22 +932,22 @@ Travis Scott - NO BYSTANDERS (Audio)_segment9_pink_intensity_0.2.freqs,segment9_
 Travis Scott - NO BYSTANDERS (Audio)_segment1_white_intensity_0.5.freqs,segment1_white,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.986086,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.35.freqs,segment2_brown,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.993401,true
 Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.05.freqs,segment10_brown,0.05,Avicii - Wake Me Up (Official Video).freqs,0.997624,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.3.freqs,segment10_white,0.3,4th Dimension.freqs,0.997942,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.3.freqs,segment10_white,0.3,System of a Down - Chop Suey (Remastered 2021).freqs,0.999738,false
 Post Malone - White Iverson_segment10_pink_intensity_0.15.freqs,segment10_pink,0.15,Post Malone - White Iverson.freqs,1.00048,true
-Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.5.freqs,segment4_brown,0.5,Post Malone - White Iverson.freqs,1.00015,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.5.freqs,segment4_brown,0.5,Mac Miller - 2009.freqs,1.00009,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_intensity_0.5.freqs,segment8_white,0.5,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989648,true
 Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.35.freqs,segment9_white,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.99161,true
-Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.5.freqs,segment5_pink,0.5,4th Dimension.freqs,1.00131,false
+Avicii - Wake Me Up (Official Video)_segment5_pink_intensity_0.5.freqs,segment5_pink,0.5,OneRepublic - Counting Stars.freqs,1.0016,false
 Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.3.freqs,segment4_pink,0.3,Avicii - Wake Me Up (Official Video).freqs,1.00067,true
 Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.4.freqs,segment10_white,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.998977,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.35.freqs,segment5_white,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.991765,true
 Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.5.freqs,segment1_brown,0.5,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,1.00004,false
 Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.1.freqs,segment7_white,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989257,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.45.freqs,segment2_brown,0.45,Travis Scott - NO BYSTANDERS (Audio).freqs,0.996368,true
-Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.35.freqs,segment8_brown,0.35,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,1.00098,false
-Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.45.freqs,segment10_brown,0.45,4th Dimension.freqs,0.999875,false
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.35.freqs,segment8_brown,0.35,Djo - End Of Beginning.freqs,1.00042,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.45.freqs,segment10_brown,0.45,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00024,false
 Travis Scott - NO BYSTANDERS (Audio)_segment8_white_intensity_0.2.freqs,segment8_white,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989155,true
-Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.25.freqs,segment8_brown,0.25,Avicii - Wake Me Up (Official Video).freqs,1.00119,true
+Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.25.freqs,segment8_brown,0.25,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00092,false
 Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.2.freqs,segment10_pink,0.2,Avicii - Wake Me Up (Official Video).freqs,0.999326,true
 Post Malone - White Iverson_segment4_pink_intensity_0.4.freqs,segment4_pink,0.4,Post Malone - White Iverson.freqs,0.990531,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.1.freqs,segment3_white,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98409,true
@@ -975,16 +975,16 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_int
 Avicii - Wake Me Up (Official Video)_segment8_brown_intensity_0.05.freqs,segment8_brown,0.05,Avicii - Wake Me Up (Official Video).freqs,0.996885,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.05.freqs,segment4_white,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988142,true
 Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.15.freqs,segment1_pink,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.985574,true
-Post Malone - White Iverson_segment7_brown_intensity_0.5.freqs,segment7_brown,0.5,Post Malone - White Iverson.freqs,1.00063,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.35.freqs,segment1_brown,0.35,4th Dimension.freqs,1.00106,false
+Post Malone - White Iverson_segment7_brown_intensity_0.5.freqs,segment7_brown,0.5,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,0.99943,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.35.freqs,segment1_brown,0.35,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,0.999552,false
 Post Malone - White Iverson_segment8_white_intensity_0.5.freqs,segment8_white,0.5,Post Malone - White Iverson.freqs,0.991047,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_pink_intensity_0.25.freqs,segment3_pink,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.98993,true
 Avicii - Wake Me Up (Official Video)_segment1_pink_intensity_0.25.freqs,segment1_pink,0.25,Avicii - Wake Me Up (Official Video).freqs,1.00106,true
 Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.5.freqs,segment3_pink,0.5,Avicii - Wake Me Up (Official Video).freqs,0.999807,true
-Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.35.freqs,segment6_brown,0.35,Avicii - Wake Me Up (Official Video).freqs,1.00148,true
+Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.35.freqs,segment6_brown,0.35,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00027,false
 Travis Scott - NO BYSTANDERS (Audio)_segment1_pink_intensity_0.4.freqs,segment1_pink,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.987569,true
 Avicii - Wake Me Up (Official Video)_segment6_pink_intensity_0.35.freqs,segment6_pink,0.35,Avicii - Wake Me Up (Official Video).freqs,0.99878,true
-Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.5.freqs,segment4_pink,0.5,Avicii - Wake Me Up (Official Video).freqs,1.00202,true
+Avicii - Wake Me Up (Official Video)_segment4_pink_intensity_0.5.freqs,segment4_pink,0.5,Djo - End Of Beginning.freqs,1.00146,false
 Post Malone - White Iverson_segment2_brown_intensity_0.35.freqs,segment2_brown,0.35,Coldplay - Viva La Vida (Official Video).freqs,1.00174,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.15.freqs,segment1_brown,0.15,Sabrina Carpenter - Espresso (Official Video).freqs,1.00172,false
 Post Malone - White Iverson_segment3_brown_intensity_0.3.freqs,segment3_brown,0.3,Post Malone - White Iverson.freqs,0.998858,true
@@ -995,9 +995,9 @@ Post Malone - White Iverson_segment6_white_intensity_0.2.freqs,segment6_white,0.
 Post Malone - White Iverson_segment8_brown_intensity_0.05.freqs,segment8_brown,0.05,Post Malone - White Iverson.freqs,0.991526,true
 Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.45.freqs,segment10_brown,0.45,Post Malone - White Iverson.freqs,1.00029,false
 Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.25.freqs,segment10_white,0.25,Avicii - Wake Me Up (Official Video).freqs,0.995858,true
-Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.4.freqs,segment10_brown,0.4,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,1.00054,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.4.freqs,segment10_brown,0.4,Gorillaz - Feel Good Inc. (Official Video).freqs,1,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.3.freqs,segment4_pink,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.987718,true
-Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.4.freqs,segment10_brown,0.4,4th Dimension.freqs,1.00012,false
+Travis Scott - NO BYSTANDERS (Audio)_segment10_brown_intensity_0.4.freqs,segment10_brown,0.4,Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars.freqs,0.999051,false
 Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.5.freqs,segment6_white,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989257,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_brown_intensity_0.4.freqs,segment7_brown,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.996424,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.2.freqs,segment8_brown,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.994777,true
@@ -1017,13 +1017,13 @@ Post Malone - White Iverson_segment9_white_intensity_0.1.freqs,segment9_white,0.
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_pink_intensity_0.5.freqs,segment1_pink,0.5,Sabrina Carpenter - Espresso (Official Video).freqs,1.0014,false
 Avicii - Wake Me Up (Official Video)_segment2_pink_intensity_0.1.freqs,segment2_pink,0.1,Avicii - Wake Me Up (Official Video).freqs,0.99467,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.05.freqs,segment9_pink,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.984095,true
-Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.5.freqs,segment10_brown,0.5,Post Malone - White Iverson.freqs,1.00077,false
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.2.freqs,segment1_brown,0.2,Post Malone - White Iverson.freqs,1.00158,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.5.freqs,segment10_brown,0.5,Gorillaz - Feel Good Inc. (Official Video).freqs,1,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.2.freqs,segment1_brown,0.2,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00102,false
 Post Malone - White Iverson_segment7_white_intensity_0.05.freqs,segment7_white,0.05,Post Malone - White Iverson.freqs,0.992116,true
 Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.05.freqs,segment1_white,0.05,Avicii - Wake Me Up (Official Video).freqs,0.992519,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.3.freqs,segment6_brown,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.992753,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.25.freqs,segment2_white,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98097,true
-Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.15.freqs,segment9_brown,0.15,Sabrina Carpenter - Espresso (Official Video).freqs,1.00302,false
+Avicii - Wake Me Up (Official Video)_segment9_brown_intensity_0.15.freqs,segment9_brown,0.15,OneRepublic - Counting Stars.freqs,1.00197,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.15.freqs,segment2_white,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.993647,true
 Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.35.freqs,segment7_white,0.35,Avicii - Wake Me Up (Official Video).freqs,0.996372,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_brown_intensity_0.2.freqs,segment4_brown,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.991106,true
@@ -1033,7 +1033,7 @@ Post Malone - White Iverson_segment4_brown_intensity_0.1.freqs,segment4_brown,0.
 Travis Scott - NO BYSTANDERS (Audio)_segment5_brown_intensity_0.1.freqs,segment5_brown,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.993145,true
 Post Malone - White Iverson_segment5_white_intensity_0.25.freqs,segment5_white,0.25,Post Malone - White Iverson.freqs,0.990052,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.25.freqs,segment3_white,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.98913,true
-Post Malone - White Iverson_segment10_pink_intensity_0.45.freqs,segment10_pink,0.45,Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video).freqs,1.00197,false
+Post Malone - White Iverson_segment10_pink_intensity_0.45.freqs,segment10_pink,0.45,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00155,false
 Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.05.freqs,segment4_white,0.05,Avicii - Wake Me Up (Official Video).freqs,0.995762,true
 Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.25.freqs,segment6_pink,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.988388,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_pink_intensity_0.2.freqs,segment3_pink,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98363,true
@@ -1056,12 +1056,12 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_int
 Post Malone - White Iverson_segment3_brown_intensity_0.35.freqs,segment3_brown,0.35,Post Malone - White Iverson.freqs,1.0014,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_intensity_0.5.freqs,segment8_pink,0.5,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.994447,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_intensity_0.05.freqs,segment8_white,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988565,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.3.freqs,segment10_brown,0.3,4th Dimension.freqs,1.00094,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.3.freqs,segment10_brown,0.3,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00008,false
 Travis Scott - NO BYSTANDERS (Audio)_segment1_brown_intensity_0.35.freqs,segment1_brown,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.996879,true
 Post Malone - White Iverson_segment1_white_intensity_0.15.freqs,segment1_white,0.15,Post Malone - White Iverson.freqs,0.994952,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.45.freqs,segment1_white,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.990871,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_white_intensity_0.45.freqs,segment9_white,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.986354,true
-Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.25.freqs,segment10_brown,0.25,Sabrina Carpenter - Espresso (Official Video).freqs,1.00126,false
+Avicii - Wake Me Up (Official Video)_segment10_brown_intensity_0.25.freqs,segment10_brown,0.25,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00061,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_brown_intensity_0.3.freqs,segment5_brown,0.3,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.998824,true
 Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.25.freqs,segment5_brown,0.25,Avicii - Wake Me Up (Official Video).freqs,1.00157,true
 Avicii - Wake Me Up (Official Video)_segment7_white_intensity_0.05.freqs,segment7_white,0.05,Avicii - Wake Me Up (Official Video).freqs,0.993578,true
@@ -1079,27 +1079,27 @@ Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.25.freqs,segment
 Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.1.freqs,segment10_pink,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.998926,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_pink_intensity_0.05.freqs,segment4_pink,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.986824,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.35.freqs,segment2_white,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.980254,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.2.freqs,segment10_brown,0.2,Sabrina Carpenter - Espresso (Official Video).freqs,1.00088,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_brown_intensity_0.2.freqs,segment10_brown,0.2,Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars.freqs,1.00056,false
 Post Malone - White Iverson_segment1_white_intensity_0.45.freqs,segment1_white,0.45,Post Malone - White Iverson.freqs,0.997458,true
-Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.45.freqs,segment6_brown,0.45,Post Malone - White Iverson.freqs,1.00111,false
+Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.45.freqs,segment6_brown,0.45,Gorillaz - Feel Good Inc. (Official Video).freqs,0.999864,false
 Travis Scott - NO BYSTANDERS (Audio)_segment10_white_intensity_0.35.freqs,segment10_white,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.997238,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.05.freqs,segment2_white,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.992189,true
-Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.35.freqs,segment1_brown,0.35,Imagine Dragons - Bones (Official Music Video).freqs,1.00087,false
+Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.35.freqs,segment1_brown,0.35,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00073,false
 Post Malone - White Iverson_segment2_pink_intensity_0.3.freqs,segment2_pink,0.3,Post Malone - White Iverson.freqs,0.998195,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.05.freqs,segment3_brown,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989083,true
 Post Malone - White Iverson_segment3_brown_intensity_0.2.freqs,segment3_brown,0.2,Post Malone - White Iverson.freqs,0.996537,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_white_intensity_0.5.freqs,segment7_white,0.5,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.991483,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.1.freqs,segment8_brown,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.9928,true
 Travis Scott - NO BYSTANDERS (Audio)_segment4_white_intensity_0.45.freqs,segment4_white,0.45,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989513,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.25.freqs,segment10_white,0.25,Playboi Carti - Magnolia (Official Video).freqs,0.999917,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.25.freqs,segment10_white,0.25,Gorillaz - Feel Good Inc. (Official Video).freqs,0.999353,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.2.freqs,segment2_pink,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.992,true
 Travis Scott - NO BYSTANDERS (Audio)_segment6_pink_intensity_0.35.freqs,segment6_pink,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.991406,true
-Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.2.freqs,segment4_brown,0.2,Post Malone - White Iverson.freqs,1.00206,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.2.freqs,segment4_brown,0.2,Djo - End Of Beginning.freqs,1.00097,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_white_intensity_0.25.freqs,segment5_white,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.991812,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.35.freqs,segment3_brown,0.35,4th Dimension.freqs,0.99894,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.35.freqs,segment3_brown,0.35,SUR LE PONT dAVIGNON -- Mach-Hommy Conductor Williams [OFFICIAL MUSIC VIDEO].freqs,0.998273,false
 Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.2.freqs,segment2_white,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.982402,true
 Post Malone - White Iverson_segment2_pink_intensity_0.1.freqs,segment2_pink,0.1,Post Malone - White Iverson.freqs,0.994068,true
-Post Malone - White Iverson_segment2_brown_intensity_0.25.freqs,segment2_brown,0.25,Sabrina Carpenter - Espresso (Official Video).freqs,1.00242,false
+Post Malone - White Iverson_segment2_brown_intensity_0.25.freqs,segment2_brown,0.25,OneRepublic - Counting Stars.freqs,1.00221,false
 Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.35.freqs,segment3_pink,0.35,Avicii - Wake Me Up (Official Video).freqs,0.998202,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.15.freqs,segment7_pink,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989036,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_white_intensity_0.5.freqs,segment2_white,0.5,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.99553,true
@@ -1107,34 +1107,34 @@ Post Malone - White Iverson_segment9_brown_intensity_0.05.freqs,segment9_brown,0
 Travis Scott - NO BYSTANDERS (Audio)_segment6_white_intensity_0.05.freqs,segment6_white,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98936,true
 Travis Scott - NO BYSTANDERS (Audio)_segment8_brown_intensity_0.5.freqs,segment8_brown,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.99867,true
 Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.25.freqs,segment7_pink,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98849,true
-Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.5.freqs,segment10_pink,0.5,Avicii - Wake Me Up (Official Video).freqs,1.00119,true
+Avicii - Wake Me Up (Official Video)_segment10_pink_intensity_0.5.freqs,segment10_pink,0.5,OneRepublic - Counting Stars.freqs,1.00027,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment2_pink_intensity_0.35.freqs,segment2_pink,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.995953,true
 Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.35.freqs,segment6_brown,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,0.994526,true
 Post Malone - White Iverson_segment2_pink_intensity_0.25.freqs,segment2_pink,0.25,Post Malone - White Iverson.freqs,0.998379,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_white_intensity_0.45.freqs,segment3_white,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988612,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.1.freqs,segment6_white,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.994024,true
 Travis Scott - NO BYSTANDERS (Audio)_segment5_white_intensity_0.2.freqs,segment5_white,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.992889,true
-Post Malone - White Iverson_segment4_brown_intensity_0.35.freqs,segment4_brown,0.35,4th Dimension.freqs,0.999751,false
+Post Malone - White Iverson_segment4_brown_intensity_0.35.freqs,segment4_brown,0.35,Sabrina Carpenter - Espresso (Official Video).freqs,1,false
 Travis Scott - NO BYSTANDERS (Audio)_segment10_pink_intensity_0.35.freqs,segment10_pink,0.35,Travis Scott - NO BYSTANDERS (Audio).freqs,1.00087,true
 Post Malone - White Iverson_segment3_white_intensity_0.5.freqs,segment3_white,0.5,Post Malone - White Iverson.freqs,0.990789,true
 Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.25.freqs,segment7_brown,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.994577,true
 Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.5.freqs,segment7_brown,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.999233,true
-Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.15.freqs,segment4_brown,0.15,Coldplay - Viva La Vida (Official Video).freqs,1.00223,false
+Avicii - Wake Me Up (Official Video)_segment4_brown_intensity_0.15.freqs,segment4_brown,0.15,OneRepublic - Counting Stars.freqs,1.00143,false
 Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.4.freqs,segment5_brown,0.4,Post Malone - White Iverson.freqs,1.00059,false
-Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.5.freqs,segment2_brown,0.5,Post Malone - White Iverson.freqs,1.00052,false
-Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.45.freqs,segment7_brown,0.45,Post Malone - White Iverson.freqs,1.00092,false
+Avicii - Wake Me Up (Official Video)_segment2_brown_intensity_0.5.freqs,segment2_brown,0.5,Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars.freqs,0.999859,false
+Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.45.freqs,segment7_brown,0.45,Gorillaz - Feel Good Inc. (Official Video).freqs,1,false
 Post Malone - White Iverson_segment7_pink_intensity_0.3.freqs,segment7_pink,0.3,Post Malone - White Iverson.freqs,0.993184,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_intensity_0.25.freqs,segment8_pink,0.25,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989036,true
 Avicii - Wake Me Up (Official Video)_segment6_white_intensity_0.45.freqs,segment6_white,0.45,Avicii - Wake Me Up (Official Video).freqs,0.994798,true
 Post Malone - White Iverson_segment6_white_intensity_0.1.freqs,segment6_white,0.1,Post Malone - White Iverson.freqs,0.991452,true
 Travis Scott - NO BYSTANDERS (Audio)_segment6_brown_intensity_0.1.freqs,segment6_brown,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989871,true
 Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.05.freqs,segment7_pink,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.987518,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.05.freqs,segment10_pink,0.05,Sabrina Carpenter - Espresso (Official Video).freqs,1.00112,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_pink_intensity_0.05.freqs,segment10_pink,0.05,SUR LE PONT dAVIGNON -- Mach-Hommy Conductor Williams [OFFICIAL MUSIC VIDEO].freqs,1.00101,false
 Avicii - Wake Me Up (Official Video)_segment6_white_intensity_0.25.freqs,segment6_white,0.25,Avicii - Wake Me Up (Official Video).freqs,0.994959,true
 Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.05.freqs,segment10_white,0.05,Avicii - Wake Me Up (Official Video).freqs,0.994445,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_white_intensity_0.15.freqs,segment6_white,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988518,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.35.freqs,segment10_white,0.35,Imagine Dragons - Bones (Official Music Video).freqs,0.998528,false
-Post Malone - White Iverson_segment10_white_intensity_0.5.freqs,segment10_white,0.5,4th Dimension.freqs,0.998815,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.35.freqs,segment10_white,0.35,Gorillaz - Feel Good Inc. (Official Video).freqs,0.998501,false
+Post Malone - White Iverson_segment10_white_intensity_0.5.freqs,segment10_white,0.5,Gorillaz - Feel Good Inc. (Official Video).freqs,0.999251,false
 Post Malone - White Iverson_segment5_pink_intensity_0.2.freqs,segment5_pink,0.2,Post Malone - White Iverson.freqs,0.989721,true
 Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.15.freqs,segment6_brown,0.15,Avicii - Wake Me Up (Official Video).freqs,1.00209,true
 Travis Scott - NO BYSTANDERS (Audio)_segment7_brown_intensity_0.05.freqs,segment7_brown,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990741,true
@@ -1144,34 +1144,34 @@ Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.5.freqs,segment9
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_white_intensity_0.15.freqs,segment8_white,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.989695,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment9_pink_intensity_0.1.freqs,segment9_pink,0.1,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.984377,true
 Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.4.freqs,segment8_pink,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.994066,true
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.4.freqs,segment1_brown,0.4,Post Malone - White Iverson.freqs,1.00085,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.4.freqs,segment1_brown,0.4,Nirvana - Come As You Are (Official Music Video).freqs,1.00052,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_brown_intensity_0.15.freqs,segment8_brown,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.9904,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment5_pink_intensity_0.4.freqs,segment5_pink,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.9896,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.15.freqs,segment3_brown,0.15,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.98993,true
-Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.5.freqs,segment5_brown,0.5,4th Dimension.freqs,0.999376,false
-The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.25.freqs,segment1_brown,0.25,Coldplay - Viva La Vida (Official Video).freqs,1.00128,false
+Avicii - Wake Me Up (Official Video)_segment5_brown_intensity_0.5.freqs,segment5_brown,0.5,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1,false
+The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_brown_intensity_0.25.freqs,segment1_brown,0.25,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00114,false
 Avicii - Wake Me Up (Official Video)_segment3_pink_intensity_0.4.freqs,segment3_pink,0.4,Avicii - Wake Me Up (Official Video).freqs,0.998973,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_brown_intensity_0.4.freqs,segment3_brown,0.4,Travis Scott - NO BYSTANDERS (Audio).freqs,0.992787,true
 Travis Scott - NO BYSTANDERS (Audio)_segment8_pink_intensity_0.15.freqs,segment8_pink,0.15,Travis Scott - NO BYSTANDERS (Audio).freqs,0.989001,true
 Avicii - Wake Me Up (Official Video)_segment7_brown_intensity_0.05.freqs,segment7_brown,0.05,Avicii - Wake Me Up (Official Video).freqs,0.995505,true
-Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.5.freqs,segment6_brown,0.5,4th Dimension.freqs,1,false
+Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.5.freqs,segment6_brown,0.5,Frank Ocean - White Ferrari.freqs,1.00034,false
 Travis Scott - NO BYSTANDERS (Audio)_segment7_white_intensity_0.05.freqs,segment7_white,0.05,Travis Scott - NO BYSTANDERS (Audio).freqs,0.98849,true
 Post Malone - White Iverson_segment4_pink_intensity_0.05.freqs,segment4_pink,0.05,Post Malone - White Iverson.freqs,0.990126,true
 Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.45.freqs,segment2_white,0.45,Travis Scott - NO BYSTANDERS (Audio).freqs,0.983784,true
 Post Malone - White Iverson_segment3_white_intensity_0.45.freqs,segment3_white,0.45,Post Malone - White Iverson.freqs,0.991231,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment7_pink_intensity_0.2.freqs,segment7_pink,0.2,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.9904,true
-Post Malone - White Iverson_segment10_brown_intensity_0.4.freqs,segment10_brown,0.4,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,1.00108,false
+Post Malone - White Iverson_segment10_brown_intensity_0.4.freqs,segment10_brown,0.4,Gorillaz - Feel Good Inc. (Official Video).freqs,1.0002,false
 Post Malone - White Iverson_segment5_pink_intensity_0.4.freqs,segment5_pink,0.4,Post Malone - White Iverson.freqs,0.990347,true
 Travis Scott - NO BYSTANDERS (Audio)_segment3_white_intensity_0.25.freqs,segment3_white,0.25,Travis Scott - NO BYSTANDERS (Audio).freqs,0.984909,true
 Travis Scott - NO BYSTANDERS (Audio)_segment7_pink_intensity_0.5.freqs,segment7_pink,0.5,Travis Scott - NO BYSTANDERS (Audio).freqs,0.990945,true
-Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.4.freqs,segment3_brown,0.4,Sabrina Carpenter - Espresso (Official Video).freqs,1.00186,false
+Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.4.freqs,segment3_brown,0.4,Gorillaz - Feel Good Inc. (Official Video).freqs,1.00072,false
 Avicii - Wake Me Up (Official Video)_segment8_white_intensity_0.1.freqs,segment8_white,0.1,Avicii - Wake Me Up (Official Video).freqs,0.993899,true
 Avicii - Wake Me Up (Official Video)_segment6_white_intensity_0.05.freqs,segment6_white,0.05,Avicii - Wake Me Up (Official Video).freqs,0.995376,true
 Avicii - Wake Me Up (Official Video)_segment1_white_intensity_0.45.freqs,segment1_white,0.45,Avicii - Wake Me Up (Official Video).freqs,0.998876,true
 Post Malone - White Iverson_segment5_white_intensity_0.2.freqs,segment5_white,0.2,Post Malone - White Iverson.freqs,0.991047,true
 Travis Scott - NO BYSTANDERS (Audio)_segment1_white_intensity_0.2.freqs,segment1_white,0.2,Travis Scott - NO BYSTANDERS (Audio).freqs,0.983323,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_pink_intensity_0.45.freqs,segment6_pink,0.45,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.988801,true
-Post Malone - White Iverson_segment8_brown_intensity_0.5.freqs,segment8_brown,0.5,Imagine Dragons - Bones (Official Music Video).freqs,1.00125,false
+Post Malone - White Iverson_segment8_brown_intensity_0.5.freqs,segment8_brown,0.5,Djo - End Of Beginning.freqs,1.00104,false
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment8_pink_intensity_0.35.freqs,segment8_pink,0.35,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.993836,true
 Avicii - Wake Me Up (Official Video)_segment8_white_intensity_0.25.freqs,segment8_white,0.25,Avicii - Wake Me Up (Official Video).freqs,0.995408,true
 Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.4.freqs,segment10_white,0.4,Avicii - Wake Me Up (Official Video).freqs,0.997335,true
@@ -1186,7 +1186,7 @@ The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_int
 Post Malone - White Iverson_segment5_pink_intensity_0.3.freqs,segment5_pink,0.3,Post Malone - White Iverson.freqs,0.99031,true
 Post Malone - White Iverson_segment7_brown_intensity_0.4.freqs,segment7_brown,0.4,Post Malone - White Iverson.freqs,0.999337,true
 Post Malone - White Iverson_segment5_brown_intensity_0.15.freqs,segment5_brown,0.15,Post Malone - White Iverson.freqs,0.990642,true
-Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.4.freqs,segment6_brown,0.4,Post Malone - White Iverson.freqs,1.00144,false
+Avicii - Wake Me Up (Official Video)_segment6_brown_intensity_0.4.freqs,segment6_brown,0.4,ACDC - You Shook Me All Night Long (Official 4K Video).freqs,1.00077,false
 Travis Scott - NO BYSTANDERS (Audio)_segment1_white_intensity_0.1.freqs,segment1_white,0.1,Travis Scott - NO BYSTANDERS (Audio).freqs,0.982351,true
 Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.3.freqs,segment5_pink,0.3,Travis Scott - NO BYSTANDERS (Audio).freqs,0.992378,true
 The Weeknd Timeless with Playboi Carti (Official Music Video)_segment1_white_intensity_0.05.freqs,segment1_white,0.05,The Weeknd Timeless with Playboi Carti (Official Music Video).freqs,0.985601,true
