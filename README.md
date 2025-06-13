@@ -218,6 +218,33 @@ This output indicates that the system successfully identified the noisy segment 
 
 The reason for this is that we are comparing a short, noisy 10-second excerpt against the full 3-minute song. Since the segment represents only a small fraction of the total content and includes added noise, the compression-based similarity is naturally weaker. Nonetheless, the system correctly identifies the source song, validating the robustness of the NCD-based method even under challenging conditions.
 
+## Genre Identification
+
+```bash
+./match --genre --compressor zstd --query "queries_genre/pop_billie.freqs"
+Loaded genres: pop(1 files) rap(1 files) rock(1 files) 
+Genre: pop - Average NCD: 0.986518
+Genre: rap - Average NCD: 1.00486
+Genre: rock - Average NCD: 1.0033
+Identified Genre: pop with avg NCD: 0.986518
+Query: pop_billie.freqs => Identified Genre: pop
+```
+
+The queries used for genre identification testing consist of 10-second audio snippets, including both samples that are present within the database (part of the concatenated genre collections) and samples that are completely absent from the database.
+
+![Accuracy for Genre Identification by Compressor](media/genre_accuracy.png)
+
+- **LZMA** and **BZIP2** achieved the highest accuracies, suggesting that these compressors are more effective at capturing structural patterns among audio files of the same genre.
+
+- **SNAPPY** and **GZIP**, being compressors optimized for speed rather than deep compression, showed the lowest performance.
+
+- The performance appears to correlate with **compression efficiency**: the more sophisticated the compressor, the better its ability to identify patterns among similar files.
+
+During the implementation of genre identification, an alternative approach was tested where each genre folder contained multiple individual songs instead of a single concatenated file. However, this introduced issues related to file size discrepancies—some songs within the same genre were significantly longer than others. This imbalance could bias the Normalized Compression Distance (NCD), causing it to favor larger files and potentially leading to incorrect genre predictions.
+
+To mitigate this, the final approach involved concatenating all songs within each genre into a single file. This ensured that different songs from the same genre were still represented, while also maintaining consistent file sizes across genres. As a result, the influence of individual song length was reduced, leading to more reliable and fairer comparisons during genre classification.
+
+
 ### Requirements
 ### Python Dependencies
 
