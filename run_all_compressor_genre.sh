@@ -13,5 +13,5 @@ EXECUTABLE="./match"
 for compressor in "${compressors[@]}"
 do
     echo "Running with compressor: $compressor"
-    $EXECUTABLE --compressor "$compressor" --output "results/results_${compressor}.csv"
+    $EXECUTABLE --genre --compressor "$compressor" --output "results/results_${compressor}.csv"
 done

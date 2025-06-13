@@ -1,0 +1,26 @@
+music query,identified genre,confidence,expected genre,correct
+rap_The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.35.freqs,rap,0.0040542,rap,true
+rap_The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.05.freqs,rap,0.0040542,rap,true
+rock_duality_2.freqs,rap,0.00234717,rock,false
+pop_billie.freqs,pop,0.0174224,pop,true
+rap_Post Malone - White Iverson_segment9_pink_intensity_0.1.freqs,rap,0.00330737,rap,true
+pop_Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.15.freqs,rap,0.0029873,pop,false
+rap_Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.25.freqs,rap,0.00288061,rap,true
+rap_Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.2.freqs,rap,0.00320068,rap,true
+rap_The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.5.freqs,rap,0.00288061,rap,true
+rap_Post Malone - White Iverson_segment6_brown_intensity_0.35.freqs,rap,0.00352075,rap,true
+pop_houdini_1.freqs,pop,0.00326173,pop,true
+rap_Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.4.freqs,rock,0.0028581,rap,false
+pop_Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.45.freqs,pop,0.00270485,pop,true
+pop_Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.2.freqs,rap,0.00352075,pop,false
+pop_espresso.freqs,pop,0.0181384,pop,true
+rap_The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.3.freqs,rap,0.00362744,rap,true
+pop_Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.1.freqs,rock,0.00268998,pop,false
+pop_houdini_2.freqs,rap,0.00394751,pop,false
+rap_Post Malone - White Iverson_segment7_pink_intensity_0.2.freqs,rap,0.00309399,rap,true
+rock_numb.freqs,rock,0.00294217,rock,true
+rock_black_2.freqs,pop,0.00246619,rock,false
+rock_duality_1.freqs,pop,0.00342084,rock,false
+rap_Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.1.freqs,rap,0.00245386,rap,true
+rap_Post Malone - White Iverson_segment7_white_intensity_0.3.freqs,rap,0.00330737,rap,true
+rock_black_1.freqs,rap,0.00352075,rock,false

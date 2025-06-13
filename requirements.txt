@@ -5,3 +5,4 @@ pydub
 pandas
 matplotlib
 scikit-learn
+lz4

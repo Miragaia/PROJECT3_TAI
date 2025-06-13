@@ -1,0 +1,26 @@
+music query,identified genre,confidence,expected genre,correct
+rap_The Weeknd Timeless with Playboi Carti (Official Music Video)_segment6_brown_intensity_0.35.freqs,rap,0.00035464,rap,true
+rap_The Weeknd Timeless with Playboi Carti (Official Music Video)_segment10_white_intensity_0.05.freqs,rock,-0.00026683,rap,false
+rock_duality_2.freqs,rock,0.000392397,rock,true
+pop_billie.freqs,pop,0.00682862,pop,true
+rap_Post Malone - White Iverson_segment9_pink_intensity_0.1.freqs,rock,-0.00111441,rap,false
+pop_Avicii - Wake Me Up (Official Video)_segment10_white_intensity_0.15.freqs,rock,0.00026683,pop,false
+rap_Travis Scott - NO BYSTANDERS (Audio)_segment2_brown_intensity_0.25.freqs,rock,-0.00102023,rap,false
+rap_Travis Scott - NO BYSTANDERS (Audio)_segment9_white_intensity_0.2.freqs,rap,0.000521529,rap,true
+rap_The Weeknd Timeless with Playboi Carti (Official Music Video)_segment3_brown_intensity_0.5.freqs,rap,0.000229473,rap,true
+rap_Post Malone - White Iverson_segment6_brown_intensity_0.35.freqs,rock,-0.000737706,rap,false
+pop_houdini_1.freqs,rock,-0.00163237,pop,false
+rap_Travis Scott - NO BYSTANDERS (Audio)_segment2_white_intensity_0.4.freqs,rap,2.08611e-05,rap,true
+pop_Avicii - Wake Me Up (Official Video)_segment4_white_intensity_0.45.freqs,rock,-0.00053366,pop,false
+pop_Avicii - Wake Me Up (Official Video)_segment3_brown_intensity_0.2.freqs,rock,-0.00111441,pop,false
+pop_espresso.freqs,pop,0.00997545,pop,true
+rap_The Weeknd Timeless with Playboi Carti (Official Music Video)_segment4_white_intensity_0.3.freqs,rap,0.00223214,rap,true
+pop_Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.1.freqs,pop,-0.00182516,pop,true
+pop_houdini_2.freqs,rap,0.000292056,pop,false
+rap_Post Malone - White Iverson_segment7_pink_intensity_0.2.freqs,rap,0.000292056,rap,true
+rock_numb.freqs,rock,-0.000549356,rock,true
+rock_black_2.freqs,rock,-0.0018992,rock,true
+rock_duality_1.freqs,rock,-0.00230729,rock,true
+rap_Travis Scott - NO BYSTANDERS (Audio)_segment5_pink_intensity_0.1.freqs,rap,0.000876168,rap,true
+rap_Post Malone - White Iverson_segment7_white_intensity_0.3.freqs,rap,0.000625834,rap,true
+rock_black_1.freqs,pop,-0.000487759,rock,false

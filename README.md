@@ -88,9 +88,103 @@ For each combination of audio file, noise type, and intensity, the program:
 
 ## Implementation
 
-### Main
+The developed program provides two main functionalities:
 
-//falar main, utilities e compressores usados
+- Music identification from a short audio sample
+
+- Music genre classification
+
+Both functionalities rely on the use of the Normalized Compression Distance (NCD), a similarity metric that estimates the distance between two files based on their compressibility. For each task, the NCD is computed between the input file (query sample) and each file in the database.
+
+To implement these functionalities, the system is composed of the following source files:
+
+- `main.cpp`
+- `freq_loader.cpp`
+- `ncd.cpp`
+- `utils.cpp`
+
+Along with their corresponding header files:
+
+- `freq_loader.hpp`
+- `ncd.hpp`
+- `utils.hpp`
+
+
+# Main Program (main.cpp)
+
+The main program provides comprehensive support for both music identification and genre classification using command-line arguments.
+
+## Command-Line Arguments
+
+| Argument | Description |
+|----------|-------------|
+| `--compressor` | Specifies which compression algorithm to use (e.g., gzip, bzip2, zstd, lzma, lzo, snappy, lz4) |
+| `--query` | Defines the search query |
+| `--output` | Sets the output destination for results |
+| `--genre` | Runs the program in genre classification mode |
+
+## Operating Modes
+
+### Music Identification Mode
+- Computes the Normalized Compression Distance (NCD) between a query and all database entries
+- Selects the entry with the lowest distance as the match
+- Default mode when `--genre` flag is not specified
+
+### Genre Classification Mode
+- Activated with the `--genre` flag
+- Calculates NCD for each genre using 10-minute audio samples
+- Each genre sample consists of concatenated songs from that specific genre
+
+## Core Features
+
+### Database Management
+- **File Loading**: Automatically loads frequency files with `.freqs` extension
+- **Flat Structure**: Uses simple list for music identification tasks
+- **Genre Structure**: Organizes data into genre-separated format using custom `GenreDatabase` struct
+
+### Query Processing
+- **Single File**: Processes individual audio files
+- **Batch Processing**: Evaluates all files within a specified directory
+
+### Results Output
+- **CSV Format**: Generates detailed CSV files for both identification and classification tasks
+- **Comprehensive Metrics**: Includes noise type, intensity, NCD values, expected results, and confidence levels
+- **Organized Data**: Structured output for easy analysis and comparison
+
+## Dependencies
+
+The program relies on several helper modules:
+- **freq_loader**: Handles frequency file loading and parsing
+- **ncd**: Implements Normalized Compression Distance calculations(**ncd.cpp**)
+- **utils**: Provides utility functions and data structures(**utils.cpp**)
+- **GenreDatabase**: Custom struct for organizing genre-specific data
+
+## NCD(**ncd.cpp**)
+
+In this program, the NCD is calculated using the formula:
+
+![NCD Formula](media/ncd.png)
+
+
+## Utils(**utils.cpp**)
+
+This program includes implementations for all the compression algorithms used throughout the project, which are:
+
+- **GZIP**
+- **BZIP2**
+- **Zstandard (ZSTD)**
+- **LZMA**
+- **LZO**
+- **Snappy**
+- **LZ4**
+
+These compressors are used to compute the compressed sizes required for NCD calculation, enabling a comparative analysis of their effectiveness in music and genre identification tasks.
+
+## Results
+
+# Music Identification
+
+
 
 ### Requirements
 ### Python Dependencies
