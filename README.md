@@ -76,7 +76,7 @@ For each combination of audio file, noise type, and intensity, the program:
 
 - Retrieves the duration and sample rate of the input audio using soxi.
 
-- Ge- nerates a noise file of the same duration and sample rate using sox with the synth command and the specified noise type.
+- Generates a noise file of the same duration and sample rate using sox with the synth command and the specified noise type.
 
 - Mixes the original audio with the generated noise using the sox -m command, scaling the noise volume according to the specified intensity (e.g., -v 0.2 for 20% noise intensity).
 
@@ -271,6 +271,12 @@ These visualizations confirm that:
 - snappy and lzma are not recommended for this application due to low accuracy and instability.
 
 Choosing the right compressor is essential to achieving reliable music identification with compression-based similarity measures.
+
+### ROC (Receiver Operating Characteristic) Curve
+
+![ROC Plot for ](plots/roc_plots/results_gzip_roc.png)
+
+The ROC curve above evaluates the performance of our music identification system using the GZIP compressor for similarity calculation. With an AUC (Area Under the Curve) of 0.82, the system demonstrates strong discriminative capability, effectively distinguishing between matching and non-matching songs. This result confirms that using compression-based similarity with GZIP produces meaningful signatures for accurate music identification.
 
 ## Genre Identification
 
