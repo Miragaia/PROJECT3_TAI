@@ -180,11 +180,43 @@ This program includes implementations for all the compression algorithms used th
 
 These compressors are used to compute the compressed sizes required for NCD calculation, enabling a comparative analysis of their effectiveness in music and genre identification tasks.
 
-## Results
+# Results
 
-# Music Identification
+## Music Identification
+The goal of the music identification task is to recognize which song in the database most closely matches a given audio query, typically a short noisy excerpt. The system relies on the Normalized Compression Distance (NCD) to quantify similarity between audio files that have been converted into frequency-based representations.
 
+### How It Works
 
+1. Audio files are preprocessed into `.freqs` signatures using a custom implementation of the `GetMaxFreqs` function (originally in C++, rewritten in Python).
+2. Each query segment (with or without added noise) is compared to all `.freqs` files in the database using NCD.
+3. The song with the lowest NCD is selected as the best match.
+
+### Pipeline Overview
+
+```text
+.wav audio ──▶ get_max_freqs.py ──▶ .freqs signature ──▶ NCD matching ──▶ predicted match
+                (downsampling + FFT)
+```
+
+NCD captures the shared information content between files without relying on domain-specific features. By applying compression to combined files, we estimate how well one signal explains the other — a strong candidate for similarity-based tasks like music fingerprinting.
+
+### Testing and Evaluation
+
+- Query segments are created with varying levels and types of noise (white, pink, brown).
+
+- The identification process is tested across multiple compressors to assess performance.
+
+- Output CSVs include distance values, noise type, intensity, predicted result, and whether it matches the expected song.
+
+### Sample Output
+
+```bash
+./match --compressor zstd --query "queries/Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.1.freqs"
+Query: Avicii - Wake Me Up (Official Video)_segment1_brown_intensity_0.1.freqs => Best Match: Avicii - Wake Me Up (Official Video).freqs (NCD = 1.00372)
+```
+This output indicates that the system successfully identified the noisy segment (with 10% brown noise) as belonging to the correct song, “Avicii - Wake Me Up (Official Video).” The reported NCD value of 1.00372 is relatively high, which is expected in this context.
+
+The reason for this is that we are comparing a short, noisy 10-second excerpt against the full 3-minute song. Since the segment represents only a small fraction of the total content and includes added noise, the compression-based similarity is naturally weaker. Nonetheless, the system correctly identifies the source song, validating the robustness of the NCD-based method even under challenging conditions.
 
 ### Requirements
 ### Python Dependencies
