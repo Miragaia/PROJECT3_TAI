@@ -18,8 +18,6 @@ We implemented in Python the frequency extraction function originally provided b
 
 ## Dataset
 
-//change this later(n sei que escrever)
-
 For this project, we selected 26 songs across diverse musical genres to create a comprehensive dataset for testing. Our selection includes tracks from various styles such as rock, hip-hop, electronic, pop, alternative, and metal, ensuring sufficient genre diversity to evaluate the robustness of our implementation. This varied collection allows us to test whether NCD can effectively distinguish between audio excerpts and accurately identify their source tracks, regardless of musical style or complexity. The dataset serves as a foundation for analyzing how compression-based similarity measures perform in audio pattern recognition tasks.
 
 | Artista | Música |
@@ -54,9 +52,7 @@ For this project, we selected 26 songs across diverse musical genres to create a
 
 ## Frequency File
 
-//write this better later
-
-We craeted a bash script **generate_signatures.sh** that converts the inital audio files in .wav format to .freqs format and stores them in the database folder.
+We created a bash script **generate_signatures.sh** that converts the inital audio files in .wav format to .freqs format and stores them in the database folder.
 
 # Test Queries
 
@@ -290,7 +286,7 @@ Query: pop_billie.freqs => Identified Genre: pop
 
 The queries used for genre identification testing consist of 10-second audio snippets, including both samples that are present within the database (part of the concatenated genre collections) and samples that are completely absent from the database.
 
-![Accuracy for Genre Identification by Compressor](media/genre_accuracy.png)
+![Accuracy for Genre Identification by Compressor](plots/genre_accuracy.png)
 
 - **LZMA** and **BZIP2** achieved the highest accuracies, suggesting that these compressors are more effective at capturing structural patterns among audio files of the same genre.
 
